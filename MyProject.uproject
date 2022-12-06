@@ -18,6 +18,14 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		},
+		{
+			"Name": "LightWeightInstancesEditor",
+			"Enabled": true
 		}
 	]
 }
