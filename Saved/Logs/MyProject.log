@@ -1307,3 +1307,316 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.04.30-09.24.43:781][799]LogContentValidation: Display: Validating PostProcessVolume /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.PostProcessVolume_0
 [2023.04.30-09.24.43:781][799]LogContentValidation: Display: Validating DirectionalLight /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.DirectionalLight_0
 [2023.04.30-09.24.43:781][799]LogContentValidation: Display: Validating SkyAtmosphere /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.SkyAtmosphere_0
+[2023.04.30-09.39.19:988][543]LogSlate: Took 0.020671 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.30-09.39.20:049][543]LogSlate: Took 0.018387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.30-09.40.11:802][ 47]LogWindowsTextInputMethodSystem: Activated input method: Arabic (Iraq) - (Keyboard).
+[2023.04.30-09.40.11:802][ 47]LogWindowsTextInputMethodSystem: Activated input method: Arabic (Iraq) - (Keyboard).
+[2023.04.30-09.40.54:310][187]LogSlate: Took 0.016459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2023.04.30-09.42.29:089][822]LogStaticMesh: Display: Building static mesh 2-3_Mesh1...
+[2023.04.30-09.42.29:148][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-3_Mesh1.2-3_Mesh1
+[2023.04.30-09.42.29:148][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-3_Mesh1.2-3_Mesh1
+[2023.04.30-09.42.29:167][822]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/2-3_Mesh1.2-3_Mesh1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_0
+[2023.04.30-09.42.29:184][822]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/2-3_Mesh1) ...
+[2023.04.30-09.42.29:241][823]LogStaticMesh: Built static mesh [0.14s] /Game/LevelPrototyping/Meshes/2-3_Mesh1.2-3_Mesh1
+[2023.04.30-09.42.31:558][935]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-3_Mesh1.2-3_Mesh1
+[2023.04.30-09.42.31:558][935]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-3_Mesh1.2-3_Mesh1
+[2023.04.30-09.42.31:560][935]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/2-3_Mesh1.2-3_Mesh1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1211237207
+[2023.04.30-09.42.32:116][960]LogMeshUtilities: Finished distance field build in 2.9s - 126x126x28 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 68% occupied, 458 triangles, 2-3_Mesh1
+[2023.04.30-09.42.59:027][665]LogViewport: Scene viewport resized to 1296x764, mode Windowed.
+[2023.04.30-09.43.00:220][705]LogViewport: Scene viewport resized to 1523x858, mode Windowed.
+[2023.04.30-09.43.46:688][740]LogStaticMesh: Display: Building static mesh 2-4_Mesh1...
+[2023.04.30-09.43.46:694][740]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/2-4_Mesh1.2-4_Mesh1
+[2023.04.30-09.43.46:871][741]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-4_Mesh1.2-4_Mesh1
+[2023.04.30-09.43.46:871][741]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-4_Mesh1.2-4_Mesh1
+[2023.04.30-09.43.46:871][741]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/2-4_Mesh1.2-4_Mesh1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_1
+[2023.04.30-09.43.48:407][820]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x28 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 75% occupied, 67 triangles, 2-4_Mesh1
+[2023.04.30-09.43.49:831][897]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-4_Mesh1.2-4_Mesh1
+[2023.04.30-09.43.49:831][897]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-4_Mesh1.2-4_Mesh1
+[2023.04.30-09.43.49:831][897]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/2-4_Mesh1.2-4_Mesh1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1289509208
+[2023.04.30-09.44.38:714][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.04.30-09.44.38:731][230]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/F4/LRQW2XL2HCGHN1CZ1CPPB9_Auto1
+[2023.04.30-09.44.38:731][230]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/LRQW2XL2HCGHN1CZ1CPPB9_Auto134E22D5B406AA818FA49D896F8FF747F.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/F4/LRQW2XL2HCGHN1CZ1CPPB9_Auto1.uasset'
+[2023.04.30-09.44.38:734][230]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/NG/9QC2V6FPZZUFOLC2Z0KYZE_Auto1
+[2023.04.30-09.44.38:735][230]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/9QC2V6FPZZUFOLC2Z0KYZE_Auto1CC88778C422281DD934687AA7A5EB2E8.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/NG/9QC2V6FPZZUFOLC2Z0KYZE_Auto1.uasset'
+[2023.04.30-09.44.38:736][230]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleTemplate/Maps/VehicleExampleMap' took 0.036
+[2023.04.30-09.44.38:736][230]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2023.04.30-09.47.34:412][996]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-5.2-5
+[2023.04.30-09.47.34:412][996]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-5.2-5
+[2023.04.30-09.47.34:412][996]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/2-5.2-5 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_2
+[2023.04.30-09.47.37:098][136]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-5.2-5
+[2023.04.30-09.47.37:098][136]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-5.2-5
+[2023.04.30-09.47.37:099][136]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/2-5.2-5 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1516776209
+[2023.04.30-09.48.14:157][ 30]Cmd: TRANSACTION UNDO
+[2023.04.30-09.48.14:157][ 30]LogEditorTransaction: Undo Move Elements
+[2023.04.30-09.48.15:908][ 33]Cmd: TRANSACTION UNDO
+[2023.04.30-09.48.15:908][ 33]LogEditorTransaction: Undo Move Elements
+[2023.04.30-09.48.17:214][101]Cmd: TRANSACTION REDO
+[2023.04.30-09.48.17:214][101]LogEditorTransaction: Redo Move Elements
+[2023.04.30-09.48.37:773][ 95]LogStaticMesh: Display: Building static mesh 2-6...
+[2023.04.30-09.48.37:773][ 95]LogStaticMesh: Built static mesh [0.00s] /Game/LevelPrototyping/Meshes/2-6.2-6
+[2023.04.30-09.48.38:228][108]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-6.2-6
+[2023.04.30-09.48.38:228][108]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-6.2-6
+[2023.04.30-09.48.38:228][108]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/2-6.2-6 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_3
+[2023.04.30-09.48.39:543][177]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x28 sparse distance field, 0.7Mb total, 0.0Mb always loaded, 100% occupied, 4 triangles, 2-6
+[2023.04.30-09.48.40:960][251]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-6.2-6
+[2023.04.30-09.48.40:960][251]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-6.2-6
+[2023.04.30-09.48.40:961][251]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/2-6.2-6 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1580638210
+[2023.04.30-09.50.03:462][856]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.04.30-09.50.03:463][856]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.04.30-09.50.16:780][384]LogEditorViewport: Clicking Background
+[2023.04.30-09.50.31:761][998]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-6.2-6
+[2023.04.30-09.50.31:761][998]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-6.2-6
+[2023.04.30-09.50.31:761][998]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/2-6.2-6 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_4
+[2023.04.30-09.50.33:425][ 75]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-6.2-6
+[2023.04.30-09.50.33:425][ 75]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-6.2-6
+[2023.04.30-09.50.33:426][ 75]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/2-6.2-6 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1693103211
+[2023.04.30-09.51.28:825][394]LogStaticMesh: Display: Building static mesh 2-7...
+[2023.04.30-09.51.28:825][394]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/2-7.2-7
+[2023.04.30-09.51.29:191][402]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-7.2-7
+[2023.04.30-09.51.29:191][402]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-7.2-7
+[2023.04.30-09.51.29:191][402]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/2-7.2-7 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_5
+[2023.04.30-09.51.30:089][448]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x28 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 64% occupied, 14 triangles, 2-7
+[2023.04.30-09.51.31:293][503]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-7.2-7
+[2023.04.30-09.51.31:293][503]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-7.2-7
+[2023.04.30-09.51.31:293][503]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/2-7.2-7 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1750971212
+[2023.04.30-09.52.35:116][261]LogStaticMesh: Display: Building static mesh 2-8...
+[2023.04.30-09.52.35:116][261]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/2-8.2-8
+[2023.04.30-09.52.35:504][271]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-8.2-8
+[2023.04.30-09.52.35:504][271]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-8.2-8
+[2023.04.30-09.52.35:504][271]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/2-8.2-8 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_6
+[2023.04.30-09.52.36:778][341]LogMeshUtilities: Finished distance field build in 1.6s - 126x126x28 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 80% occupied, 50 triangles, 2-8
+[2023.04.30-09.52.37:230][364]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-8.2-8
+[2023.04.30-09.52.37:230][364]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-8.2-8
+[2023.04.30-09.52.37:231][364]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/2-8.2-8 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1816908213
+[2023.04.30-09.53.23:392][514]LogStaticMesh: Display: Building static mesh 2-8_alt...
+[2023.04.30-09.53.23:398][514]LogStaticMesh: Built static mesh [0.02s] /Game/LevelPrototyping/Meshes/2-8_alt.2-8_alt
+[2023.04.30-09.53.24:101][535]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-8_alt.2-8_alt
+[2023.04.30-09.53.24:101][535]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-8_alt.2-8_alt
+[2023.04.30-09.53.24:101][535]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/2-8_alt.2-8_alt as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_7
+[2023.04.30-09.53.26:259][647]LogMeshUtilities: Finished distance field build in 2.8s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 45% occupied, 77 triangles, 2-8_alt
+[2023.04.30-09.53.28:477][748]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-8_alt.2-8_alt
+[2023.04.30-09.53.28:477][748]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/2-8_alt.2-8_alt
+[2023.04.30-09.53.28:478][748]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/2-8_alt.2-8_alt as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1868155214
+[2023.04.30-09.53.51:188][621]Cmd: DELETE
+[2023.04.30-09.53.51:188][621]Cmd: ACTOR DELETE
+[2023.04.30-09.53.51:235][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.30-09.53.51:244][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.04.30-09.53.51:245][621]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2023.04.30-09.54.19:176][699]LogStaticMesh: Display: Building static mesh 3-1...
+[2023.04.30-09.54.19:181][699]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/3-1.3-1
+[2023.04.30-09.54.19:399][702]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-1.3-1
+[2023.04.30-09.54.19:399][702]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-1.3-1
+[2023.04.30-09.54.19:400][702]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/3-1.3-1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_8
+[2023.04.30-09.54.21:539][807]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-1.3-1
+[2023.04.30-09.54.21:539][807]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-1.3-1
+[2023.04.30-09.54.21:540][807]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/3-1.3-1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1921217215
+[2023.04.30-09.54.22:195][838]LogMeshUtilities: Finished distance field build in 3.0s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 49% occupied, 12 triangles, 3-1
+[2023.04.30-09.55.11:836][ 36]LogMaterial: Display: Missing cached shadermap for _0027_PeachPuff_1 in PCD3D_SM5, Default, SM5 (DDC key hash: AA464D37A3564B111175B4348F5CD675D6241AB8), compiling. 
+[2023.04.30-09.55.11:985][ 36]LogStaticMesh: Display: Building static mesh 3-2_Mesh1...
+[2023.04.30-09.55.11:999][ 36]LogStaticMesh: Built static mesh [0.02s] /Game/LevelPrototyping/Meshes/3-2_Mesh1.3-2_Mesh1
+[2023.04.30-09.55.12:037][ 36]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh1.3-2_Mesh1
+[2023.04.30-09.55.12:037][ 36]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh1.3-2_Mesh1
+[2023.04.30-09.55.12:037][ 36]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh1.3-2_Mesh1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_9
+[2023.04.30-09.55.13:980][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh1.3-2_Mesh1
+[2023.04.30-09.55.13:980][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh1.3-2_Mesh1
+[2023.04.30-09.55.13:981][131]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh1.3-2_Mesh1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1973658216
+[2023.04.30-09.55.14:733][168]LogMeshUtilities: Finished distance field build in 2.7s - 126x126x126 sparse distance field, 1.3Mb total, 0.1Mb always loaded, 35% occupied, 148 triangles, 3-2_Mesh1
+[2023.04.30-09.55.18:109][298]LogShaderCompilers: Display: ================================================
+[2023.04.30-09.55.18:109][298]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.30-09.55.18:109][298]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2023.04.30-09.55.18:109][298]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.04.30-09.55.18:109][298]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.04.30-09.55.18:109][298]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.30-09.55.18:109][298]LogShaderCompilers: Display: Shaders Compiled: 16
+[2023.04.30-09.55.18:109][298]LogShaderCompilers: Display: Jobs assigned 13, completed 1 (7.69%)
+[2023.04.30-09.55.18:109][298]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.04.30-09.55.18:120][298]LogShaderCompilers: Display: Time job spent in pending queue: average 0.54 s, longest 6.09 s
+[2023.04.30-09.55.18:121][298]LogShaderCompilers: Display: Job execution time: average 6.02 s, max 6.02 s
+[2023.04.30-09.55.18:121][298]LogShaderCompilers: Display: Job life time (pending + execution): average 6.09 s, max 6.09
+[2023.04.30-09.55.18:121][298]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.09 s
+[2023.04.30-09.55.18:121][298]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.44 jobs/batch
+[2023.04.30-09.55.18:121][298]LogShaderCompilers: Display: Average processing rate: 0.16 jobs/sec
+[2023.04.30-09.55.18:121][298]LogShaderCompilers: Display: Effective parallelization: 0.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.30-09.55.18:121][298]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.04.30-09.55.18:121][298]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2023.04.30-09.55.18:121][298]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.04.30-09.55.18:121][298]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2023.04.30-09.55.18:121][298]LogShaderCompilers: Display: ================================================
+[2023.04.30-09.55.46:639][447]LogStaticMesh: Display: Building static mesh 3-2_Mesh2...
+[2023.04.30-09.55.46:666][447]LogStaticMesh: Built static mesh [0.02s] /Game/LevelPrototyping/Meshes/3-2_Mesh2.3-2_Mesh2
+[2023.04.30-09.55.47:229][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh2.3-2_Mesh2
+[2023.04.30-09.55.47:229][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh2.3-2_Mesh2
+[2023.04.30-09.55.47:229][462]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh2.3-2_Mesh2 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_10
+[2023.04.30-09.55.49:111][555]LogMeshUtilities: Finished distance field build in 2.4s - 126x126x126 sparse distance field, 1.3Mb total, 0.1Mb always loaded, 36% occupied, 148 triangles, 3-2_Mesh2
+[2023.04.30-09.55.49:396][567]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh2.3-2_Mesh2
+[2023.04.30-09.55.49:396][567]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh2.3-2_Mesh2
+[2023.04.30-09.55.49:397][567]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh2.3-2_Mesh2 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_2009074217
+[2023.04.30-09.56.51:039][178]LogEditorViewport: Clicking Background
+[2023.04.30-09.56.58:478][461]LogEditorViewport: Clicking Background
+[2023.04.30-09.57.54:988][725]LogStaticMesh: Display: Building static mesh 3-2_Mesh3...
+[2023.04.30-09.57.55:023][725]LogStaticMesh: Built static mesh [0.02s] /Game/LevelPrototyping/Meshes/3-2_Mesh3.3-2_Mesh3
+[2023.04.30-09.57.55:255][729]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh3.3-2_Mesh3
+[2023.04.30-09.57.55:255][729]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh3.3-2_Mesh3
+[2023.04.30-09.57.55:255][729]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh3.3-2_Mesh3 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_11
+[2023.04.30-09.57.57:771][845]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh3.3-2_Mesh3
+[2023.04.30-09.57.57:771][845]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh3.3-2_Mesh3
+[2023.04.30-09.57.57:772][845]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh3.3-2_Mesh3 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_2137449218
+[2023.04.30-09.57.57:929][850]LogMeshUtilities: Finished distance field build in 2.9s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 41% occupied, 134 triangles, 3-2_Mesh3
+[2023.04.30-10.00.09:028][425]LogStaticMesh: Display: Building static mesh 3-2_Mesh4...
+[2023.04.30-10.00.09:028][425]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/3-2_Mesh4.3-2_Mesh4
+[2023.04.30-10.00.09:250][427]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh4.3-2_Mesh4
+[2023.04.30-10.00.09:250][427]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh4.3-2_Mesh4
+[2023.04.30-10.00.09:250][427]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh4.3-2_Mesh4 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_12
+[2023.04.30-10.00.10:210][478]LogMeshUtilities: Finished distance field build in 1.1s - 126x126x21 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 78% occupied, 16 triangles, 3-2_Mesh4
+[2023.04.30-10.00.13:975][669]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh4.3-2_Mesh4
+[2023.04.30-10.00.13:975][669]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh4.3-2_Mesh4
+[2023.04.30-10.00.13:976][669]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/3-2_Mesh4.3-2_Mesh4 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C127E01_1199911395
+[2023.04.30-10.05.20:453][678]LogEditorViewport: Clicking Background
+[2023.04.30-10.05.42:717][514]LogStaticMesh: Display: Building static mesh 3-3_Mesh1...
+[2023.04.30-10.05.42:720][514]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/3-3_Mesh1.3-3_Mesh1
+[2023.04.30-10.05.42:951][516]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-3_Mesh1.3-3_Mesh1
+[2023.04.30-10.05.42:951][516]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-3_Mesh1.3-3_Mesh1
+[2023.04.30-10.05.42:951][516]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/3-3_Mesh1.3-3_Mesh1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_13
+[2023.04.30-10.05.44:926][607]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-3_Mesh1.3-3_Mesh1
+[2023.04.30-10.05.44:926][607]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/3-3_Mesh1.3-3_Mesh1
+[2023.04.30-10.05.44:927][607]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/3-3_Mesh1.3-3_Mesh1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C127E01_1530862396
+[2023.04.30-10.05.47:823][721]LogMeshUtilities: Finished distance field build in 5.1s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 44% occupied, 102 triangles, 3-3_Mesh1
+[2023.04.30-10.06.58:981][630]LogStaticMesh: Display: Building static mesh 4-1_Mesh1...
+[2023.04.30-10.06.59:070][630]LogStaticMesh: Built static mesh [0.09s] /Game/LevelPrototyping/Meshes/4-1_Mesh1.4-1_Mesh1
+[2023.04.30-10.06.59:459][643]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-1_Mesh1.4-1_Mesh1
+[2023.04.30-10.06.59:459][643]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-1_Mesh1.4-1_Mesh1
+[2023.04.30-10.06.59:459][643]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/4-1_Mesh1.4-1_Mesh1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_14
+[2023.04.30-10.07.01:449][733]LogMeshUtilities: Finished distance field build in 2.4s - 126x126x28 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 75% occupied, 1036 triangles, 4-1_Mesh1
+[2023.04.30-10.07.01:953][752]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-1_Mesh1.4-1_Mesh1
+[2023.04.30-10.07.01:953][752]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-1_Mesh1.4-1_Mesh1
+[2023.04.30-10.07.01:954][752]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/4-1_Mesh1.4-1_Mesh1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C127E01_1607889397
+[2023.04.30-10.08.36:706][997]LogEditorViewport: Clicking Background
+[2023.04.30-10.08.52:134][152]LogWindowsTextInputMethodSystem: Activated input method: Arabic (Iraq) - (Keyboard).
+[2023.04.30-10.08.52:135][152]LogWindowsTextInputMethodSystem: Activated input method: Arabic (Iraq) - (Keyboard).
+[2023.04.30-10.09.24:964][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.04.30-10.09.24:967][705]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/F4/LRQW2XL2HCGHN1CZ1CPPB9_Auto2
+[2023.04.30-10.09.24:967][705]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/LRQW2XL2HCGHN1CZ1CPPB9_Auto278F960DF47BF5AC8F9DDB7A3BF2E7FF4.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/F4/LRQW2XL2HCGHN1CZ1CPPB9_Auto2.uasset'
+[2023.04.30-10.09.24:970][705]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/0/WF/5ZZBOPCK6QIKBDXGZ9CWKL_Auto2
+[2023.04.30-10.09.24:970][705]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/5ZZBOPCK6QIKBDXGZ9CWKL_Auto2D326A7B2453026E332BEA3954E948EE6.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/0/WF/5ZZBOPCK6QIKBDXGZ9CWKL_Auto2.uasset'
+[2023.04.30-10.09.24:974][705]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/2N/TYIZRC1RIDBIOF8922LDB0_Auto2
+[2023.04.30-10.09.24:974][705]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/TYIZRC1RIDBIOF8922LDB0_Auto2C185182A478CCA3AACA4C396837DC6F6.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/2N/TYIZRC1RIDBIOF8922LDB0_Auto2.uasset'
+[2023.04.30-10.09.24:978][705]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/RV/927VIB9L09H7OZDFBI5N0J_Auto2
+[2023.04.30-10.09.24:978][705]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/927VIB9L09H7OZDFBI5N0J_Auto27281C5664F5331D0387682A90E32944E.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/RV/927VIB9L09H7OZDFBI5N0J_Auto2.uasset'
+[2023.04.30-10.09.24:981][705]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/4J/TFTN2JCBVR7RVGRAIB3X4W_Auto2
+[2023.04.30-10.09.24:981][705]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/TFTN2JCBVR7RVGRAIB3X4W_Auto2773079F84B2134E7F14FB6A84FD869EA.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/4J/TFTN2JCBVR7RVGRAIB3X4W_Auto2.uasset'
+[2023.04.30-10.09.24:985][705]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/1B/K2KL0QTW06QP3UOUL1HTU6_Auto2
+[2023.04.30-10.09.24:985][705]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/K2KL0QTW06QP3UOUL1HTU6_Auto211CA6008455BFFE84F5AC7A42A020B5E.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/1B/K2KL0QTW06QP3UOUL1HTU6_Auto2.uasset'
+[2023.04.30-10.09.24:988][705]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/86/WNNSXR9V6SW1LJBBAEIJG0_Auto2
+[2023.04.30-10.09.24:989][705]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/WNNSXR9V6SW1LJBBAEIJG0_Auto251BA60B242022C5CF00D549DE7E4890B.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/86/WNNSXR9V6SW1LJBBAEIJG0_Auto2.uasset'
+[2023.04.30-10.09.24:991][705]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/PG/JDJKSPOCRY84RP8ZES7E4G_Auto2
+[2023.04.30-10.09.24:991][705]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/JDJKSPOCRY84RP8ZES7E4G_Auto2BE4EB7494A50E24E93E90DB0F28DC760.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/PG/JDJKSPOCRY84RP8ZES7E4G_Auto2.uasset'
+[2023.04.30-10.09.24:994][705]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/4R/KQVKPQ9FU0BZL28QGVMEV5_Auto2
+[2023.04.30-10.09.24:995][705]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/KQVKPQ9FU0BZL28QGVMEV5_Auto299EF2CDD43D104785AF7D18B9EA63C5A.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/4R/KQVKPQ9FU0BZL28QGVMEV5_Auto2.uasset'
+[2023.04.30-10.09.24:999][705]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/LU/QLSH5L9L9SINF6TAJNG7TU_Auto2
+[2023.04.30-10.09.25:000][705]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/QLSH5L9L9SINF6TAJNG7TU_Auto2A7C3A21E4D8B510151449DA5C4987B7A.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/LU/QLSH5L9L9SINF6TAJNG7TU_Auto2.uasset'
+[2023.04.30-10.09.25:003][705]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/Q3/PBZLCYQ4J6LNACHDPQHU2B_Auto2
+[2023.04.30-10.09.25:004][705]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/PBZLCYQ4J6LNACHDPQHU2B_Auto2C041F77F479C7B655138E4B8A96AE9BE.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/Q3/PBZLCYQ4J6LNACHDPQHU2B_Auto2.uasset'
+[2023.04.30-10.09.25:007][705]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/74/G42PUL3OKI963T5KUCNVJP_Auto2
+[2023.04.30-10.09.25:007][705]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/G42PUL3OKI963T5KUCNVJP_Auto225BEBE9E458455462F6859B8BE560B31.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/74/G42PUL3OKI963T5KUCNVJP_Auto2.uasset'
+[2023.04.30-10.09.25:010][705]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/1R/8ZIV36UGWLE3RMI21QS8AU_Auto2
+[2023.04.30-10.09.25:011][705]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/8ZIV36UGWLE3RMI21QS8AU_Auto2AFD106D94F753781D6BC66A738AB183C.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/1R/8ZIV36UGWLE3RMI21QS8AU_Auto2.uasset'
+[2023.04.30-10.09.25:011][705]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleTemplate/Maps/VehicleExampleMap' took 0.057
+[2023.04.30-10.09.25:011][705]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2023.04.30-10.09.28:660][875]LogStaticMesh: Display: Building static mesh 4-2_Mesh1...
+[2023.04.30-10.09.28:737][875]LogStaticMesh: Built static mesh [0.05s] /Game/LevelPrototyping/Meshes/4-2_Mesh1.4-2_Mesh1
+[2023.04.30-10.09.29:007][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-2_Mesh1.4-2_Mesh1
+[2023.04.30-10.09.29:007][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-2_Mesh1.4-2_Mesh1
+[2023.04.30-10.09.29:007][882]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/4-2_Mesh1.4-2_Mesh1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_15
+[2023.04.30-10.09.30:262][942]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x28 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 81% occupied, 553 triangles, 4-2_Mesh1
+[2023.04.30-10.09.32:163][ 25]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-2_Mesh1.4-2_Mesh1
+[2023.04.30-10.09.32:163][ 25]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-2_Mesh1.4-2_Mesh1
+[2023.04.30-10.09.32:164][ 25]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/4-2_Mesh1.4-2_Mesh1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C127E01_1758099398
+[2023.04.30-10.09.42:249][211]Cmd: DELETE
+[2023.04.30-10.09.42:249][211]Cmd: ACTOR DELETE
+[2023.04.30-10.09.42:252][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.30-10.09.42:261][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.04.30-10.09.42:263][211]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.04.30-10.09.51:133][641]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-2_Mesh1.4-2_Mesh1
+[2023.04.30-10.09.51:133][641]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-2_Mesh1.4-2_Mesh1
+[2023.04.30-10.09.51:134][641]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/4-2_Mesh1.4-2_Mesh1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_16
+[2023.04.30-10.09.52:479][694]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-2_Mesh1.4-2_Mesh1
+[2023.04.30-10.09.52:479][694]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-2_Mesh1.4-2_Mesh1
+[2023.04.30-10.09.52:479][694]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/4-2_Mesh1.4-2_Mesh1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C127E01_1778415399
+[2023.04.30-10.12.01:616][910]LogStaticMesh: Display: Building static mesh 4-3_Mesh1...
+[2023.04.30-10.12.01:616][910]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/4-3_Mesh1.4-3_Mesh1
+[2023.04.30-10.12.02:530][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-3_Mesh1.4-3_Mesh1
+[2023.04.30-10.12.02:530][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-3_Mesh1.4-3_Mesh1
+[2023.04.30-10.12.02:530][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/4-3_Mesh1.4-3_Mesh1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_17
+[2023.04.30-10.12.04:997][ 70]LogMeshUtilities: Finished distance field build in 3.3s - 126x126x28 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 84% occupied, 99 triangles, 4-3_Mesh1
+[2023.04.30-10.12.05:412][ 89]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-3_Mesh1.4-3_Mesh1
+[2023.04.30-10.12.05:412][ 89]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-3_Mesh1.4-3_Mesh1
+[2023.04.30-10.12.05:413][ 89]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/4-3_Mesh1.4-3_Mesh1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C127E01_1911348400
+[2023.04.30-10.13.05:305][519]LogEditorViewport: Clicking Background
+[2023.04.30-10.13.11:223][779]LogStaticMesh: Display: Building static mesh 4-4_Mesh1...
+[2023.04.30-10.13.11:223][779]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/4-4_Mesh1.4-4_Mesh1
+[2023.04.30-10.13.11:706][792]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-4_Mesh1.4-4_Mesh1
+[2023.04.30-10.13.11:706][792]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-4_Mesh1.4-4_Mesh1
+[2023.04.30-10.13.11:707][792]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/4-4_Mesh1.4-4_Mesh1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_18
+[2023.04.30-10.13.12:753][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-4_Mesh1.4-4_Mesh1
+[2023.04.30-10.13.12:753][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/4-4_Mesh1.4-4_Mesh1
+[2023.04.30-10.13.12:754][844]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/4-4_Mesh1.4-4_Mesh1 as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C127E01_1978689401
+[2023.04.30-10.13.13:458][876]LogMeshUtilities: Finished distance field build in 2.2s - 126x126x28 sparse distance field, 0.7Mb total, 0.0Mb always loaded, 96% occupied, 15 triangles, 4-4_Mesh1
+[2023.04.30-10.13.58:695][682]LogEditorViewport: Clicking Background
+[2023.04.30-10.14.16:277][510]LogWorldPartition: Warning: Actor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C127E01_1758099398 is unreachable without properly detaching object /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/U0/UIDQYLU8V2P4ZCMBYZTRD6.PackageMetaData in its package
+[2023.04.30-10.14.16:277][510]LogWorldPartition: Warning: Actor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1816908213 is unreachable without properly detaching object /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/76/86FV78F9KB0DXLZDOADG9E.PackageMetaData in its package
+[2023.04.30-10.14.16:278][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.04.30-10.14.16:288][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.04.30-10.14.16:297][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.04.30-10.14.16:300][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/F4/LRQW2XL2HCGHN1CZ1CPPB9
+[2023.04.30-10.14.16:300][510]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/LRQW2XL2HCGHN1CZ1CPPB94C1EABF5421CD9DBF8E78C9EC08FD268.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/F4/LRQW2XL2HCGHN1CZ1CPPB9.uasset'
+[2023.04.30-10.14.16:306][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/NG/9QC2V6FPZZUFOLC2Z0KYZE
+[2023.04.30-10.14.16:306][510]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/9QC2V6FPZZUFOLC2Z0KYZE9E9D01944B7F030E7723D28F49736BE2.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/NG/9QC2V6FPZZUFOLC2Z0KYZE.uasset'
+[2023.04.30-10.14.16:312][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/0/WF/5ZZBOPCK6QIKBDXGZ9CWKL
+[2023.04.30-10.14.16:312][510]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/5ZZBOPCK6QIKBDXGZ9CWKLA3D6517844FDDCEB1C0A2988A85E666D.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/0/WF/5ZZBOPCK6QIKBDXGZ9CWKL.uasset'
+[2023.04.30-10.14.16:318][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/2N/TYIZRC1RIDBIOF8922LDB0
+[2023.04.30-10.14.16:318][510]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/TYIZRC1RIDBIOF8922LDB0EF342C114E1A732012921CA1216BE51E.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/2N/TYIZRC1RIDBIOF8922LDB0.uasset'
+[2023.04.30-10.14.16:324][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/RV/927VIB9L09H7OZDFBI5N0J
+[2023.04.30-10.14.16:324][510]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/927VIB9L09H7OZDFBI5N0J09AD6D204A0015EF4164D6B987659D69.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/RV/927VIB9L09H7OZDFBI5N0J.uasset'
+[2023.04.30-10.14.16:330][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/4J/TFTN2JCBVR7RVGRAIB3X4W
+[2023.04.30-10.14.16:330][510]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/TFTN2JCBVR7RVGRAIB3X4WD6FBB34A4117170C308CD28E6DBD0AED.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/4J/TFTN2JCBVR7RVGRAIB3X4W.uasset'
+[2023.04.30-10.14.16:335][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/1B/K2KL0QTW06QP3UOUL1HTU6
+[2023.04.30-10.14.16:336][510]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/K2KL0QTW06QP3UOUL1HTU636EAE33E45D7287A91D0E4B70CADB78C.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/1B/K2KL0QTW06QP3UOUL1HTU6.uasset'
+[2023.04.30-10.14.16:342][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/86/WNNSXR9V6SW1LJBBAEIJG0
+[2023.04.30-10.14.16:342][510]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/WNNSXR9V6SW1LJBBAEIJG09BEBADD64A61138DBD56529A0B1D2676.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/86/WNNSXR9V6SW1LJBBAEIJG0.uasset'
+[2023.04.30-10.14.16:347][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/PG/JDJKSPOCRY84RP8ZES7E4G
+[2023.04.30-10.14.16:348][510]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/JDJKSPOCRY84RP8ZES7E4GDF391A0E4B095B43F2D879BBBE2D5806.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/PG/JDJKSPOCRY84RP8ZES7E4G.uasset'
+[2023.04.30-10.14.16:355][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/4R/KQVKPQ9FU0BZL28QGVMEV5
+[2023.04.30-10.14.16:355][510]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/KQVKPQ9FU0BZL28QGVMEV5ABD9E7F2453EF975BA1671B9C114F2A2.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/4R/KQVKPQ9FU0BZL28QGVMEV5.uasset'
+[2023.04.30-10.14.16:363][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/LU/QLSH5L9L9SINF6TAJNG7TU
+[2023.04.30-10.14.16:363][510]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/QLSH5L9L9SINF6TAJNG7TU6BE0622344530D6659AAE799D06EDA2C.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/LU/QLSH5L9L9SINF6TAJNG7TU.uasset'
+[2023.04.30-10.14.16:369][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/Q3/PBZLCYQ4J6LNACHDPQHU2B
+[2023.04.30-10.14.16:369][510]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/PBZLCYQ4J6LNACHDPQHU2B92B0C9474E81C13F3103918FFA8FF669.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/Q3/PBZLCYQ4J6LNACHDPQHU2B.uasset'
+[2023.04.30-10.14.16:375][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/74/G42PUL3OKI963T5KUCNVJP
+[2023.04.30-10.14.16:375][510]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/G42PUL3OKI963T5KUCNVJP91B719E344EC2EF0BD6FE38AD3C32D2F.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/74/G42PUL3OKI963T5KUCNVJP.uasset'
+[2023.04.30-10.14.16:381][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/1R/8ZIV36UGWLE3RMI21QS8AU
+[2023.04.30-10.14.16:381][510]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/8ZIV36UGWLE3RMI21QS8AU44340EBC414ADEF93D8F00A8916B00D3.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/1R/8ZIV36UGWLE3RMI21QS8AU.uasset'
+[2023.04.30-10.14.16:387][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/VC/LHL2GQL9BC8HGNDGG6024A
+[2023.04.30-10.14.16:387][510]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/LHL2GQL9BC8HGNDGG6024AFD49136E477D4175DB6E35A0D2A4DC93.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/VC/LHL2GQL9BC8HGNDGG6024A.uasset'
+[2023.04.30-10.14.16:393][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/RF/SPXEVQQF0X1EKF9YJXCLK8
+[2023.04.30-10.14.16:393][510]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/SPXEVQQF0X1EKF9YJXCLK89C5E8C0B487FB7A28F09E28CD69EF81A.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/RF/SPXEVQQF0X1EKF9YJXCLK8.uasset'
+[2023.04.30-10.14.16:399][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/Q7/C2BOZTCS696SDLGEPXTNHF
+[2023.04.30-10.14.16:399][510]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/C2BOZTCS696SDLGEPXTNHFC725DAC64DCC9BEF9B19278B94C4539E.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/Q7/C2BOZTCS696SDLGEPXTNHF.uasset'
+[2023.04.30-10.14.16:437][510]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.30-10.14.16:437][510]LogContentValidation: Display: Validating StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C127E01_1978689401
+[2023.04.30-10.14.16:437][510]LogContentValidation: Display: Validating StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C127E01_1911348400
+[2023.04.30-10.14.16:437][510]LogContentValidation: Display: Validating StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C127E01_1607889397
+[2023.04.30-10.14.16:437][510]LogContentValidation: Display: Validating StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C127E01_1778415399
+[2023.04.30-10.14.16:437][510]LogContentValidation: Display: Validating StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C127E01_1530862396
+[2023.04.30-10.14.16:437][510]LogContentValidation: Display: Validating StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C127E01_1199911395
+[2023.04.30-10.14.16:437][510]LogContentValidation: Display: Validating StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_2137449218
+[2023.04.30-10.14.16:438][510]LogContentValidation: Display: Validating StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_2009074217
+[2023.04.30-10.14.16:438][510]LogContentValidation: Display: Validating StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1973658216
+[2023.04.30-10.14.16:438][510]LogContentValidation: Display: Validating StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1868155214
+[2023.04.30-10.14.16:438][510]LogContentValidation: Display: Validating StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1921217215
+[2023.04.30-10.14.16:438][510]LogContentValidation: Display: Validating StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1750971212
+[2023.04.30-10.14.16:438][510]LogContentValidation: Display: Validating StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1693103211
+[2023.04.30-10.14.16:438][510]LogContentValidation: Display: Validating StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1580638210
+[2023.04.30-10.14.16:438][510]LogContentValidation: Display: Validating StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1516776209
+[2023.04.30-10.14.16:438][510]LogContentValidation: Display: Validating StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1289509208
+[2023.04.30-10.14.16:438][510]LogContentValidation: Display: Validating StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_144F8AE0B57C117E01_1211237207
+[2023.04.30-10.14.16:447][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
