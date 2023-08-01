@@ -5575,3 +5575,290 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.08.01-04.58.47:634][ 42]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/1Q1YR2UMI1IJ72DWCN8KRO97873EC04BB9293684EDB892C1E32557.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/4D/1Q1YR2UMI1IJ72DWCN8KRO.uasset'
 [2023.08.01-04.58.47:670][ 42]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_4CEDFBD84F533C9B01_1607229432
 [2023.08.01-04.58.47:670][ 42]LogContentValidation: Display: Validating StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F533C9B01_1607229432
+[2023.08.01-04.59.49:746][253]LogWindowsTextInputMethodSystem: Activated input method: Arabic (Iraq) - (Keyboard).
+[2023.08.01-04.59.49:746][253]LogWindowsTextInputMethodSystem: Activated input method: Arabic (Iraq) - (Keyboard).
+[2023.08.01-04.59.50:945][290]LogEditorViewport: Clicking Background
+[2023.08.01-05.05.27:425][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.08.01-05.05.27:429][126]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleTemplate/Maps/VehicleExampleMap' took 0.016
+[2023.08.01-05.05.27:430][126]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestStuff/BCR_Tube_Joined] ([1] browsable assets)...
+[2023.08.01-05.05.27:566][126]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TestStuff/BCR_Tube_Joined.BCR_Tube_Joined]
+[2023.08.01-05.05.27:566][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestStuff/BCR_Tube_Joined]
+[2023.08.01-05.05.27:566][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestStuff/BCR_Tube_Joined" FILE="../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Joined_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.08.01-05.05.27:612][126]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestStuff/BCR_Tube_Joined_Auto5
+[2023.08.01-05.05.27:613][126]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/BCR_Tube_Joined_Auto5B259E7774580CCA604805EA2A6520FEF.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Joined_Auto5.uasset'
+[2023.08.01-05.05.27:613][126]LogFileHelpers: Auto-saving content packages took 0.184
+[2023.08.01-05.38.05:186][975]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.220 and deleted 0 file(s) with total size 0 MiB.
+[2023.08.01-06.01.52:186][286]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.01-06.01.52:208][286]LogWorldPartition: Display: GenerateStreaming started...
+[2023.08.01-06.01.52:208][286]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.08.01-06.01.52:208][286]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.08.01-06.01.52:208][286]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.08.01-06.01.52:208][286]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.08.01-06.01.52:208][286]LogWorldPartition: Display: GetPartitionedActors took 92 us
+[2023.08.01-06.01.52:210][286]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2023.08.01-06.01.52:211][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.01-06.01.52:212][286]PIE: New page: PIE session: VehicleExampleMap (Aug 1, 2023, 12:01:52 PM)
+[2023.08.01-06.01.52:214][286]LogPlayLevel: Creating play world package: /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.08.01-06.01.52:253][286]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.08.01-06.01.52:253][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038818s)
+[2023.08.01-06.01.52:253][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.039122s)
+[2023.08.01-06.01.52:254][286]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.01-06.01.52:255][286]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2023.08.01-06.01.52:256][286]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.01-06.01.52:256][286]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.08.01-06.01.52:262][286]LogWorldPartition: Display: WorldPartition initialize took 5 ms
+[2023.08.01-06.01.52:262][286]LogPlayLevel: PIE: World Init took: (0.008653s)
+[2023.08.01-06.01.52:275][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.08.01-06.01.52:278][286]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.08.01-06.01.52:279][286]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.01-06.01.52:279][286]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.01-06.01.52:279][286]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.01-06.01.52:279][286]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.01-06.01.52:279][286]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.01-06.01.52:279][286]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.01-06.01.52:279][286]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.01-06.01.52:279][286]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.01-06.01.52:280][286]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.01-06.01.52:280][286]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.01-06.01.52:280][286]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.01-06.01.52:282][286]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.01-06.01.52:314][286]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.08.01-06.01.52:317][286]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.01-06.01.52:317][286]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.01-06.01.52:317][286]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.01-06.01.52:319][286]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2023.08.01-06.01.52:319][286]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2023.08.01-06.01.52:321][286]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2023.08.01-06.01.52:321][286]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2023.08.01-06.01.52:321][286]LogInit: FAudioDevice initialized.
+[2023.08.01-06.01.52:321][286]LogAudio: Display: Audio Device (ID: 39) registered with world 'VehicleExampleMap'.
+[2023.08.01-06.01.52:353][286]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2023.08.01-06.01.52:372][286]LogWorld: Bringing World /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2023.08.01-09.01.52
+[2023.08.01-06.01.52:374][286]LogWorld: Bringing up level for play took: 0.020275
+[2023.08.01-06.01.52:376][286]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2023.08.01-06.01.52:377][286]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.08.01-06.01.52:381][286]LogWorldPartition: New Streaming Source: VehiclePlayerController_C_0 -> Position: X=58947.991 Y=15883.295 Z=4523.415
+[2023.08.01-06.01.52:381][286]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.08.01-06.01.52:382][286]Cmd: r.motionblur.amount 0
+[2023.08.01-06.01.52:383][286]r.MotionBlur.Amount = "0"
+[2023.08.01-06.01.52:384][286]PIE: Server logged in
+[2023.08.01-06.01.52:385][286]PIE: Play in editor total start time 0.183 seconds.
+[2023.08.01-06.02.28:362][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.01-06.02.28:362][753]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.08.01-06.02.28:363][753]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.01-06.02.28:364][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.01-06.02.28:389][753]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.01-06.02.28:394][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.01-06.02.28:405][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.01-06.02.28:406][753]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.08.01-06.02.28:410][753]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.08.01-06.02.28:419][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.08.01-06.02.28:487][754]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2023.08.01-06.02.34:638][933]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/TestStuff/BCR_Tube_Joined.BCR_Tube_Joined
+[2023.08.01-06.02.34:809][933]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.01-06.02.35:447][933]LogViewport: Scene viewport resized to 1403x858, mode Windowed.
+[2023.08.01-06.02.37:699][985]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TestStuff/M_0114_BlueViolet.M_0114_BlueViolet
+[2023.08.01-06.02.37:704][985]LogMaterial: Display: Missing cached shadermap for Preview:M_0114_BlueViolet in PCD3D_SM5, Default, SM5 (DDC key hash: 523A2D319E3841B999F40BDF907C105DA8B9518E), compiling. 
+[2023.08.01-06.02.37:757][985]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display: ================================================
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display: Total job queries 1257, among them cache hits 859 (68.34%)
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display: Tracking 230 distinct input hashes that result in 37 distinct outputs (16.09%)
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display: RAM used: 0.11 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display: Shaders Compiled: 198
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display: Jobs assigned 230, completed 230 (100.00%)
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display: Average time worker was idle: 3179.36 s
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display: Time job spent in pending queue: average 0.36 s, longest 7.12 s
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display: Job execution time: average 2.36 s, max 8.33 s
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display: Job life time (pending + execution): average 2.72 s, max 8.44
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 110.89 s
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display: Jobs were issued in 230 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display: Average processing rate: 2.07 jobs/sec
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display: Effective parallelization: 3.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   10 times, average 2.87 sec, max 3.44 sec, min 2.70 sec)
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   10 times, average 2.81 sec, max 3.44 sec, min 2.59 sec)
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   10 times, average 2.74 sec, max 3.44 sec, min 2.34 sec)
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   10 times, average 2.71 sec, max 3.37 sec, min 2.50 sec)
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   10 times, average 2.68 sec, max 3.33 sec, min 2.49 sec)
+[2023.08.01-06.02.37:766][985]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.01-06.02.37:767][985]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.34% of total time (compiled   28 times, average 1.88 sec, max 5.88 sec, min 1.44 sec)
+[2023.08.01-06.02.37:767][985]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.99% of total time (compiled   27 times, average 1.89 sec, max 6.20 sec, min 1.39 sec)
+[2023.08.01-06.02.37:767][985]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.59% of total time (compiled   28 times, average 1.76 sec, max 4.33 sec, min 1.38 sec)
+[2023.08.01-06.02.37:767][985]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.76% of total time (compiled   10 times, average 2.87 sec, max 3.44 sec, min 2.70 sec)
+[2023.08.01-06.02.37:767][985]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.60% of total time (compiled   10 times, average 2.81 sec, max 3.44 sec, min 2.59 sec)
+[2023.08.01-06.02.37:767][985]LogShaderCompilers: Display: ================================================
+[2023.08.01-06.02.37:853][985]LogMaterial: Display: Missing cached shadermap for Preview:M_0114_BlueViolet in PCD3D_SM5, Default, SM5 (DDC key hash: 4137C015C4AE7339C372C5631C13A05986A87DBC), compiling. 
+[2023.08.01-06.02.37:858][985]LogMaterial: Display: Missing cached shadermap for Preview:M_0114_BlueViolet in PCD3D_SM5, Default, SM5 (DDC key hash: F1AE99D07B21E524B041F8D9CA879BF79FF641F2), compiling. 
+[2023.08.01-06.02.37:861][985]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B7EC8F0705802CDEA56CACB782149D22D5B41007), compiling. 
+[2023.08.01-06.02.37:891][985]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.01-06.02.37:891][985]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.01-06.02.37:891][985]MaterialEditorStats: Shader Count: 0
+[2023.08.01-06.02.37:901][985]LogViewport: Scene viewport resized to 374x426, mode Windowed.
+[2023.08.01-06.02.38:038][987]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.01-06.02.38:038][987]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.01-06.02.38:038][987]MaterialEditorStats: Shader Count: 4
+[2023.08.01-06.02.41:665][ 59]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TestStuff/M_0102_RoyalBlue.M_0102_RoyalBlue
+[2023.08.01-06.02.41:668][ 59]LogMaterial: Display: Missing cached shadermap for Preview:M_0102_RoyalBlue in PCD3D_SM5, Default, SM5 (DDC key hash: 96564651FB8B9758B457B35D74BABC42EEB12406), compiling. 
+[2023.08.01-06.02.41:696][ 59]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.01-06.02.41:784][ 59]LogMaterial: Display: Missing cached shadermap for Preview:M_0102_RoyalBlue in PCD3D_SM5, Default, SM5 (DDC key hash: DD0D411C6FC27E3205CF5825EF96988EABAC8AA3), compiling. 
+[2023.08.01-06.02.41:789][ 59]LogMaterial: Display: Missing cached shadermap for Preview:M_0102_RoyalBlue in PCD3D_SM5, Default, SM5 (DDC key hash: C5DB8BE739955BA20CCE25BDE34185A02282C02D), compiling. 
+[2023.08.01-06.02.41:791][ 59]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A30588C1B582AE769DFE61F9EBF0C187E1E27DA6), compiling. 
+[2023.08.01-06.02.41:819][ 59]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.01-06.02.41:819][ 59]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.01-06.02.41:819][ 59]MaterialEditorStats: Shader Count: 0
+[2023.08.01-06.02.41:827][ 59]LogViewport: Scene viewport resized to 374x426, mode Windowed.
+[2023.08.01-06.02.43:533][ 61]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.01-06.02.43:533][ 61]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.01-06.02.43:533][ 61]MaterialEditorStats: Shader Count: 4
+[2023.08.01-06.02.48:319][160]LogMaterial: Display: Missing cached shadermap for Preview:M_0102_RoyalBlue in PCD3D_SM5, Default, SM5 (DDC key hash: D0DD17DF711856CB4DA47CF5B46B952A060836D8), compiling. 
+[2023.08.01-06.02.48:324][160]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A3F12B34F88C628BA82D61F0DEE5630C0271814D), compiling. 
+[2023.08.01-06.02.48:339][160]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.01-06.02.48:339][160]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.01-06.02.48:339][160]MaterialEditorStats: Shader Count: 0
+[2023.08.01-06.02.50:395][191]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.01-06.02.50:395][191]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.01-06.02.50:395][191]MaterialEditorStats: Shader Count: 3
+[2023.08.01-06.02.51:812][216]LogMaterial: Display: Missing cached shadermap for Preview:M_0102_RoyalBlue in PCD3D_SM5, Default, SM5 (DDC key hash: 88FC0A853331A8492CEE85B1A9F231D3C8F22CDE), compiling. 
+[2023.08.01-06.02.51:815][216]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 565B3D30BF4444DAA4347199CE18B23128EB972C), compiling. 
+[2023.08.01-06.02.51:820][216]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.01-06.02.51:820][216]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.01-06.02.51:820][216]MaterialEditorStats: Shader Count: 0
+[2023.08.01-06.02.51:906][219]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.01-06.02.51:906][219]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.01-06.02.51:906][219]MaterialEditorStats: Shader Count: 4
+[2023.08.01-06.02.53:739][254]LogMaterial: Display: Missing cached shadermap for Preview:M_0102_RoyalBlue in PCD3D_SM5, Default, SM5 (DDC key hash: F5C187AC5E06A367EB4D5BECB718139503903CBC), compiling. 
+[2023.08.01-06.02.53:743][254]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 71A22669C90A105C67FDFE7DDDD03EF976AC1212), compiling. 
+[2023.08.01-06.02.53:747][254]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.01-06.02.53:747][254]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.01-06.02.53:747][254]MaterialEditorStats: Shader Count: 0
+[2023.08.01-06.02.53:838][257]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.01-06.02.53:838][257]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.01-06.02.53:838][257]MaterialEditorStats: Shader Count: 4
+[2023.08.01-06.02.56:009][300]LogMaterial: Display: Missing cached shadermap for Preview:M_0102_RoyalBlue in PCD3D_SM5, Default, SM5 (DDC key hash: B83A418A066CC736F7252AE83E0703C5D6A62E15), compiling. 
+[2023.08.01-06.02.56:012][300]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8AA4534C01955B61145775AD071059D908091A5A), compiling. 
+[2023.08.01-06.02.56:016][300]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.01-06.02.56:016][300]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.01-06.02.56:016][300]MaterialEditorStats: Shader Count: 0
+[2023.08.01-06.02.56:125][303]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.01-06.02.56:125][303]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.01-06.02.56:125][303]MaterialEditorStats: Shader Count: 4
+[2023.08.01-06.02.56:793][312]LogMaterial: Display: Missing cached shadermap for Preview:M_0102_RoyalBlue in PCD3D_SM5, Default, SM5 (DDC key hash: 51F49645B9C36438D9955A7893A813D84B695FC2), compiling. 
+[2023.08.01-06.02.56:795][312]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AFF9EC87C21B99368089EB7E1B5A2C30F2A4E09C), compiling. 
+[2023.08.01-06.02.56:799][312]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.01-06.02.56:799][312]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.01-06.02.56:799][312]MaterialEditorStats: Shader Count: 0
+[2023.08.01-06.02.56:844][314]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.01-06.02.56:844][314]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.01-06.02.56:844][314]MaterialEditorStats: Shader Count: 4
+[2023.08.01-06.02.57:854][331]LogMaterial: Display: Missing cached shadermap for Preview:M_0102_RoyalBlue in PCD3D_SM5, Default, SM5 (DDC key hash: 7C361FBF4F4A2E3A6FCB4D3E920F0D852E3DE7B2), compiling. 
+[2023.08.01-06.02.57:858][331]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 467950B7AC3275996770C0F5834B41AF12D26A14), compiling. 
+[2023.08.01-06.02.57:862][331]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.01-06.02.57:862][331]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.01-06.02.57:862][331]MaterialEditorStats: Shader Count: 0
+[2023.08.01-06.02.57:952][334]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.01-06.02.57:952][334]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.01-06.02.57:952][334]MaterialEditorStats: Shader Count: 4
+[2023.08.01-06.02.59:173][355]LogMaterialEditor: Saving and Compiling material M_0102_RoyalBlue
+[2023.08.01-06.03.00:083][355]LogMaterial: Display: Missing cached shadermap for Preview:M_0102_RoyalBlue in PCD3D_SM5, Default, SM5 (DDC key hash: 5DFD3FA47E3D286F56BA6FD6091AFE62F29490A7), compiling. 
+[2023.08.01-06.03.00:099][355]LogMaterial: Display: Missing cached shadermap for M_0102_RoyalBlue in PCD3D_SM5, Default, SM5 (DDC key hash: C7DE961BC4F4CFDF024583B76C936B568A7C5AFA), compiling. 
+[2023.08.01-06.03.00:167][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.08.01-06.03.01:260][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.08.01-06.03.03:709][355]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.08.01-06.03.04:803][355]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000003s (1.306504s overbudget)
+[2023.08.01-06.03.04:848][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestStuff/M_0102_RoyalBlue" FILE="../../../../../../Epic Games/SportCar/Content/TestStuff/M_0102_RoyalBlue.uasset" SILENT=true
+[2023.08.01-06.03.04:854][355]LogSavePackage: Moving output files for package: /Game/TestStuff/M_0102_RoyalBlue
+[2023.08.01-06.03.04:854][355]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/M_0102_RoyalBlue8F8BF14940F8297717FBCD8157FA3B97.tmp' to '../../../../../../Epic Games/SportCar/Content/TestStuff/M_0102_RoyalBlue.uasset'
+[2023.08.01-06.03.04:891][355]AssetCheck: New page: Asset Save: M_0102_RoyalBlue
+[2023.08.01-06.03.04:891][355]LogContentValidation: Display: Validating Material /Game/TestStuff/M_0102_RoyalBlue.M_0102_RoyalBlue
+[2023.08.01-06.03.04:893][355]MaterialEditorStats: Base pass shader: 126 instructions
+[2023.08.01-06.03.04:893][355]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.08.01-06.03.04:893][355]MaterialEditorStats: Texture samplers: 3/16
+[2023.08.01-06.03.04:893][355]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.01-06.03.04:893][355]MaterialEditorStats: Shader Count: 16
+[2023.08.01-06.03.04:911][355]LogSlate: Window 'Color Picker' being destroyed
+[2023.08.01-06.03.06:165][378]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.08.01-06.03.06:166][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.01-06.03.07:084][398]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.08.01-06.03.07:084][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.01-06.03.16:599][656]LogSlate: Took 0.008543 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2023.08.01-06.03.18:696][725]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.08.01-06.03.18:696][725]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.08.01-06.03.26:252][959]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TestStuff/BCR_Tube_Joined) ...
+[2023.08.01-06.03.29:661][ 55]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TestStuff/BCR_Tube_Joined) ...
+[2023.08.01-06.03.33:604][161]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TestStuff/BCR_Tube_Joined) ...
+[2023.08.01-06.03.45:312][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestStuff/BCR_Tube_Joined" FILE="../../../../../../Epic Games/SportCar/Content/TestStuff/BCR_Tube_Joined.uasset" SILENT=true
+[2023.08.01-06.03.45:366][511]LogSavePackage: Moving output files for package: /Game/TestStuff/BCR_Tube_Joined
+[2023.08.01-06.03.45:366][511]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/BCR_Tube_Joined4C51AEB142E9B1551B3F90B89760C7F7.tmp' to '../../../../../../Epic Games/SportCar/Content/TestStuff/BCR_Tube_Joined.uasset'
+[2023.08.01-06.03.45:393][511]AssetCheck: New page: Asset Save: BCR_Tube_Joined
+[2023.08.01-06.03.45:394][511]LogContentValidation: Display: Validating StaticMesh /Game/TestStuff/BCR_Tube_Joined.BCR_Tube_Joined
+[2023.08.01-06.03.54:726][778]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.01-06.03.54:741][778]LogWorldPartition: Display: GenerateStreaming started...
+[2023.08.01-06.03.54:741][778]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.08.01-06.03.54:741][778]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.08.01-06.03.54:742][778]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.08.01-06.03.54:742][778]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.08.01-06.03.54:742][778]LogWorldPartition: Display: GetPartitionedActors took 143 us
+[2023.08.01-06.03.54:743][778]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2023.08.01-06.03.54:743][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.01-06.03.54:743][778]PIE: New page: PIE session: VehicleExampleMap (Aug 1, 2023, 12:03:54 PM)
+[2023.08.01-06.03.54:743][778]LogPlayLevel: Creating play world package: /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.08.01-06.03.54:769][778]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.08.01-06.03.54:769][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026020s)
+[2023.08.01-06.03.54:769][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.026115s)
+[2023.08.01-06.03.54:770][778]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.01-06.03.54:770][778]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2023.08.01-06.03.54:771][778]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.01-06.03.54:771][778]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.08.01-06.03.54:776][778]LogWorldPartition: Display: WorldPartition initialize took 5 ms
+[2023.08.01-06.03.54:776][778]LogPlayLevel: PIE: World Init took: (0.006796s)
+[2023.08.01-06.03.54:788][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.08.01-06.03.54:793][778]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.08.01-06.03.54:793][778]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.01-06.03.54:793][778]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.01-06.03.54:793][778]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.01-06.03.54:793][778]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.01-06.03.54:793][778]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.01-06.03.54:793][778]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.01-06.03.54:793][778]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.01-06.03.54:793][778]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.01-06.03.54:794][778]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.01-06.03.54:794][778]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.01-06.03.54:794][778]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.01-06.03.54:798][778]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.01-06.03.54:842][778]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.08.01-06.03.54:843][778]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.01-06.03.54:843][778]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.01-06.03.54:843][778]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.01-06.03.54:843][778]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2023.08.01-06.03.54:843][778]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2023.08.01-06.03.54:846][778]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2023.08.01-06.03.54:846][778]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2023.08.01-06.03.54:846][778]LogInit: FAudioDevice initialized.
+[2023.08.01-06.03.54:846][778]LogAudio: Display: Audio Device (ID: 40) registered with world 'VehicleExampleMap'.
+[2023.08.01-06.03.54:861][778]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2023.08.01-06.03.54:874][778]LogWorld: Bringing World /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2023.08.01-09.03.54
+[2023.08.01-06.03.54:875][778]LogWorld: Bringing up level for play took: 0.013788
+[2023.08.01-06.03.54:877][778]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2023.08.01-06.03.54:878][778]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.08.01-06.03.54:881][778]LogWorldPartition: New Streaming Source: VehiclePlayerController_C_0 -> Position: X=36233.710 Y=8180.534 Z=5218.673
+[2023.08.01-06.03.54:881][778]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.08.01-06.03.54:882][778]Cmd: r.motionblur.amount 0
+[2023.08.01-06.03.54:882][778]r.MotionBlur.Amount = "0"
+[2023.08.01-06.03.54:883][778]PIE: Server logged in
+[2023.08.01-06.03.54:884][778]PIE: Play in editor total start time 0.147 seconds.
+[2023.08.01-06.04.54:183][ 27]LogBlueprintUserMessages: [SportsCar_Pawn_C_0] 1
+[2023.08.01-06.04.54:911][ 43]LogBlueprintUserMessages: [SportsCar_Pawn_C_0] 2
+[2023.08.01-06.05.45:312][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.01-06.05.45:312][ 85]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.08.01-06.05.45:315][ 85]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.01-06.05.45:319][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.01-06.05.45:416][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.01-06.05.45:422][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.01-06.05.45:456][ 85]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.01-06.05.45:457][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.08.01-06.05.45:462][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.08.01-06.05.45:480][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.01-06.05.45:495][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.08.01-06.05.45:755][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_69
