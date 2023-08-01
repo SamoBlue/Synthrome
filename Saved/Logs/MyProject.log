@@ -5369,3 +5369,209 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.08.01-04.41.13:187][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
 [2023.08.01-04.41.13:197][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
 [2023.08.01-04.41.13:206][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.08.01-04.54.20:563][  1]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\x87\Desktop\Project Car\Track Prefabs\Level Intro\Editorials (New shit updated, testing)\BCR Tube.fbx)
+[2023.08.01-04.54.20:620][  1]LogFbx: Loading FBX Scene from C:\Users\x87\Desktop\Project Car\Track Prefabs\Level Intro\Editorials (New shit updated, testing)\BCR Tube.fbx
+[2023.08.01-04.54.20:791][  1]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.01-04.54.22:539][  1]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.08.01-04.54.22:652][  1]LogMaterial: Display: Missing cached shadermap for M_0135_DarkGray in PCD3D_SM5, Default, SM5 (DDC key hash: 6E09878CFAD85BB844322AFD14887F2B85A10069), compiling. 
+[2023.08.01-04.54.22:676][  1]LogStaticMesh: Display: Building static mesh BCR_Tube_Mesh1...
+[2023.08.01-04.54.22:725][  1]LogStaticMesh: Built static mesh [0.05s] /Game/TestStuff/BCR_Tube_Mesh1.BCR_Tube_Mesh1
+[2023.08.01-04.54.22:761][  1]LogStaticMesh: Display: Building static mesh BCR_Tube_Mesh2...
+[2023.08.01-04.54.22:811][  1]LogStaticMesh: Built static mesh [0.05s] /Game/TestStuff/BCR_Tube_Mesh2.BCR_Tube_Mesh2
+[2023.08.01-04.54.22:837][  1]LogMaterial: Display: Missing cached shadermap for M_0102_RoyalBlue in PCD3D_SM5, Default, SM5 (DDC key hash: F3B8FD36F4C5CCE14E3D2FD5345581493EB5A93C), compiling. 
+[2023.08.01-04.54.22:875][  1]LogStaticMesh: Display: Building static mesh BCR_Tube_Mesh3...
+[2023.08.01-04.54.22:975][  1]LogStaticMesh: Built static mesh [0.10s] /Game/TestStuff/BCR_Tube_Mesh3.BCR_Tube_Mesh3
+[2023.08.01-04.54.22:983][  1]LogStaticMesh: Warning: BCR_Tube_Mesh3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.08.01-04.54.23:029][  1]LogStaticMesh: Display: Building static mesh BCR_Tube_Mesh4...
+[2023.08.01-04.54.23:125][  1]LogStaticMesh: Built static mesh [0.10s] /Game/TestStuff/BCR_Tube_Mesh4.BCR_Tube_Mesh4
+[2023.08.01-04.54.23:134][  1]LogStaticMesh: Warning: BCR_Tube_Mesh4 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.08.01-04.54.23:134][  1]LogStaticMesh: Warning: BCR_Tube_Mesh4 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.08.01-04.54.23:178][  1]LogStaticMesh: Display: Building static mesh BCR_Tube_Mesh5...
+[2023.08.01-04.54.23:269][  1]LogStaticMesh: Built static mesh [0.09s] /Game/TestStuff/BCR_Tube_Mesh5.BCR_Tube_Mesh5
+[2023.08.01-04.54.23:277][  1]LogStaticMesh: Warning: BCR_Tube_Mesh5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.08.01-04.54.23:319][  1]LogStaticMesh: Display: Building static mesh BCR_Tube_Mesh6...
+[2023.08.01-04.54.23:412][  1]LogStaticMesh: Built static mesh [0.09s] /Game/TestStuff/BCR_Tube_Mesh6.BCR_Tube_Mesh6
+[2023.08.01-04.54.23:419][  1]LogStaticMesh: Warning: BCR_Tube_Mesh6 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.08.01-04.54.23:419][  1]LogStaticMesh: Warning: BCR_Tube_Mesh6 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.08.01-04.54.23:463][  1]LogStaticMesh: Display: Building static mesh BCR_Tube_Mesh7...
+[2023.08.01-04.54.23:558][  1]LogStaticMesh: Built static mesh [0.10s] /Game/TestStuff/BCR_Tube_Mesh7.BCR_Tube_Mesh7
+[2023.08.01-04.54.23:566][  1]LogStaticMesh: Warning: BCR_Tube_Mesh7 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.08.01-04.54.23:611][  1]LogStaticMesh: Display: Building static mesh BCR_Tube_Mesh8...
+[2023.08.01-04.54.23:711][  1]LogStaticMesh: Built static mesh [0.10s] /Game/TestStuff/BCR_Tube_Mesh8.BCR_Tube_Mesh8
+[2023.08.01-04.54.23:721][  1]LogStaticMesh: Warning: BCR_Tube_Mesh8 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.08.01-04.54.23:721][  1]LogStaticMesh: Warning: BCR_Tube_Mesh8 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.08.01-04.54.23:762][  1]LogStaticMesh: Display: Building static mesh BCR_Tube_Mesh9...
+[2023.08.01-04.54.23:865][  1]LogStaticMesh: Built static mesh [0.10s] /Game/TestStuff/BCR_Tube_Mesh9.BCR_Tube_Mesh9
+[2023.08.01-04.54.23:874][  1]LogStaticMesh: Warning: BCR_Tube_Mesh9 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.08.01-04.54.23:921][  1]LogStaticMesh: Display: Building static mesh BCR_Tube_Mesh10...
+[2023.08.01-04.54.24:017][  1]LogStaticMesh: Built static mesh [0.10s] /Game/TestStuff/BCR_Tube_Mesh10.BCR_Tube_Mesh10
+[2023.08.01-04.54.24:026][  1]LogStaticMesh: Warning: BCR_Tube_Mesh10 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.08.01-04.54.24:026][  1]LogStaticMesh: Warning: BCR_Tube_Mesh10 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.08.01-04.54.24:071][  1]LogStaticMesh: Display: Building static mesh BCR_Tube_Mesh11...
+[2023.08.01-04.54.24:175][  1]LogStaticMesh: Built static mesh [0.10s] /Game/TestStuff/BCR_Tube_Mesh11.BCR_Tube_Mesh11
+[2023.08.01-04.54.24:184][  1]LogStaticMesh: Warning: BCR_Tube_Mesh11 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.08.01-04.54.24:225][  1]LogStaticMesh: Display: Building static mesh BCR_Tube_Mesh12...
+[2023.08.01-04.54.24:314][  1]LogStaticMesh: Built static mesh [0.09s] /Game/TestStuff/BCR_Tube_Mesh12.BCR_Tube_Mesh12
+[2023.08.01-04.54.24:323][  1]LogStaticMesh: Warning: BCR_Tube_Mesh12 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.08.01-04.54.24:323][  1]LogStaticMesh: Warning: BCR_Tube_Mesh12 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.08.01-04.54.24:472][  1]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.01-04.54.24:472][  1]FBXImport: Warning: BCR_Tube_Mesh3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.08.01-04.54.24:472][  1]FBXImport: Warning: BCR_Tube_Mesh4 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.08.01-04.54.24:472][  1]FBXImport: Warning: BCR_Tube_Mesh4 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.08.01-04.54.24:472][  1]FBXImport: Warning: BCR_Tube_Mesh5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.08.01-04.54.24:472][  1]FBXImport: Warning: BCR_Tube_Mesh6 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.08.01-04.54.24:473][  1]FBXImport: Warning: BCR_Tube_Mesh6 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.08.01-04.54.24:473][  1]FBXImport: Warning: BCR_Tube_Mesh7 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.08.01-04.54.24:473][  1]FBXImport: Warning: BCR_Tube_Mesh8 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.08.01-04.54.24:473][  1]FBXImport: Warning: BCR_Tube_Mesh8 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.08.01-04.54.24:473][  1]FBXImport: Warning: BCR_Tube_Mesh9 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.08.01-04.54.24:473][  1]FBXImport: Warning: BCR_Tube_Mesh10 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.08.01-04.54.24:473][  1]FBXImport: Warning: BCR_Tube_Mesh10 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.08.01-04.54.24:473][  1]FBXImport: Warning: BCR_Tube_Mesh11 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.08.01-04.54.24:473][  1]FBXImport: Warning: BCR_Tube_Mesh12 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.08.01-04.54.24:473][  1]FBXImport: Warning: BCR_Tube_Mesh12 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.08.01-04.54.28:827][  1]LogMeshUtilities: Finished distance field build in 6.1s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 73% occupied, 253 triangles, BCR_Tube_Mesh1
+[2023.08.01-04.54.33:336][106]LogSlate: Window 'Message Log' being destroyed
+[2023.08.01-04.54.33:428][106]LogSlate: Window 'Message Log' being destroyed
+[2023.08.01-04.54.34:737][136]LogShaderCompilers: Display: ================================================
+[2023.08.01-04.54.34:737][136]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.01-04.54.34:737][136]LogShaderCompilers: Display: Total job queries 1245, among them cache hits 847 (68.03%)
+[2023.08.01-04.54.34:737][136]LogShaderCompilers: Display: Tracking 223 distinct input hashes that result in 37 distinct outputs (16.59%)
+[2023.08.01-04.54.34:737][136]LogShaderCompilers: Display: RAM used: 0.11 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.08.01-04.54.34:737][136]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.01-04.54.34:737][136]LogShaderCompilers: Display: Shaders Compiled: 198
+[2023.08.01-04.54.34:737][136]LogShaderCompilers: Display: Jobs assigned 230, completed 223 (96.96%)
+[2023.08.01-04.54.34:737][136]LogShaderCompilers: Display: Average time worker was idle: 3179.36 s
+[2023.08.01-04.54.34:737][136]LogShaderCompilers: Display: Time job spent in pending queue: average 0.36 s, longest 7.12 s
+[2023.08.01-04.54.34:737][136]LogShaderCompilers: Display: Job execution time: average 2.22 s, max 7.08 s
+[2023.08.01-04.54.34:737][136]LogShaderCompilers: Display: Job life time (pending + execution): average 2.59 s, max 8.44
+[2023.08.01-04.54.34:737][136]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 107.97 s
+[2023.08.01-04.54.34:737][136]LogShaderCompilers: Display: Jobs were issued in 230 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.01-04.54.34:737][136]LogShaderCompilers: Display: Average processing rate: 2.07 jobs/sec
+[2023.08.01-04.54.34:737][136]LogShaderCompilers: Display: Effective parallelization: 3.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.01-04.54.34:738][136]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.01-04.54.34:738][136]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   10 times, average 2.87 sec, max 3.44 sec, min 2.70 sec)
+[2023.08.01-04.54.34:738][136]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   10 times, average 2.81 sec, max 3.44 sec, min 2.59 sec)
+[2023.08.01-04.54.34:738][136]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   10 times, average 2.74 sec, max 3.44 sec, min 2.34 sec)
+[2023.08.01-04.54.34:738][136]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   10 times, average 2.71 sec, max 3.37 sec, min 2.50 sec)
+[2023.08.01-04.54.34:738][136]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   10 times, average 2.68 sec, max 3.33 sec, min 2.49 sec)
+[2023.08.01-04.54.34:738][136]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.01-04.54.34:738][136]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.88% of total time (compiled   26 times, average 1.63 sec, max 2.12 sec, min 1.44 sec)
+[2023.08.01-04.54.34:738][136]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.45% of total time (compiled   26 times, average 1.57 sec, max 2.15 sec, min 1.38 sec)
+[2023.08.01-04.54.34:738][136]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.96% of total time (compiled   25 times, average 1.56 sec, max 2.02 sec, min 1.39 sec)
+[2023.08.01-04.54.34:738][136]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.36% of total time (compiled   10 times, average 2.87 sec, max 3.44 sec, min 2.70 sec)
+[2023.08.01-04.54.34:738][136]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 7.19% of total time (compiled   10 times, average 2.81 sec, max 3.44 sec, min 2.59 sec)
+[2023.08.01-04.54.34:738][136]LogShaderCompilers: Display: ================================================
+[2023.08.01-04.54.35:932][166]LogMeshUtilities: Finished distance field build in 7.1s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 73% occupied, 253 triangles, BCR_Tube_Mesh2
+[2023.08.01-04.54.39:514][260]LogMeshUtilities: Finished distance field build in 3.5s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 808 triangles, BCR_Tube_Mesh3
+[2023.08.01-04.54.42:975][350]LogMeshUtilities: Finished distance field build in 3.5s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 808 triangles, BCR_Tube_Mesh4
+[2023.08.01-04.54.46:674][427]LogMeshUtilities: Finished distance field build in 3.5s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 808 triangles, BCR_Tube_Mesh5
+[2023.08.01-04.54.50:027][437]LogMeshUtilities: Finished distance field build in 3.3s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 808 triangles, BCR_Tube_Mesh6
+[2023.08.01-04.54.53:448][446]LogMeshUtilities: Finished distance field build in 3.3s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 808 triangles, BCR_Tube_Mesh7
+[2023.08.01-04.54.56:409][456]LogMeshUtilities: Finished distance field build in 3.3s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 808 triangles, BCR_Tube_Mesh8
+[2023.08.01-04.54.59:754][466]LogMeshUtilities: Finished distance field build in 3.3s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 808 triangles, BCR_Tube_Mesh9
+[2023.08.01-04.55.03:100][476]LogMeshUtilities: Finished distance field build in 3.3s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 808 triangles, BCR_Tube_Mesh10
+[2023.08.01-04.55.06:446][486]LogMeshUtilities: Finished distance field build in 3.3s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 808 triangles, BCR_Tube_Mesh11
+[2023.08.01-04.55.09:810][496]LogMeshUtilities: Finished distance field build in 3.4s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 808 triangles, BCR_Tube_Mesh12
+[2023.08.01-04.55.16:564][516]LogMeshUtilities: Finished distance field build in 6.5s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 73% occupied, 253 triangles, BCR_Tube_Mesh1
+[2023.08.01-04.55.26:440][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.08.01-04.55.26:443][544]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleTemplate/Maps/VehicleExampleMap' took 0.017
+[2023.08.01-04.55.26:444][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestStuff/BCR_Tube_Mesh12] ([1] browsable assets)...
+[2023.08.01-04.55.26:571][544]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TestStuff/BCR_Tube_Mesh12.BCR_Tube_Mesh12]
+[2023.08.01-04.55.26:571][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestStuff/BCR_Tube_Mesh12]
+[2023.08.01-04.55.26:571][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestStuff/BCR_Tube_Mesh12" FILE="../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh12_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.08.01-04.55.26:578][544]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestStuff/BCR_Tube_Mesh12_Auto4
+[2023.08.01-04.55.26:578][544]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/BCR_Tube_Mesh12_Auto45111E82544A0F07D35124E8F29F9470A.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh12_Auto4.uasset'
+[2023.08.01-04.55.26:578][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestStuff/BCR_Tube_Mesh1] ([1] browsable assets)...
+[2023.08.01-04.55.26:601][544]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TestStuff/BCR_Tube_Mesh1.BCR_Tube_Mesh1]
+[2023.08.01-04.55.26:601][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestStuff/BCR_Tube_Mesh1]
+[2023.08.01-04.55.26:601][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestStuff/BCR_Tube_Mesh1" FILE="../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh1_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.08.01-04.55.26:605][544]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestStuff/BCR_Tube_Mesh1_Auto4
+[2023.08.01-04.55.26:605][544]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/BCR_Tube_Mesh1_Auto4406E15774F9FAD9184D8A3BC7D9B8949.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh1_Auto4.uasset'
+[2023.08.01-04.55.26:606][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestStuff/BCR_Tube_Mesh2] ([1] browsable assets)...
+[2023.08.01-04.55.26:629][544]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TestStuff/BCR_Tube_Mesh2.BCR_Tube_Mesh2]
+[2023.08.01-04.55.26:629][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestStuff/BCR_Tube_Mesh2]
+[2023.08.01-04.55.26:629][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestStuff/BCR_Tube_Mesh2" FILE="../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh2_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.08.01-04.55.26:633][544]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestStuff/BCR_Tube_Mesh2_Auto4
+[2023.08.01-04.55.26:634][544]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/BCR_Tube_Mesh2_Auto46AD6634E4DE496DCED09AB8D53025A09.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh2_Auto4.uasset'
+[2023.08.01-04.55.26:634][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestStuff/BCR_Tube_Mesh3] ([1] browsable assets)...
+[2023.08.01-04.55.26:657][544]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TestStuff/BCR_Tube_Mesh3.BCR_Tube_Mesh3]
+[2023.08.01-04.55.26:657][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestStuff/BCR_Tube_Mesh3]
+[2023.08.01-04.55.26:657][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestStuff/BCR_Tube_Mesh3" FILE="../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh3_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.08.01-04.55.26:664][544]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestStuff/BCR_Tube_Mesh3_Auto4
+[2023.08.01-04.55.26:664][544]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/BCR_Tube_Mesh3_Auto46D36887D43482E85CBB83D9E060F4E20.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh3_Auto4.uasset'
+[2023.08.01-04.55.26:665][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestStuff/BCR_Tube_Mesh4] ([1] browsable assets)...
+[2023.08.01-04.55.26:688][544]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TestStuff/BCR_Tube_Mesh4.BCR_Tube_Mesh4]
+[2023.08.01-04.55.26:688][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestStuff/BCR_Tube_Mesh4]
+[2023.08.01-04.55.26:688][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestStuff/BCR_Tube_Mesh4" FILE="../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh4_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.08.01-04.55.26:711][544]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestStuff/BCR_Tube_Mesh4_Auto4
+[2023.08.01-04.55.26:711][544]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/BCR_Tube_Mesh4_Auto424FFBF2940A93FC5CD9FC1A38D09C9CD.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh4_Auto4.uasset'
+[2023.08.01-04.55.26:712][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestStuff/BCR_Tube_Mesh5] ([1] browsable assets)...
+[2023.08.01-04.55.26:735][544]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TestStuff/BCR_Tube_Mesh5.BCR_Tube_Mesh5]
+[2023.08.01-04.55.26:735][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestStuff/BCR_Tube_Mesh5]
+[2023.08.01-04.55.26:735][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestStuff/BCR_Tube_Mesh5" FILE="../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh5_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.08.01-04.55.26:742][544]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestStuff/BCR_Tube_Mesh5_Auto4
+[2023.08.01-04.55.26:742][544]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/BCR_Tube_Mesh5_Auto4AB4A9ECB4C95DC9A7C923686D8067C24.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh5_Auto4.uasset'
+[2023.08.01-04.55.26:743][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestStuff/BCR_Tube_Mesh6] ([1] browsable assets)...
+[2023.08.01-04.55.26:766][544]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TestStuff/BCR_Tube_Mesh6.BCR_Tube_Mesh6]
+[2023.08.01-04.55.26:766][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestStuff/BCR_Tube_Mesh6]
+[2023.08.01-04.55.26:766][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestStuff/BCR_Tube_Mesh6" FILE="../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh6_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.08.01-04.55.26:772][544]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestStuff/BCR_Tube_Mesh6_Auto4
+[2023.08.01-04.55.26:773][544]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/BCR_Tube_Mesh6_Auto42493FC614E010AFDB4D7A99648795117.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh6_Auto4.uasset'
+[2023.08.01-04.55.26:773][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestStuff/BCR_Tube_Mesh7] ([1] browsable assets)...
+[2023.08.01-04.55.26:796][544]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TestStuff/BCR_Tube_Mesh7.BCR_Tube_Mesh7]
+[2023.08.01-04.55.26:797][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestStuff/BCR_Tube_Mesh7]
+[2023.08.01-04.55.26:797][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestStuff/BCR_Tube_Mesh7" FILE="../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh7_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.08.01-04.55.26:803][544]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestStuff/BCR_Tube_Mesh7_Auto4
+[2023.08.01-04.55.26:804][544]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/BCR_Tube_Mesh7_Auto4FA02C52D4BA3F221842CB5A2DDF07820.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh7_Auto4.uasset'
+[2023.08.01-04.55.26:804][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestStuff/BCR_Tube_Mesh8] ([1] browsable assets)...
+[2023.08.01-04.55.26:827][544]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TestStuff/BCR_Tube_Mesh8.BCR_Tube_Mesh8]
+[2023.08.01-04.55.26:827][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestStuff/BCR_Tube_Mesh8]
+[2023.08.01-04.55.26:827][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestStuff/BCR_Tube_Mesh8" FILE="../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh8_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.08.01-04.55.26:837][544]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestStuff/BCR_Tube_Mesh8_Auto4
+[2023.08.01-04.55.26:837][544]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/BCR_Tube_Mesh8_Auto41F033A6A4666495EF8D30385E6B22378.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh8_Auto4.uasset'
+[2023.08.01-04.55.26:838][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestStuff/BCR_Tube_Mesh9] ([1] browsable assets)...
+[2023.08.01-04.55.26:861][544]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TestStuff/BCR_Tube_Mesh9.BCR_Tube_Mesh9]
+[2023.08.01-04.55.26:861][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestStuff/BCR_Tube_Mesh9]
+[2023.08.01-04.55.26:861][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestStuff/BCR_Tube_Mesh9" FILE="../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh9_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.08.01-04.55.26:867][544]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestStuff/BCR_Tube_Mesh9_Auto4
+[2023.08.01-04.55.26:867][544]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/BCR_Tube_Mesh9_Auto4E812034647272B1CBBDC298D04D7CE7F.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh9_Auto4.uasset'
+[2023.08.01-04.55.26:869][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestStuff/BCR_Tube_Mesh10] ([1] browsable assets)...
+[2023.08.01-04.55.26:891][544]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TestStuff/BCR_Tube_Mesh10.BCR_Tube_Mesh10]
+[2023.08.01-04.55.26:891][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestStuff/BCR_Tube_Mesh10]
+[2023.08.01-04.55.26:891][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestStuff/BCR_Tube_Mesh10" FILE="../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh10_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.08.01-04.55.26:897][544]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestStuff/BCR_Tube_Mesh10_Auto4
+[2023.08.01-04.55.26:897][544]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/BCR_Tube_Mesh10_Auto45590D3664588A1CBA41AA0BD67F928E1.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh10_Auto4.uasset'
+[2023.08.01-04.55.26:898][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestStuff/BCR_Tube_Mesh11] ([1] browsable assets)...
+[2023.08.01-04.55.26:923][544]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TestStuff/BCR_Tube_Mesh11.BCR_Tube_Mesh11]
+[2023.08.01-04.55.26:923][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestStuff/BCR_Tube_Mesh11]
+[2023.08.01-04.55.26:923][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestStuff/BCR_Tube_Mesh11" FILE="../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh11_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.08.01-04.55.26:929][544]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestStuff/BCR_Tube_Mesh11_Auto4
+[2023.08.01-04.55.26:930][544]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/BCR_Tube_Mesh11_Auto43CFD76A44A978A4E64410D9C5C71EF6C.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/TestStuff/BCR_Tube_Mesh11_Auto4.uasset'
+[2023.08.01-04.55.26:930][544]LogFileHelpers: Auto-saving content packages took 0.487
+[2023.08.01-04.55.53:347][669]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\x87\Desktop\Project Car\Track Prefabs\Level Intro\Editorials (New shit updated, testing)\BCR Tube Joined.fbx)
+[2023.08.01-04.55.53:411][669]LogFbx: Loading FBX Scene from C:\Users\x87\Desktop\Project Car\Track Prefabs\Level Intro\Editorials (New shit updated, testing)\BCR Tube Joined.fbx
+[2023.08.01-04.55.53:642][669]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.01-04.55.55:127][669]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.08.01-04.55.55:431][669]LogStaticMesh: Display: Building static mesh BCR_Tube_Joined...
+[2023.08.01-04.55.56:052][669]LogStaticMesh: Built static mesh [0.62s] /Game/TestStuff/BCR_Tube_Joined.BCR_Tube_Joined
+[2023.08.01-04.55.56:130][669]LogStaticMesh: Warning: BCR_Tube_Joined has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.08.01-04.55.56:130][669]LogStaticMesh: Warning: BCR_Tube_Joined has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.08.01-04.55.56:234][669]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.01-04.55.56:234][669]FBXImport: Warning: BCR_Tube_Joined has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.08.01-04.55.56:235][669]FBXImport: Warning: BCR_Tube_Joined has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.08.01-04.56.01:466][669]LogMeshUtilities: Finished distance field build in 5.4s - 126x126x126 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 77% occupied, 9591 triangles, BCR_Tube_Joined
+[2023.08.01-04.56.01:489][669]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TestStuff/BCR_Tube_Joined) ...
+[2023.08.01-04.56.07:615][872]LogMeshUtilities: Finished distance field build in 6.1s - 126x126x126 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 77% occupied, 9591 triangles, BCR_Tube_Joined
+[2023.08.01-04.56.07:727][877]LogSlate: Window 'Message Log' being destroyed
+[2023.08.01-04.56.07:790][877]LogSlate: Window 'Message Log' being destroyed
+[2023.08.01-04.56.14:795][111]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestStuff/BCR_Tube_Joined.BCR_Tube_Joined
+[2023.08.01-04.56.14:796][111]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestStuff/BCR_Tube_Joined.BCR_Tube_Joined
+[2023.08.01-04.56.14:815][111]LogActorFactory: Actor Factory spawned StaticMesh /Game/TestStuff/BCR_Tube_Joined.BCR_Tube_Joined as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_1
+[2023.08.01-04.56.17:751][156]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestStuff/BCR_Tube_Joined.BCR_Tube_Joined
+[2023.08.01-04.56.17:751][156]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestStuff/BCR_Tube_Joined.BCR_Tube_Joined
+[2023.08.01-04.56.17:752][156]LogActorFactory: Actor Factory spawned StaticMesh /Game/TestStuff/BCR_Tube_Joined.BCR_Tube_Joined as actor: StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F533C9B01_1607229432
+[2023.08.01-04.58.47:634][ 42]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/4D/1Q1YR2UMI1IJ72DWCN8KRO
+[2023.08.01-04.58.47:634][ 42]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/1Q1YR2UMI1IJ72DWCN8KRO97873EC04BB9293684EDB892C1E32557.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/4D/1Q1YR2UMI1IJ72DWCN8KRO.uasset'
+[2023.08.01-04.58.47:670][ 42]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_4CEDFBD84F533C9B01_1607229432
+[2023.08.01-04.58.47:670][ 42]LogContentValidation: Display: Validating StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F533C9B01_1607229432
