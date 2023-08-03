@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Hasan/Documents/GitHub/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/ZX/JQU8WT7W7CT7SPH57XDPBT.uasset",
+				"C:/Users/Hasan/Documents/GitHub/SportCar/Content/VehicleTemplate/Maps/VehicleExampleMap.umap",
+				"C:/Users/Hasan/Documents/GitHub/SportCar/Content/SciFiCyberHoverCar2/Blueprints/BP_SciFiCyberHoverCar.uasset",
+				"C:/Users/Hasan/Documents/GitHub/SportCar/Content/VehicleTemplate/Blueprints/VehiclePlayerController.uasset",
+				"C:/Users/Hasan/Documents/GitHub/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/PJ/RL4JT8QG27NYV1PWLZCJ8J.uasset"
+			]
+		}
+	]
+}
