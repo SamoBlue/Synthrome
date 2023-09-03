@@ -5838,3 +5838,408 @@ Execution of commandlet took:  8.13 seconds
 [2023.09.02-22.53.57:039][150]LogContentValidation: Display: Validating /Game/2DSideScrollerBP/Blueprints/Map/Moving_Platform_3.Moving_Platform_3_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Moving_Platform_3_C_UAID_4CEDFBD84F5387A501_1627628179
 [2023.09.02-22.53.57:039][150]LogContentValidation: Display: Validating /Game/2DSideScrollerBP/Blueprints/Map/Moving_Platform_3.Moving_Platform_3_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Moving_Platform_3_C_UAID_4CEDFBD84F5387A501_1479385178
 [2023.09.02-22.53.57:063][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-23.05.46:826][304]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.102 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4043 files in 5623 folders with total size 341 MiB.
+[2023.09.02-23.47.17:968][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.02-23.47.18:768][938]LogUObjectHash: Compacting FUObjectHashTables data took  21.53ms
+[2023.09.02-23.47.18:907][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.09.02-23.47.19:019][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.09.02-23.47.19:054][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.08 sec (total: 57.6 sec)
+[2023.09.03-00.05.47:017][297]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.293 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4043 files in 5623 folders with total size 341 MiB.
+[2023.09.03-01.05.46:832][ 92]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.107 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4043 files in 5623 folders with total size 341 MiB.
+[2023.09.03-02.05.46:855][891]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.129 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4043 files in 5623 folders with total size 341 MiB.
+[2023.09.03-03.05.46:827][688]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.101 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4043 files in 5623 folders with total size 341 MiB.
+[2023.09.03-03.08.10:130][118]LogHttp: Warning: 00000ABE35A2A000: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE6A9907E-4D4B-5DB1-AF95-86B46AD28B5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=650db6ce447e7aba7b6367a323662ba4%7C901b4a4ee69248ee9dee22bbcc81216d%7C797c9b41-84be-4ad6-a36b-080fa429bca8&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.09.03-03.08.10:130][118]LogHttp: Warning: 00000ABE35A2A000: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.09.03-03.08.10:130][118]LogHttp: Warning: 00000ABE35A2A000: libcurl info message cache 0 (Found bundle for host: 0xabdc4160a80 [serially])
+[2023.09.03-03.08.10:130][118]LogHttp: Warning: 00000ABE35A2A000: libcurl info message cache 1 (Re-using existing connection #16 with host datarouter.ol.epicgames.com)
+[2023.09.03-03.08.10:130][118]LogHttp: Warning: 00000ABE35A2A000: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.207.166.5) port 443 (#16))
+[2023.09.03-03.08.10:130][118]LogHttp: Warning: 00000ABE35A2A000: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.09.03-03.08.10:130][118]LogHttp: Warning: 00000ABE35A2A000: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.09.03-03.08.10:130][118]LogHttp: Warning: 00000ABE35A2A000: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.09.03-03.08.10:130][118]LogHttp: Warning: 00000ABE35A2A000: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.09.03-03.08.10:130][118]LogHttp: Warning: 00000ABE35A2A000: libcurl info message cache 7 (Closing connection 16)
+[2023.09.03-03.08.10:134][118]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE6A9907E-4D4B-5DB1-AF95-86B46AD28B5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=650db6ce447e7aba7b6367a323662ba4%7C901b4a4ee69248ee9dee22bbcc81216d%7C797c9b41-84be-4ad6-a36b-080fa429bca8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.03-03.12.07:845][831]LogHttp: Warning: 00000ABE35A23C00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE6A9907E-4D4B-5DB1-AF95-86B46AD28B5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=650db6ce447e7aba7b6367a323662ba4%7C901b4a4ee69248ee9dee22bbcc81216d%7C797c9b41-84be-4ad6-a36b-080fa429bca8&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.09.03-03.12.07:845][831]LogHttp: Warning: 00000ABE35A23C00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.09.03-03.12.07:845][831]LogHttp: Warning: 00000ABE35A23C00: libcurl info message cache 0 (Found bundle for host: 0xabdc41609c0 [serially])
+[2023.09.03-03.12.07:845][831]LogHttp: Warning: 00000ABE35A23C00: libcurl info message cache 1 (Re-using existing connection #17 with host datarouter.ol.epicgames.com)
+[2023.09.03-03.12.07:845][831]LogHttp: Warning: 00000ABE35A23C00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.20.159.147) port 443 (#17))
+[2023.09.03-03.12.07:845][831]LogHttp: Warning: 00000ABE35A23C00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.09.03-03.12.07:845][831]LogHttp: Warning: 00000ABE35A23C00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.09.03-03.12.07:845][831]LogHttp: Warning: 00000ABE35A23C00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.09.03-03.12.07:846][831]LogHttp: Warning: 00000ABE35A23C00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.09.03-03.12.07:846][831]LogHttp: Warning: 00000ABE35A23C00: libcurl info message cache 7 (Closing connection 17)
+[2023.09.03-03.12.07:846][831]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE6A9907E-4D4B-5DB1-AF95-86B46AD28B5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=650db6ce447e7aba7b6367a323662ba4%7C901b4a4ee69248ee9dee22bbcc81216d%7C797c9b41-84be-4ad6-a36b-080fa429bca8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.03-03.15.10:207][378]LogHttp: Warning: 00000ABE35A23C00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE6A9907E-4D4B-5DB1-AF95-86B46AD28B5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=650db6ce447e7aba7b6367a323662ba4%7C901b4a4ee69248ee9dee22bbcc81216d%7C797c9b41-84be-4ad6-a36b-080fa429bca8&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.09.03-03.15.10:207][378]LogHttp: Warning: 00000ABE35A23C00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.09.03-03.15.10:207][378]LogHttp: Warning: 00000ABE35A23C00: libcurl info message cache 0 (Found bundle for host: 0xabdc4160c60 [serially])
+[2023.09.03-03.15.10:208][378]LogHttp: Warning: 00000ABE35A23C00: libcurl info message cache 1 (Re-using existing connection #18 with host datarouter.ol.epicgames.com)
+[2023.09.03-03.15.10:208][378]LogHttp: Warning: 00000ABE35A23C00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.237.28.194) port 443 (#18))
+[2023.09.03-03.15.10:208][378]LogHttp: Warning: 00000ABE35A23C00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.09.03-03.15.10:208][378]LogHttp: Warning: 00000ABE35A23C00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.09.03-03.15.10:208][378]LogHttp: Warning: 00000ABE35A23C00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.09.03-03.15.10:208][378]LogHttp: Warning: 00000ABE35A23C00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.09.03-03.15.10:208][378]LogHttp: Warning: 00000ABE35A23C00: libcurl info message cache 7 (Closing connection 18)
+[2023.09.03-03.15.10:208][378]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE6A9907E-4D4B-5DB1-AF95-86B46AD28B5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=650db6ce447e7aba7b6367a323662ba4%7C901b4a4ee69248ee9dee22bbcc81216d%7C797c9b41-84be-4ad6-a36b-080fa429bca8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.03-03.17.12:228][744]LogHttp: Warning: 00000ABE35A2F000: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE6A9907E-4D4B-5DB1-AF95-86B46AD28B5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=650db6ce447e7aba7b6367a323662ba4%7C901b4a4ee69248ee9dee22bbcc81216d%7C797c9b41-84be-4ad6-a36b-080fa429bca8&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.09.03-03.17.12:228][744]LogHttp: Warning: 00000ABE35A2F000: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.09.03-03.17.12:228][744]LogHttp: Warning: 00000ABE35A2F000: libcurl info message cache 0 (Found bundle for host: 0xabdc4160db0 [serially])
+[2023.09.03-03.17.12:228][744]LogHttp: Warning: 00000ABE35A2F000: libcurl info message cache 1 (Re-using existing connection #19 with host datarouter.ol.epicgames.com)
+[2023.09.03-03.17.12:228][744]LogHttp: Warning: 00000ABE35A2F000: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.220.35.16) port 443 (#19))
+[2023.09.03-03.17.12:228][744]LogHttp: Warning: 00000ABE35A2F000: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.09.03-03.17.12:229][744]LogHttp: Warning: 00000ABE35A2F000: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.09.03-03.17.12:229][744]LogHttp: Warning: 00000ABE35A2F000: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.09.03-03.17.12:229][744]LogHttp: Warning: 00000ABE35A2F000: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.09.03-03.17.12:229][744]LogHttp: Warning: 00000ABE35A2F000: libcurl info message cache 7 (Closing connection 19)
+[2023.09.03-03.17.12:229][744]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE6A9907E-4D4B-5DB1-AF95-86B46AD28B5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=650db6ce447e7aba7b6367a323662ba4%7C901b4a4ee69248ee9dee22bbcc81216d%7C797c9b41-84be-4ad6-a36b-080fa429bca8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.03-04.05.46:825][486]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.099 and deleted 38 files with total size 3 MiB and 38 empty folders. Scanned 4043 files in 5623 folders with total size 341 MiB.
+[2023.09.03-05.05.46:846][284]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.119 and deleted 1 files with total size 0 MiB and 27 empty folders. Scanned 4005 files in 5585 folders with total size 338 MiB.
+[2023.09.03-06.05.46:823][ 82]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.095 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 4004 files in 5558 folders with total size 338 MiB.
+[2023.09.03-07.05.46:819][880]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.090 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4004 files in 5557 folders with total size 338 MiB.
+[2023.09.03-08.05.46:820][678]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.091 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4004 files in 5557 folders with total size 338 MiB.
+[2023.09.03-09.05.46:813][477]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.084 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4004 files in 5557 folders with total size 338 MiB.
+[2023.09.03-10.05.46:819][275]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.089 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4004 files in 5557 folders with total size 338 MiB.
+[2023.09.03-11.05.46:813][ 71]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.083 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4004 files in 5557 folders with total size 338 MiB.
+[2023.09.03-12.05.47:874][870]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.093 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4004 files in 5557 folders with total size 338 MiB.
+[2023.09.03-13.05.47:862][663]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.081 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4004 files in 5557 folders with total size 338 MiB.
+[2023.09.03-13.28.59:598][274]Cmd: EDIT COPY
+[2023.09.03-13.29.00:131][276]Cmd: EDIT PASTE
+[2023.09.03-13.29.00:511][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.29.13:737][444]LogEditorViewport: Clicking Background
+[2023.09.03-13.29.23:421][651]Cmd: EDIT PASTE
+[2023.09.03-13.29.23:851][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.29.38:670][948]Cmd: EDIT COPY
+[2023.09.03-13.29.38:932][954]Cmd: EDIT PASTE
+[2023.09.03-13.29.39:246][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.25:123][698]LogContentBundle: [VehicleExampleMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.03-13.30.25:133][698]MapCheck: Actor needs resave /Game/VehicleTemplate/Maps/VehicleExampleMap.WorldDataLayers-1 
+[2023.09.03-13.30.25:155][698]LogWorldPartition: Display: GenerateStreaming started...
+[2023.09.03-13.30.25:156][698]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.09.03-13.30.25:156][698]LogWorldPartition: Display: GetPartitionedActors took 124 us (total: 877 us)
+[2023.09.03-13.30.25:160][698]LogWorldPartition: Display: GenerateStreaming took 4 ms (total: 34 ms)
+[2023.09.03-13.30.25:164][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.03-13.30.25:167][698]PIE: New page: PIE session: VehicleExampleMap (Sep 3, 2023, 7:30:25 PM)
+[2023.09.03-13.30.25:169][698]LogPlayLevel: Creating play world package: /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.03-13.30.25:443][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.273104s)
+[2023.09.03-13.30.25:443][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.274222s)
+[2023.09.03-13.30.25:445][698]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.03-13.30.25:448][698]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.03-13.30.25:453][698]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2023.09.03-13.30.25:463][698]LogWorldPartition: ULevel::OnLevelLoaded(VehicleExampleMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.03-13.30.25:463][698]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.03-13.30.25:463][698]LogWorldPartition: UWorldPartition::Initialize(Asset=VehicleExampleMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.03-13.30.25:499][698]LogContentBundle: [VehicleExampleMap(Standalone)] Creating new contrainer.
+[2023.09.03-13.30.25:499][698]LogWorldPartition: Display: WorldPartition initialize took 37 ms (total: 6.17 sec)
+[2023.09.03-13.30.25:500][698]LogPlayLevel: PIE: World Init took: (0.057230s)
+[2023.09.03-13.30.25:826][698]LogUObjectHash: Compacting FUObjectHashTables data took  21.20ms
+[2023.09.03-13.30.25:838][698]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.09.03-13.30.25:839][698]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.03-13.30.25:839][698]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.03-13.30.25:839][698]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.03-13.30.25:839][698]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.03-13.30.25:839][698]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.03-13.30.25:839][698]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.03-13.30.25:840][698]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.03-13.30.25:840][698]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.03-13.30.25:844][698]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.03-13.30.25:844][698]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.03-13.30.25:845][698]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.03-13.30.25:854][698]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.03-13.30.25:948][698]LogAudioMixer: Display: Using Audio Hardware Device Headphones (MINISO M20 Stereo)
+[2023.09.03-13.30.25:959][698]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.03-13.30.25:959][698]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.03-13.30.25:959][698]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.03-13.30.25:972][698]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.09.03-13.30.25:972][698]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.09.03-13.30.25:981][698]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.09.03-13.30.25:981][698]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.09.03-13.30.25:985][698]LogInit: FAudioDevice initialized with ID 22.
+[2023.09.03-13.30.25:985][698]LogAudio: Display: Audio Device (ID: 22) registered with world 'VehicleExampleMap'.
+[2023.09.03-13.30.25:986][698]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2023.09.03-13.30.26:044][698]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2023.09.03-13.30.26:093][698]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Deathwall_C_UAID_A85E45D562F155A401_1918167484.Box has a component set to zero, which will result in a bad body instance. Scale:X=6652.875 Y=6652.875 Z=0.000
+[2023.09.03-13.30.26:132][698]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1550778998.Box has a component set to zero, which will result in a bad body instance. Scale:X=131.250 Y=0.000 Z=114.062
+[2023.09.03-13.30.26:132][698]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1416644990.Box has a component set to zero, which will result in a bad body instance. Scale:X=183.750 Y=0.000 Z=159.688
+[2023.09.03-13.30.26:132][698]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1441821991.Box has a component set to zero, which will result in a bad body instance. Scale:X=183.750 Y=0.000 Z=159.688
+[2023.09.03-13.30.26:133][698]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1458744992.Box has a component set to zero, which will result in a bad body instance. Scale:X=183.750 Y=0.000 Z=159.688
+[2023.09.03-13.30.26:133][698]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F1589901_1493297217.Box has a component set to zero, which will result in a bad body instance. Scale:X=28.875 Y=0.000 Z=25.094
+[2023.09.03-13.30.26:134][698]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1473257993.Box has a component set to zero, which will result in a bad body instance. Scale:X=157.500 Y=0.000 Z=136.875
+[2023.09.03-13.30.26:134][698]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1493068995.Box has a component set to zero, which will result in a bad body instance. Scale:X=131.250 Y=0.000 Z=114.062
+[2023.09.03-13.30.26:135][698]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1487658994.Box has a component set to zero, which will result in a bad body instance. Scale:X=157.500 Y=0.000 Z=136.875
+[2023.09.03-13.30.26:135][698]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1521235996.Box has a component set to zero, which will result in a bad body instance. Scale:X=131.250 Y=0.000 Z=114.062
+[2023.09.03-13.30.26:135][698]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1532738997.Box has a component set to zero, which will result in a bad body instance. Scale:X=131.250 Y=0.000 Z=114.062
+[2023.09.03-13.30.26:136][698]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1294957989.Box has a component set to zero, which will result in a bad body instance. Scale:X=81.375 Y=0.000 Z=70.719
+[2023.09.03-13.30.26:137][698]LogWorld: Bringing World /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2023.09.03-16.30.26
+[2023.09.03-13.30.26:149][698]LogWorld: Bringing up level for play took: 0.102224
+[2023.09.03-13.30.26:162][698]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.09.03-13.30.26:169][698]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.09.03-13.30.26:235][698]PIE: Server logged in
+[2023.09.03-13.30.26:237][698]PIE: Play in editor total start time 1.114 seconds.
+[2023.09.03-13.30.26:353][698]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.26:355][698]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.26:357][698]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.26:359][698]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.26:361][698]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.26:364][698]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.26:368][698]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.26:370][698]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.26:373][698]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.26:376][698]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.26:381][698]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.27:655][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.27:657][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.27:659][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.27:661][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.27:663][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.27:666][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.27:668][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.27:670][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.27:671][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.27:673][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.27:681][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.30:350][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.03-13.30.30:351][726]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.03-13.30.30:355][726]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.03-13.30.30:367][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.03-13.30.30:368][726]LogContentBundle: [VehicleExampleMap(Standalone)] Deleting container.
+[2023.09.03-13.30.30:378][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.03-13.30.30:391][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.03-13.30.30:522][726]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.03-13.30.30:522][726]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2023.09.03-13.30.30:522][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.09.03-13.30.30:529][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.09.03-13.30.30:546][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.03-13.30.30:568][726]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2023.09.03-13.30.30:734][726]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.30:832][727]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.09.03-13.30.30:877][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-13.30.42:045][929]LogEditorViewport: Clicking Background
+[2023.09.03-13.31.29:217][558]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/TestStuff/fatima/Pyramid2/05_SPHERE.05_SPHERE
+[2023.09.03-13.31.29:969][558]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.03-13.31.29:969][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.03-13.31.31:225][558]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.09.03-13.31.32:106][558]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.004332s (0.889866s overbudget)
+[2023.09.03-13.31.32:106][558]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/TestStuff/fatima/Pyramid2/04_TEMPLE_-_TOP.04_TEMPLE_-_TOP
+[2023.09.03-13.31.32:130][558]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.03-13.31.32:131][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.03-13.31.33:414][558]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/TestStuff/fatima/Pyramid2/03_TEMPLE_-_TOP_LI_Object007.03_TEMPLE_-_TOP_LI_Object007
+[2023.09.03-13.31.33:443][558]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.03-13.31.33:444][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.03-13.31.34:709][558]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/TestStuff/fatima/Pyramid2/02_TEMPLE_-_BASE_LI_Object006.02_TEMPLE_-_BASE_LI_Object006
+[2023.09.03-13.31.34:763][558]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.03-13.31.34:763][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.03-13.31.36:025][558]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/TestStuff/fatima/Pyramid2/02_TEMPLE_-_BASE_LI_Object005.02_TEMPLE_-_BASE_LI_Object005
+[2023.09.03-13.31.36:049][558]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.03-13.31.36:049][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.03-13.31.37:271][558]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/TestStuff/fatima/Pyramid2/02_TEMPLE_-_BASE_LI_Object004.02_TEMPLE_-_BASE_LI_Object004
+[2023.09.03-13.31.37:293][558]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.03-13.31.37:296][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.03-13.31.38:142][558]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/TestStuff/fatima/Pyramid2/01_TEMPLE_-_BASE.01_TEMPLE_-_BASE
+[2023.09.03-13.31.38:149][558]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.03-13.31.38:149][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.03-13.31.39:152][558]LogViewport: Scene viewport resized to 869x445, mode Windowed.
+[2023.09.03-13.31.39:770][559]LogAutomationController: Ignoring very large delta of 10.58 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.09.03-13.31.42:270][606]LogViewport: Scene viewport resized to 1403x858, mode Windowed.
+[2023.09.03-13.31.43:745][609]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2023.09.03-13.31.43:756][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/LD/HC0CFKP5A2L64PXCW0X88G_Auto3
+[2023.09.03-13.31.43:757][609]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/HC0CFKP5A2L64PXCW0X88G_Auto33463F2E64ED80768F0565DA340E77666.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/LD/HC0CFKP5A2L64PXCW0X88G_Auto3.uasset'
+[2023.09.03-13.31.43:765][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/5H/JN982BKF5P31EA5T6XJXR0_Auto3
+[2023.09.03-13.31.43:765][609]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/JN982BKF5P31EA5T6XJXR0_Auto346366E98444E41950732259BE1E1DC4A.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/5H/JN982BKF5P31EA5T6XJXR0_Auto3.uasset'
+[2023.09.03-13.31.43:787][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/4Y/U31M09N240IPMN31ZQWZWY_Auto3
+[2023.09.03-13.31.43:787][609]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/U31M09N240IPMN31ZQWZWY_Auto35C8D36C341E96987507435957E2B52C0.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/4Y/U31M09N240IPMN31ZQWZWY_Auto3.uasset'
+[2023.09.03-13.31.43:800][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/9L/H8Q0HTYPJE864H72XNQRSF_Auto3
+[2023.09.03-13.31.43:801][609]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/H8Q0HTYPJE864H72XNQRSF_Auto36CD3196F4C183E14E0A5C79DE515C2E5.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/9L/H8Q0HTYPJE864H72XNQRSF_Auto3.uasset'
+[2023.09.03-13.31.43:820][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/V5/LZXE6GUYKZWW3TR9XR2WX4_Auto3
+[2023.09.03-13.31.43:820][609]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/LZXE6GUYKZWW3TR9XR2WX4_Auto311611F5740A2B494E23BD887F10F4AEF.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/V5/LZXE6GUYKZWW3TR9XR2WX4_Auto3.uasset'
+[2023.09.03-13.31.43:827][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/YU/XW8OOAH4C9Y7TJZ08V0LP7_Auto3
+[2023.09.03-13.31.43:827][609]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/XW8OOAH4C9Y7TJZ08V0LP7_Auto31A0E29544A0820A9E58E2A85F5DD579F.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/YU/XW8OOAH4C9Y7TJZ08V0LP7_Auto3.uasset'
+[2023.09.03-13.31.43:835][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/HH/LM8YMNK0KCEIHRYHGN9GLN_Auto3
+[2023.09.03-13.31.43:835][609]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/LM8YMNK0KCEIHRYHGN9GLN_Auto349D8AA694B9120DF254F8DBFB7E947E2.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/HH/LM8YMNK0KCEIHRYHGN9GLN_Auto3.uasset'
+[2023.09.03-13.31.43:844][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/B5/R7GI56D6YZNR2MXZMUFMHP_Auto3
+[2023.09.03-13.31.43:844][609]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/R7GI56D6YZNR2MXZMUFMHP_Auto37B17ACBF41401C473E1EA4812DE2B2C7.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/B5/R7GI56D6YZNR2MXZMUFMHP_Auto3.uasset'
+[2023.09.03-13.31.43:854][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/50/YYOH8QBOK1SBF6FJYFB7EM_Auto3
+[2023.09.03-13.31.43:855][609]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/YYOH8QBOK1SBF6FJYFB7EM_Auto3F225D0F24A05CE4D6AF1F488DAE13929.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/50/YYOH8QBOK1SBF6FJYFB7EM_Auto3.uasset'
+[2023.09.03-13.31.43:865][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/DN/VTPCJEEUDEKEK1VULIDE6K_Auto3
+[2023.09.03-13.31.43:865][609]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/VTPCJEEUDEKEK1VULIDE6K_Auto3303AB4224DBB5718B5A990B5D05300B4.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/DN/VTPCJEEUDEKEK1VULIDE6K_Auto3.uasset'
+[2023.09.03-13.31.43:876][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/YX/NUCWG5E6XY0T0AZ90BV0CW_Auto3
+[2023.09.03-13.31.43:876][609]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/NUCWG5E6XY0T0AZ90BV0CW_Auto3630FABC14376B0E315A4879ED4A62BDD.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/YX/NUCWG5E6XY0T0AZ90BV0CW_Auto3.uasset'
+[2023.09.03-13.31.43:886][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/B5/AKWRIMXYV21CW5LVEZ5HIY_Auto3
+[2023.09.03-13.31.43:887][609]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/AKWRIMXYV21CW5LVEZ5HIY_Auto315446EE24A6C4F29C25BBFB4F937B60B.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/B5/AKWRIMXYV21CW5LVEZ5HIY_Auto3.uasset'
+[2023.09.03-13.31.43:897][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/UP/589FRZV34GFEUK24ACL6PH_Auto3
+[2023.09.03-13.31.43:898][609]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/589FRZV34GFEUK24ACL6PH_Auto31C8299AD45EF25507E3788AF1A3366AE.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/UP/589FRZV34GFEUK24ACL6PH_Auto3.uasset'
+[2023.09.03-13.31.43:908][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/53/EFT2N9O1A7EMTPTCF0SPK0_Auto3
+[2023.09.03-13.31.43:908][609]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/EFT2N9O1A7EMTPTCF0SPK0_Auto38A2EADC641BBADB3308F22997604A929.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/53/EFT2N9O1A7EMTPTCF0SPK0_Auto3.uasset'
+[2023.09.03-13.31.43:911][609]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleTemplate/Maps/VehicleExampleMap' took 0.281
+[2023.09.03-13.31.43:912][609]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.281
+[2023.09.03-13.31.53:484][670]LogViewport: Scene viewport resized to 1403x858, mode Windowed.
+[2023.09.03-13.31.59:378][714]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TestStuff/fatima/Pyramid2/04_TEMPLE_-_TOP) ...
+[2023.09.03-13.32.02:949][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.03-13.32.03:351][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestStuff/fatima/Pyramid2/04_TEMPLE_-_TOP" FILE="../../../../../../Epic Games/SportCar/Content/TestStuff/fatima/Pyramid2/04_TEMPLE_-_TOP.uasset" SILENT=true
+[2023.09.03-13.32.03:401][752]LogSavePackage: Moving output files for package: /Game/TestStuff/fatima/Pyramid2/04_TEMPLE_-_TOP
+[2023.09.03-13.32.03:403][752]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/04_TEMPLE_-_TOPB6E276E941233F8AFE8555AC6EB81C6C.tmp' to '../../../../../../Epic Games/SportCar/Content/TestStuff/fatima/Pyramid2/04_TEMPLE_-_TOP.uasset'
+[2023.09.03-13.32.03:450][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 501 ms (total: 58.1 sec)
+[2023.09.03-13.32.03:487][752]AssetCheck: New page: Asset Save: 04_TEMPLE_-_TOP
+[2023.09.03-13.32.03:488][752]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TestStuff/fatima/Pyramid2/04_TEMPLE_-_TOP.04_TEMPLE_-_TOP
+[2023.09.03-13.32.03:913][758]LogViewport: Scene viewport resized to 1403x858, mode Windowed.
+[2023.09.03-13.32.16:274][944]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TestStuff/fatima/Pyramid2/05_SPHERE) ...
+[2023.09.03-13.32.26:131][993]LogShaderCompilers: Display: ================================================
+[2023.09.03-13.32.26:131][993]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.03-13.32.26:132][993]LogShaderCompilers: Display: Total job queries 568, among them cache hits 86 (15.14%)
+[2023.09.03-13.32.26:132][993]LogShaderCompilers: Display: Tracking 471 distinct input hashes that result in 84 distinct outputs (17.83%)
+[2023.09.03-13.32.26:132][993]LogShaderCompilers: Display: RAM used: 10.07 MiB of 819.20 MiB budget. Usage: 1.23%
+[2023.09.03-13.32.26:132][993]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.03-13.32.26:133][993]LogShaderCompilers: Display: Shaders Compiled: 216
+[2023.09.03-13.32.26:133][993]LogShaderCompilers: Display: Jobs assigned 220, completed 216 (98.18%)
+[2023.09.03-13.32.26:133][993]LogShaderCompilers: Display: Average time worker was idle: 4470.61 s
+[2023.09.03-13.32.26:133][993]LogShaderCompilers: Display: Time job spent in pending queue: average 12.38 s, longest 70.75 s
+[2023.09.03-13.32.26:133][993]LogShaderCompilers: Display: Job execution time: average 5.26 s, max 41.42 s
+[2023.09.03-13.32.26:133][993]LogShaderCompilers: Display: Job life time (pending + execution): average 17.88 s, max 74.80
+[2023.09.03-13.32.26:133][993]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 223.38 s
+[2023.09.03-13.32.26:134][993]LogShaderCompilers: Display: Jobs were issued in 220 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.03-13.32.26:134][993]LogShaderCompilers: Display: Average processing rate: 0.97 jobs/sec
+[2023.09.03-13.32.26:134][993]LogShaderCompilers: Display: Total thread time: 1,003.264 s
+[2023.09.03-13.32.26:134][993]LogShaderCompilers: Display: Total thread preprocess time: 46.134 s
+[2023.09.03-13.32.26:134][993]LogShaderCompilers: Display: Percentage time preprocessing: 4.60%
+[2023.09.03-13.32.26:134][993]LogShaderCompilers: Display: Effective parallelization: 4.49 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.03-13.32.26:134][993]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.03-13.32.26:134][993]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   49 times, average 11.69 sec, max 41.25 sec, min 1.37 sec)
+[2023.09.03-13.32.26:135][993]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   24 times, average 3.08 sec, max 4.30 sec, min 1.90 sec)
+[2023.09.03-13.32.26:135][993]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   12 times, average 2.93 sec, max 5.20 sec, min 1.45 sec)
+[2023.09.03-13.32.26:135][993]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   25 times, average 2.89 sec, max 4.49 sec, min 1.88 sec)
+[2023.09.03-13.32.26:135][993]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    5 times, average 2.88 sec, max 3.39 sec, min 2.42 sec)
+[2023.09.03-13.32.26:135][993]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.03-13.32.26:135][993]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 57.10% of total time (compiled   49 times, average 11.69 sec, max 41.25 sec, min 1.37 sec)
+[2023.09.03-13.32.26:135][993]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.36% of total time (compiled   24 times, average 3.08 sec, max 4.30 sec, min 1.90 sec)
+[2023.09.03-13.32.26:136][993]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.19% of total time (compiled   25 times, average 2.89 sec, max 4.49 sec, min 1.88 sec)
+[2023.09.03-13.32.26:136][993]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.80% of total time (compiled   24 times, average 2.43 sec, max 4.07 sec, min 1.70 sec)
+[2023.09.03-13.32.26:136][993]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.66% of total time (compiled   25 times, average 1.87 sec, max 3.26 sec, min 1.37 sec)
+[2023.09.03-13.32.26:136][993]LogShaderCompilers: Display: ================================================
+[2023.09.03-13.32.35:189][ 82]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TestStuff/fatima/Pyramid2/01_TEMPLE_-_BASE) ...
+[2023.09.03-13.32.46:133][157]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TestStuff/fatima/Pyramid2/01_TEMPLE_-_BASE) ...
+[2023.09.03-13.32.56:139][241]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TestStuff/fatima/Pyramid2/01_TEMPLE_-_BASE) ...
+[2023.09.03-13.33.05:971][324]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TestStuff/fatima/Pyramid2/01_TEMPLE_-_BASE) ...
+[2023.09.03-13.33.16:211][394]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TestStuff/fatima/Pyramid2/01_TEMPLE_-_BASE) ...
+[2023.09.03-13.33.31:679][566]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TestStuff/fatima/Pyramid2/01_TEMPLE_-_BASE) ...
+[2023.09.03-13.33.43:964][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.03-13.33.44:280][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestStuff/fatima/Pyramid2/01_TEMPLE_-_BASE" FILE="../../../../../../Epic Games/SportCar/Content/TestStuff/fatima/Pyramid2/01_TEMPLE_-_BASE.uasset" SILENT=true
+[2023.09.03-13.33.44:433][622]LogSavePackage: Moving output files for package: /Game/TestStuff/fatima/Pyramid2/01_TEMPLE_-_BASE
+[2023.09.03-13.33.44:435][622]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/01_TEMPLE_-_BASECF15685C477D8E349B579D80F413CFC8.tmp' to '../../../../../../Epic Games/SportCar/Content/TestStuff/fatima/Pyramid2/01_TEMPLE_-_BASE.uasset'
+[2023.09.03-13.33.44:489][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 525 ms (total: 58.7 sec)
+[2023.09.03-13.33.44:517][622]AssetCheck: New page: Asset Save: 01_TEMPLE_-_BASE
+[2023.09.03-13.33.44:518][622]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TestStuff/fatima/Pyramid2/01_TEMPLE_-_BASE.01_TEMPLE_-_BASE
+[2023.09.03-13.33.47:902][651]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.09.03-13.33.47:902][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.03-13.33.48:075][651]LogViewport: Scene viewport resized to 1403x858, mode Windowed.
+[2023.09.03-13.34.03:269][944]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TestStuff/fatima/Pyramid2/02_TEMPLE_-_BASE_LI_Object004) ...
+[2023.09.03-13.34.05:645][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.03-13.34.05:986][962]LogSavePackage: Moving output files for package: /Game/TestStuff/fatima/Pyramid2/02_TEMPLE_-_BASE_LI_Object004
+[2023.09.03-13.34.05:988][962]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/02_TEMPLE_-_BASE_LI_Object0040B2188D5433D4F98931198B81B3380CB.tmp' to '../../../../../../Epic Games/SportCar/Content/TestStuff/fatima/Pyramid2/02_TEMPLE_-_BASE_LI_Object004.uasset'
+[2023.09.03-13.34.06:031][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 385 ms (total: 59.0 sec)
+[2023.09.03-13.34.06:055][962]AssetCheck: New page: Asset Save: 02_TEMPLE_-_BASE_LI_Object004
+[2023.09.03-13.34.06:055][962]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TestStuff/fatima/Pyramid2/02_TEMPLE_-_BASE_LI_Object004.02_TEMPLE_-_BASE_LI_Object004
+[2023.09.03-13.34.07:718][972]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.09.03-13.34.07:719][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.03-13.34.07:820][972]LogViewport: Scene viewport resized to 1403x858, mode Windowed.
+[2023.09.03-13.34.14:994][ 98]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TestStuff/fatima/Pyramid2/02_TEMPLE_-_BASE_LI_Object005) ...
+[2023.09.03-13.34.16:993][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.03-13.34.17:337][121]LogSavePackage: Moving output files for package: /Game/TestStuff/fatima/Pyramid2/02_TEMPLE_-_BASE_LI_Object005
+[2023.09.03-13.34.17:338][121]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/02_TEMPLE_-_BASE_LI_Object0050AD3338548846D45CBA120BBD7628472.tmp' to '../../../../../../Epic Games/SportCar/Content/TestStuff/fatima/Pyramid2/02_TEMPLE_-_BASE_LI_Object005.uasset'
+[2023.09.03-13.34.17:380][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 387 ms (total: 59.4 sec)
+[2023.09.03-13.34.17:402][121]AssetCheck: New page: Asset Save: 02_TEMPLE_-_BASE_LI_Object005
+[2023.09.03-13.34.17:402][121]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TestStuff/fatima/Pyramid2/02_TEMPLE_-_BASE_LI_Object005.02_TEMPLE_-_BASE_LI_Object005
+[2023.09.03-13.34.19:161][145]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.09.03-13.34.19:161][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.03-13.34.19:238][145]LogViewport: Scene viewport resized to 1403x858, mode Windowed.
+[2023.09.03-13.34.25:482][236]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TestStuff/fatima/Pyramid2/02_TEMPLE_-_BASE_LI_Object006) ...
+[2023.09.03-13.34.27:028][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.03-13.34.27:404][248]LogSavePackage: Moving output files for package: /Game/TestStuff/fatima/Pyramid2/02_TEMPLE_-_BASE_LI_Object006
+[2023.09.03-13.34.27:405][248]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/02_TEMPLE_-_BASE_LI_Object0061C158BBF4678A3D08165D995A448BA6A.tmp' to '../../../../../../Epic Games/SportCar/Content/TestStuff/fatima/Pyramid2/02_TEMPLE_-_BASE_LI_Object006.uasset'
+[2023.09.03-13.34.27:439][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 410 ms (total: 59.8 sec)
+[2023.09.03-13.34.27:456][248]AssetCheck: New page: Asset Save: 02_TEMPLE_-_BASE_LI_Object006
+[2023.09.03-13.34.27:456][248]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TestStuff/fatima/Pyramid2/02_TEMPLE_-_BASE_LI_Object006.02_TEMPLE_-_BASE_LI_Object006
+[2023.09.03-13.34.29:291][271]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.09.03-13.34.29:291][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.03-13.34.29:360][271]LogViewport: Scene viewport resized to 1403x858, mode Windowed.
+[2023.09.03-13.34.35:215][339]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TestStuff/fatima/Pyramid2/03_TEMPLE_-_TOP_LI_Object007) ...
+[2023.09.03-13.34.36:570][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.03-13.34.36:882][342]LogSavePackage: Moving output files for package: /Game/TestStuff/fatima/Pyramid2/03_TEMPLE_-_TOP_LI_Object007
+[2023.09.03-13.34.36:883][342]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/03_TEMPLE_-_TOP_LI_Object007A496608B4B27581472714688F6ED9FF3.tmp' to '../../../../../../Epic Games/SportCar/Content/TestStuff/fatima/Pyramid2/03_TEMPLE_-_TOP_LI_Object007.uasset'
+[2023.09.03-13.34.36:918][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 347 ms (total: 1:00 min)
+[2023.09.03-13.34.36:939][342]AssetCheck: New page: Asset Save: 03_TEMPLE_-_TOP_LI_Object007
+[2023.09.03-13.34.36:939][342]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TestStuff/fatima/Pyramid2/03_TEMPLE_-_TOP_LI_Object007.03_TEMPLE_-_TOP_LI_Object007
+[2023.09.03-13.34.38:738][352]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.09.03-13.34.38:738][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.03-13.34.44:302][418]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.09.03-13.34.44:401][418]LogD3D12RHI: Warning: Waited for PSO creation for 200.000000ms
+[2023.09.03-13.34.44:601][418]LogD3D12RHI: Warning: Waited for PSO creation for 400.000000ms
+[2023.09.03-13.35.07:555][842]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TestStuff/fatima/Pyramid2/04_TEMPLE_-_TOP) ...
+[2023.09.03-13.35.49:239][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.03-13.35.49:562][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestStuff/fatima/Pyramid2/04_TEMPLE_-_TOP" FILE="../../../../../../Epic Games/SportCar/Content/TestStuff/fatima/Pyramid2/04_TEMPLE_-_TOP.uasset" SILENT=true
+[2023.09.03-13.35.49:587][525]LogSavePackage: Moving output files for package: /Game/TestStuff/fatima/Pyramid2/04_TEMPLE_-_TOP
+[2023.09.03-13.35.49:589][525]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/04_TEMPLE_-_TOPF5AF98A24D2BE30A84820FB4FF755781.tmp' to '../../../../../../Epic Games/SportCar/Content/TestStuff/fatima/Pyramid2/04_TEMPLE_-_TOP.uasset'
+[2023.09.03-13.35.49:623][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 383 ms (total: 1:00 min)
+[2023.09.03-13.35.49:640][525]AssetCheck: New page: Asset Save: 04_TEMPLE_-_TOP
+[2023.09.03-13.35.49:640][525]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TestStuff/fatima/Pyramid2/04_TEMPLE_-_TOP.04_TEMPLE_-_TOP
+[2023.09.03-13.35.52:164][539]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.09.03-13.35.52:164][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.03-13.36.03:077][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.03-13.36.03:375][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestStuff/fatima/Pyramid2/05_SPHERE" FILE="../../../../../../Epic Games/SportCar/Content/TestStuff/fatima/Pyramid2/05_SPHERE.uasset" SILENT=true
+[2023.09.03-13.36.03:398][710]LogSavePackage: Moving output files for package: /Game/TestStuff/fatima/Pyramid2/05_SPHERE
+[2023.09.03-13.36.03:399][710]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/05_SPHERE9E1093604CE13BB9C8FED0B03F1671A0.tmp' to '../../../../../../Epic Games/SportCar/Content/TestStuff/fatima/Pyramid2/05_SPHERE.uasset'
+[2023.09.03-13.36.03:423][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 345 ms (total: 1:00 min)
+[2023.09.03-13.36.03:457][710]AssetCheck: New page: Asset Save: 05_SPHERE
+[2023.09.03-13.36.03:457][710]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TestStuff/fatima/Pyramid2/05_SPHERE.05_SPHERE
+[2023.09.03-13.36.05:940][746]LogSlate: Window '05_SPHERE' being destroyed
+[2023.09.03-13.36.06:156][746]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.09.03-13.36.06:156][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.03-13.36.07:708][778]LogEditorViewport: Clicking Background
+[2023.09.03-13.37.03:439][546]LogEditorViewport: Clicking Background
+[2023.09.03-13.37.17:044][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.03-13.37.17:481][862]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2023.09.03-13.37.17:624][862]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2023.09.03-13.37.17:735][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.09.03-13.37.17:752][862]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/LD/HC0CFKP5A2L64PXCW0X88G
+[2023.09.03-13.37.17:753][862]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/HC0CFKP5A2L64PXCW0X88G1D6B57DF4C20A3BEF672309CB14C8E55.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/LD/HC0CFKP5A2L64PXCW0X88G.uasset'
+[2023.09.03-13.37.17:764][862]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/5H/JN982BKF5P31EA5T6XJXR0
+[2023.09.03-13.37.17:766][862]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/JN982BKF5P31EA5T6XJXR00AE1B94C42AADBB828DBF7939B2FCE1C.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/5H/JN982BKF5P31EA5T6XJXR0.uasset'
+[2023.09.03-13.37.17:774][862]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/4Y/U31M09N240IPMN31ZQWZWY
+[2023.09.03-13.37.17:776][862]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/U31M09N240IPMN31ZQWZWYFEF136564851149CDE24469728B4CD50.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/4Y/U31M09N240IPMN31ZQWZWY.uasset'
+[2023.09.03-13.37.17:783][862]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/9L/H8Q0HTYPJE864H72XNQRSF
+[2023.09.03-13.37.17:786][862]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/H8Q0HTYPJE864H72XNQRSFD6C2EFCF42F1A7B3A8A8FE85B6E3EB48.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/9L/H8Q0HTYPJE864H72XNQRSF.uasset'
+[2023.09.03-13.37.17:796][862]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/V5/LZXE6GUYKZWW3TR9XR2WX4
+[2023.09.03-13.37.17:797][862]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/LZXE6GUYKZWW3TR9XR2WX4A4B59AED444671D353FDBA91CC1E7264.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/V5/LZXE6GUYKZWW3TR9XR2WX4.uasset'
+[2023.09.03-13.37.17:804][862]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/YU/XW8OOAH4C9Y7TJZ08V0LP7
+[2023.09.03-13.37.17:806][862]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/XW8OOAH4C9Y7TJZ08V0LP76FDBB7DA4BB025B97EDC6581F67CA968.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/YU/XW8OOAH4C9Y7TJZ08V0LP7.uasset'
+[2023.09.03-13.37.17:814][862]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/HH/LM8YMNK0KCEIHRYHGN9GLN
+[2023.09.03-13.37.17:815][862]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/LM8YMNK0KCEIHRYHGN9GLNC06039884896F3B76FE2AA89D440D33E.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/HH/LM8YMNK0KCEIHRYHGN9GLN.uasset'
+[2023.09.03-13.37.17:825][862]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/B5/R7GI56D6YZNR2MXZMUFMHP
+[2023.09.03-13.37.17:825][862]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/R7GI56D6YZNR2MXZMUFMHPF730B97F484BD3A3C3349EB42B97C618.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/B5/R7GI56D6YZNR2MXZMUFMHP.uasset'
+[2023.09.03-13.37.17:836][862]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/50/YYOH8QBOK1SBF6FJYFB7EM
+[2023.09.03-13.37.17:836][862]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/YYOH8QBOK1SBF6FJYFB7EM7F579BFA45D3D05068157F94B723C165.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/50/YYOH8QBOK1SBF6FJYFB7EM.uasset'
+[2023.09.03-13.37.17:849][862]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/DN/VTPCJEEUDEKEK1VULIDE6K
+[2023.09.03-13.37.17:849][862]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/VTPCJEEUDEKEK1VULIDE6K2B5FA823403A4F193C3B96A2B15A97DD.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/DN/VTPCJEEUDEKEK1VULIDE6K.uasset'
+[2023.09.03-13.37.17:865][862]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/YX/NUCWG5E6XY0T0AZ90BV0CW
+[2023.09.03-13.37.17:866][862]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/NUCWG5E6XY0T0AZ90BV0CWAD66084D4FF69DE574DB148F7A221123.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/YX/NUCWG5E6XY0T0AZ90BV0CW.uasset'
+[2023.09.03-13.37.17:878][862]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/B5/AKWRIMXYV21CW5LVEZ5HIY
+[2023.09.03-13.37.17:878][862]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/AKWRIMXYV21CW5LVEZ5HIY2D0C0B984E55292805D990B6861114D4.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/B5/AKWRIMXYV21CW5LVEZ5HIY.uasset'
+[2023.09.03-13.37.17:890][862]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/UP/589FRZV34GFEUK24ACL6PH
+[2023.09.03-13.37.17:890][862]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/589FRZV34GFEUK24ACL6PH8050FC134D54836D559FBE8B559BD224.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/UP/589FRZV34GFEUK24ACL6PH.uasset'
+[2023.09.03-13.37.17:902][862]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/53/EFT2N9O1A7EMTPTCF0SPK0
+[2023.09.03-13.37.17:902][862]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/EFT2N9O1A7EMTPTCF0SPK082351609455E87F1487BB2BF324C7105.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/53/EFT2N9O1A7EMTPTCF0SPK0.uasset'
+[2023.09.03-13.37.17:940][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 895 ms (total: 1:01 min)
+[2023.09.03-13.37.17:957][862]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.03-13.37.17:957][862]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.GroupActor_UAID_4CEDFBD84F5331A501_2025986053
+[2023.09.03-13.37.17:957][862]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F5331A501_1898801047
+[2023.09.03-13.37.17:957][862]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F5331A501_1910378049
+[2023.09.03-13.37.17:957][862]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F5331A501_1889288046
+[2023.09.03-13.37.17:957][862]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F5331A501_1915443050
+[2023.09.03-13.37.17:958][862]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F5331A501_1939451052
+[2023.09.03-13.37.17:958][862]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F5331A501_1920253051
+[2023.09.03-13.37.17:958][862]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F5331A501_1905101048
+[2023.09.03-13.37.17:958][862]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F53B8A501_1685393812
+[2023.09.03-13.37.17:958][862]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F53B8A501_1685359811
+[2023.09.03-13.37.17:958][862]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F53B8A501_1669864810
+[2023.09.03-13.37.17:958][862]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F53B8A501_1669844809
+[2023.09.03-13.37.17:958][862]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F53B8A501_1646666808
+[2023.09.03-13.37.17:958][862]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F53B8A501_1646564807
+[2023.09.03-13.37.18:003][862]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
