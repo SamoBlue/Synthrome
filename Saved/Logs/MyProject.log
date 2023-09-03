@@ -14843,3 +14843,13 @@ BP_SciFiCyberHoverCar
 [2023.09.03-22.35.04:247][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.09.03-22.35.04:269][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_154
 [2023.09.03-22.35.04:287][ 93]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.03-22.39.10:601][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.09.03-22.39.10:605][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.03-22.39.10:742][268]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/3J/BSDJK8XNYC9ZNCUPSW1CI9
+[2023.09.03-22.39.10:743][268]LogSavePackage: Moving 'C:/Users/Hasan/Documents/GitHub/SportCar/Saved/BSDJK8XNYC9ZNCUPSW1CI9B6C9B372498966E097992ABE37E0CC89.tmp' to 'C:/Users/Hasan/Documents/GitHub/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/3J/BSDJK8XNYC9ZNCUPSW1CI9.uasset'
+[2023.09.03-22.39.10:750][268]LogSavePackage: Moving output files for package: /Game/TestStuff/fatima/PyramidTunnel/PYRAMIDTUNNEL03
+[2023.09.03-22.39.10:751][268]LogSavePackage: Moving 'C:/Users/Hasan/Documents/GitHub/SportCar/Saved/PYRAMIDTUNNEL038B5E8A704D105ED6E02371830BAD7F9B.tmp' to 'C:/Users/Hasan/Documents/GitHub/SportCar/Content/TestStuff/fatima/PyramidTunnel/PYRAMIDTUNNEL03.uasset'
+[2023.09.03-22.39.10:761][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 3.48 sec)
+[2023.09.03-22.39.10:769][268]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.03-22.39.10:769][268]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TestStuff/fatima/PyramidTunnel/PYRAMIDTUNNEL03.PYRAMIDTUNNEL03
+[2023.09.03-22.39.10:769][268]LogContentValidation: Display: Validating /Game/2DSideScrollerBP/Blueprints/Map/Moving_Platform_4.Moving_Platform_4_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Moving_Platform_4_C_UAID_A85E45D562F1D2A501_1775226422
