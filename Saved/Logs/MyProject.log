@@ -6463,3 +6463,276 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.09.13-06.05.08:213][229]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F53A9A801_1210483311
 [2023.09.13-06.05.08:238][229]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.09.13-06.05.10:231][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.09.13-06.07.04:772][635]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.09.13-06.07.04:772][635]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.09.13-06.08.06:567][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.09.13-06.08.06:576][462]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/HZ/9MH5WDH2F9WDF83GDFMMME_Auto2
+[2023.09.13-06.08.06:576][462]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/9MH5WDH2F9WDF83GDFMMME_Auto260D455CC4A1207DA2DDE3F9F1E0198C4.tmp' to '../../../../../../Epic Games/SportCar/Saved/Autosaves/Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/HZ/9MH5WDH2F9WDF83GDFMMME_Auto2.uasset'
+[2023.09.13-06.08.06:577][462]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleTemplate/Maps/VehicleExampleMap' took 0.045
+[2023.09.13-06.08.06:577][462]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2023.09.13-06.11.50:463][134]LogWindowsTextInputMethodSystem: Activated input method: Arabic (Iraq) - (Keyboard).
+[2023.09.13-06.11.50:464][134]LogWindowsTextInputMethodSystem: Activated input method: Arabic (Iraq) - (Keyboard).
+[2023.09.13-06.11.59:847][297]LogEditorFactories: Performing atomic reimport of [C:/Users/x87/Desktop/Project Car/Track Prefabs/Level Intro/Editorials (New shit updated, testing)/Shrink New/نصب الشهيد Cuz fuck it why not.fbx]
+[2023.09.13-06.11.59:945][297]LogFbx: Loading FBX Scene from C:/Users/x87/Desktop/Project Car/Track Prefabs/Level Intro/Editorials (New shit updated, testing)/Shrink New/نصب الشهيد Cuz fuck it why not.fbx
+[2023.09.13-06.12.00:242][297]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.13-06.12.02:160][297]LogStaticMesh: Display: Building static mesh نصب_الشهيد_Cuz_fuck_it_why_not...
+[2023.09.13-06.12.02:451][297]LogStaticMesh: Built static mesh [0.29s] /Game/LevelPrototyping/TestStuff/ShrinkBG/نصب_الشهيد_Cuz_fuck_it_why_not.نصب_الشهيد_Cuz_fuck_it_why_not
+[2023.09.13-06.12.02:519][297]LogStaticMesh: Warning: نصب_الشهيد_Cuz_fuck_it_why_not has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.09.13-06.12.02:519][297]LogStaticMesh: Warning: نصب_الشهيد_Cuz_fuck_it_why_not has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.09.13-06.12.04:697][297]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2023.09.13-06.12.04:764][297]LogEditorFactories: -- imported successfully
+[2023.09.13-06.12.04:797][297]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Carpet_Berber_Pattern_Gray' was renamed 'Carpet_Berber_Pattern_Gray_ncl1_1' 
+[2023.09.13-06.12.04:797][297]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Carpet_Loop_Pattern' was renamed 'Carpet_Loop_Pattern_ncl1_1' 
+[2023.09.13-06.12.04:797][297]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'monument_to_the_Unknown_Soldier_small_1' was renamed 'monument_to_the_Unknown_Soldier_small_1_ncl1_1' 
+[2023.09.13-06.12.04:797][297]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'monument_to_the_Unknown_Soldier_small_2' was renamed 'monument_to_the_Unknown_Soldier_small_2_ncl1_1' 
+[2023.09.13-06.12.04:798][297]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'M_3340368' was renamed 'M_3340368_ncl1_1' 
+[2023.09.13-06.12.04:798][297]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture '_Carpet_Berber_Pattern_Gray_1' was renamed '_Carpet_Berber_Pattern_Gray_1_ncl1_1' 
+[2023.09.13-06.12.04:798][297]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Concrete_Form_4x8' was renamed 'Concrete_Form_4x8_ncl1_1' 
+[2023.09.13-06.12.04:798][297]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'M_12364000_1' was renamed 'M_12364000_1_ncl1_1' 
+[2023.09.13-06.12.04:798][297]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'M_3340368_1' was renamed 'M_3340368_1_ncl1_1' 
+[2023.09.13-06.12.04:798][297]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Water_Pool_Light' was renamed 'Water_Pool_Light_ncl1_1' 
+[2023.09.13-06.12.04:798][297]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'M_12364000' was renamed 'M_12364000_ncl1_1' 
+[2023.09.13-06.12.04:798][297]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Blinds_Wood_White' was renamed 'Blinds_Wood_White_ncl1_1' 
+[2023.09.13-06.12.04:798][297]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'monument_to_the_Unknown_Soldier_small_3' was renamed 'monument_to_the_Unknown_Soldier_small_3_ncl1_1' 
+[2023.09.13-06.12.04:799][297]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Tile_Travertine_2inch' was renamed 'Tile_Travertine_2inch_ncl1_1' 
+[2023.09.13-06.12.04:799][297]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.09.13-06.12.04:799][297]FBXImport: Warning: نصب_الشهيد_Cuz_fuck_it_why_not has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.09.13-06.12.04:799][297]FBXImport: Warning: نصب_الشهيد_Cuz_fuck_it_why_not has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.09.13-06.12.11:546][297]LogMeshUtilities: Finished distance field build in 9.1s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 51% occupied, 3155 triangles, نصب_الشهيد_Cuz_fuck_it_why_not
+[2023.09.13-06.12.11:568][297]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/TestStuff/ShrinkBG/نصب_الشهيد_Cuz_fuck_it_why_not) ...
+[2023.09.13-06.12.11:951][298]LogAutomationController: Ignoring very large delta of 12.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.09.13-06.12.22:668][515]LogMeshUtilities: Finished distance field build in 11.1s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 51% occupied, 3155 triangles, نصب_الشهيد_Cuz_fuck_it_why_not
+[2023.09.13-06.13.06:063][333]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.244 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4439 files in 5788 folders with total size 342 MiB.
+[2023.09.13-06.13.56:972][ 78]Cmd: TRANSACTION UNDO
+[2023.09.13-06.13.56:972][ 78]LogEditorTransaction: Undo Replace component used material
+[2023.09.13-06.13.57:394][ 78]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.14.27:053][519]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.09.13-06.14.27:053][519]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.09.13-06.14.32:082][594]LogShaderCompilers: Display: ================================================
+[2023.09.13-06.14.32:083][594]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.13-06.14.32:083][594]LogShaderCompilers: Display: Total job queries 511, among them cache hits 27 (5.28%)
+[2023.09.13-06.14.32:083][594]LogShaderCompilers: Display: Tracking 481 distinct input hashes that result in 83 distinct outputs (17.26%)
+[2023.09.13-06.14.32:083][594]LogShaderCompilers: Display: RAM used: 10.84 MiB of 819.20 MiB budget. Usage: 1.32%
+[2023.09.13-06.14.32:083][594]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.13-06.14.32:083][594]LogShaderCompilers: Display: Shaders Compiled: 269
+[2023.09.13-06.14.32:083][594]LogShaderCompilers: Display: Jobs assigned 272, completed 269 (98.90%)
+[2023.09.13-06.14.32:083][594]LogShaderCompilers: Display: Average time worker was idle: 560.91 s
+[2023.09.13-06.14.32:083][594]LogShaderCompilers: Display: Time job spent in pending queue: average 2.65 s, longest 17.78 s
+[2023.09.13-06.14.32:085][594]LogShaderCompilers: Display: Job execution time: average 2.14 s, max 12.68 s
+[2023.09.13-06.14.32:085][594]LogShaderCompilers: Display: Job life time (pending + execution): average 4.82 s, max 19.62
+[2023.09.13-06.14.32:085][594]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 91.20 s
+[2023.09.13-06.14.32:085][594]LogShaderCompilers: Display: Jobs were issued in 272 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.13-06.14.32:085][594]LogShaderCompilers: Display: Average processing rate: 2.95 jobs/sec
+[2023.09.13-06.14.32:085][594]LogShaderCompilers: Display: Total thread time: 461.367 s
+[2023.09.13-06.14.32:085][594]LogShaderCompilers: Display: Total thread preprocess time: 25.789 s
+[2023.09.13-06.14.32:085][594]LogShaderCompilers: Display: Percentage time preprocessing: 5.59%
+[2023.09.13-06.14.32:085][594]LogShaderCompilers: Display: Effective parallelization: 5.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.13-06.14.32:085][594]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.13-06.14.32:086][594]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   19 times, average 2.51 sec, max 4.39 sec, min 0.96 sec)
+[2023.09.13-06.14.32:086][594]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   17 times, average 2.26 sec, max 2.43 sec, min 1.62 sec)
+[2023.09.13-06.14.32:086][594]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   19 times, average 2.18 sec, max 3.40 sec, min 1.34 sec)
+[2023.09.13-06.14.32:086][594]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 1.95 sec, max 1.95 sec, min 1.95 sec)
+[2023.09.13-06.14.32:086][594]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   16 times, average 1.91 sec, max 2.42 sec, min 1.68 sec)
+[2023.09.13-06.14.32:086][594]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.13-06.14.32:086][594]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.34% of total time (compiled   19 times, average 2.51 sec, max 4.39 sec, min 0.96 sec)
+[2023.09.13-06.14.32:086][594]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.97% of total time (compiled   19 times, average 2.18 sec, max 3.40 sec, min 1.34 sec)
+[2023.09.13-06.14.32:086][594]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.34% of total time (compiled   17 times, average 2.26 sec, max 2.43 sec, min 1.62 sec)
+[2023.09.13-06.14.32:087][594]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.67% of total time (compiled   17 times, average 1.81 sec, max 2.99 sec, min 1.12 sec)
+[2023.09.13-06.14.32:087][594]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.62% of total time (compiled   16 times, average 1.91 sec, max 2.42 sec, min 1.68 sec)
+[2023.09.13-06.14.32:087][594]LogShaderCompilers: Display: ================================================
+[2023.09.13-06.15.10:405][117]Cmd: TRANSACTION UNDO
+[2023.09.13-06.15.10:405][117]LogEditorTransaction: Undo Replace component used material
+[2023.09.13-06.15.10:770][117]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.16.54:979][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.13-06.16.55:216][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.09.13-06.16.55:355][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.09.13-06.16.55:411][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.09.13-06.16.55:417][655]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/HZ/9MH5WDH2F9WDF83GDFMMME
+[2023.09.13-06.16.55:417][655]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/9MH5WDH2F9WDF83GDFMMME6F9FDB7D42EB7AA7D89B8E85F7F67D0C.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/HZ/9MH5WDH2F9WDF83GDFMMME.uasset'
+[2023.09.13-06.16.55:465][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 486 ms (total: 2.32 sec)
+[2023.09.13-06.16.55:475][655]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_4CEDFBD84F53A9A801_1210483311
+[2023.09.13-06.16.55:475][655]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F53A9A801_1210483311
+[2023.09.13-06.16.55:494][655]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.03:604][769]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.13-06.17.03:621][769]LogContentBundle: [VehicleExampleMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.13-06.17.03:622][769]MapCheck: Actor needs resave /Game/VehicleTemplate/Maps/VehicleExampleMap.WorldDataLayers-1 
+[2023.09.13-06.17.03:632][769]LogWorldPartition: Display: GenerateStreaming started...
+[2023.09.13-06.17.03:632][769]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.09.13-06.17.03:632][769]LogWorldPartition: Display: GetPartitionedActors took 33 us (total: 140 ms)
+[2023.09.13-06.17.03:634][769]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 189 ms)
+[2023.09.13-06.17.03:635][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.13-06.17.03:635][769]PIE: New page: PIE session: VehicleExampleMap (Sep 13, 2023, 12:17:03 PM)
+[2023.09.13-06.17.03:639][769]LogPlayLevel: Creating play world package: /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.13-06.17.03:721][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082819s)
+[2023.09.13-06.17.03:721][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.082874s)
+[2023.09.13-06.17.03:721][769]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.13-06.17.03:722][769]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.13-06.17.03:722][769]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2023.09.13-06.17.03:724][769]LogWorldPartition: ULevel::OnLevelLoaded(VehicleExampleMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.13-06.17.03:724][769]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.13-06.17.03:724][769]LogWorldPartition: UWorldPartition::Initialize(Asset=VehicleExampleMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.13-06.17.03:748][769]LogContentBundle: [VehicleExampleMap(Standalone)] Creating new contrainer.
+[2023.09.13-06.17.03:748][769]LogWorldPartition: Display: WorldPartition initialize took 23 ms (total: 3.45 sec)
+[2023.09.13-06.17.03:748][769]LogPlayLevel: PIE: World Init took: (0.026827s)
+[2023.09.13-06.17.03:802][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.09.13-06.17.03:804][769]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.09.13-06.17.03:804][769]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.13-06.17.03:804][769]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.13-06.17.03:804][769]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.13-06.17.03:804][769]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.13-06.17.03:804][769]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.13-06.17.03:804][769]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.13-06.17.03:804][769]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.13-06.17.03:804][769]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.13-06.17.03:805][769]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.13-06.17.03:805][769]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.13-06.17.03:805][769]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.13-06.17.03:809][769]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.13-06.17.03:865][769]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.09.13-06.17.03:865][769]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.13-06.17.03:865][769]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.13-06.17.03:865][769]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.13-06.17.03:866][769]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.09.13-06.17.03:866][769]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.09.13-06.17.03:869][769]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.09.13-06.17.03:869][769]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.09.13-06.17.03:870][769]LogInit: FAudioDevice initialized with ID 22.
+[2023.09.13-06.17.03:870][769]LogAudio: Display: Audio Device (ID: 22) registered with world 'VehicleExampleMap'.
+[2023.09.13-06.17.03:870][769]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2023.09.13-06.17.03:874][769]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2023.09.13-06.17.03:905][769]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Deathwall_C_UAID_A85E45D562F155A401_1918167484.Box has a component set to zero, which will result in a bad body instance. Scale:X=6652.875 Y=6652.875 Z=0.000
+[2023.09.13-06.17.03:906][769]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1416644990.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.13-06.17.03:906][769]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1441821991.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.13-06.17.03:906][769]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F1589901_1493297217.Box has a component set to zero, which will result in a bad body instance. Scale:X=42.000 Y=0.000 Z=36.500
+[2023.09.13-06.17.03:907][769]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F116A601_1243122359.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.13-06.17.03:907][769]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1493068995.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.13-06.17.03:908][769]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F116A601_1255943360.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.13-06.17.03:908][769]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53B3A601_1481761971.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.13-06.17.03:908][769]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1521235996.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.13-06.17.03:909][769]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1367661368.Box has a component set to zero, which will result in a bad body instance. Scale:X=189.000 Y=0.000 Z=164.250
+[2023.09.13-06.17.03:909][769]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1418504369.Box has a component set to zero, which will result in a bad body instance. Scale:X=168.000 Y=0.000 Z=146.000
+[2023.09.13-06.17.03:909][769]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1555496370.Box has a component set to zero, which will result in a bad body instance. Scale:X=168.000 Y=0.000 Z=146.000
+[2023.09.13-06.17.03:909][769]LogWorld: Bringing World /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2023.09.13-09.17.03
+[2023.09.13-06.17.03:912][769]LogWorld: Bringing up level for play took: 0.036922
+[2023.09.13-06.17.03:915][769]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2023.09.13-06.17.03:915][769]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.09.13-06.17.03:925][769]PIE: Server logged in
+[2023.09.13-06.17.03:926][769]PIE: Play in editor total start time 0.305 seconds.
+[2023.09.13-06.17.03:973][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.03:974][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.03:974][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.03:975][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.03:976][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.03:977][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.03:978][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.03:978][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.03:979][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.03:980][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.03:981][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.03:983][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.04:855][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.04:856][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.04:857][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.04:858][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.04:858][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.04:859][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.04:861][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.04:861][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.04:863][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.04:863][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.04:864][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.04:866][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.07:908][799]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.13-06.17.09:182][816]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.13-06.17.09:258][817]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.13-06.17.20:554][948]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.13-06.17.22:280][973]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.13-06.17.32:416][122]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.13-06.17.32:485][123]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.13-06.17.32:551][124]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.13-06.17.32:554][124]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.13-06.17.34:680][154]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.13-06.17.39:961][229]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.39:961][229]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:031][230]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:031][230]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:101][231]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:101][231]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:175][232]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:175][232]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:247][233]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:247][233]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:319][234]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:319][234]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:459][236]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:459][236]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:527][237]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:527][237]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:594][238]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:594][238]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:662][239]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:662][239]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:730][240]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:730][240]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:800][241]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:800][241]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:868][242]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:868][242]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:935][243]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.40:936][243]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:002][244]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:002][244]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:068][245]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:069][245]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:137][246]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:137][246]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:202][247]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:202][247]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:269][248]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:270][248]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:337][249]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:337][249]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:404][250]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:405][250]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:469][251]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:469][251]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:536][252]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:536][252]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:604][253]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:604][253]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:671][254]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:671][254]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:740][255]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:740][255]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:806][256]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:806][256]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:870][257]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.41:870][257]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.13-06.17.42:593][268]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.13-06.17.42:653][269]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.13-06.17.56:650][483]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.13-06.17.56:715][484]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.13-06.17.58:300][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.13-06.17.58:300][508]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.13-06.17.58:303][508]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.13-06.17.58:308][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.13-06.17.58:308][508]LogContentBundle: [VehicleExampleMap(Standalone)] Deleting container.
+[2023.09.13-06.17.58:377][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.13-06.17.58:384][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.13-06.17.58:428][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.13-06.17.58:433][508]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2023.09.13-06.17.58:433][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.09.13-06.17.58:436][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.09.13-06.17.58:458][508]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2023.09.13-06.17.58:661][508]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.17.58:701][509]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.09.13-06.17.59:842][509]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.18.01:961][554]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.09.13-06.18.01:962][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.13-06.18.06:507][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.09.13-06.18.06:514][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.13-06.18.06:716][622]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/TestStuff/ShrinkBG/نصب_الشهيد_Cuz_fuck_it_why_not
+[2023.09.13-06.18.06:716][622]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/نصب_الشهيد_Cuz_fuck_it_why_notE0F1978D4B494BA620852DA3FFB35B55.tmp' to '../../../../../../Epic Games/SportCar/Content/LevelPrototyping/TestStuff/ShrinkBG/نصب_الشهيد_Cuz_fuck_it_why_not.uasset'
+[2023.09.13-06.18.06:777][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 263 ms (total: 2.58 sec)
+[2023.09.13-06.18.06:786][622]AssetCheck: New page: Asset Save: نصب_الشهيد_Cuz_fuck_it_why_not
+[2023.09.13-06.18.06:786][622]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LevelPrototyping/TestStuff/ShrinkBG/نصب_الشهيد_Cuz_fuck_it_why_not.نصب_الشهيد_Cuz_fuck_it_why_not
