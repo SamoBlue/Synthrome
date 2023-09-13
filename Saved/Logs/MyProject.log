@@ -6736,3 +6736,77 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.09.13-06.18.06:777][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 263 ms (total: 2.58 sec)
 [2023.09.13-06.18.06:786][622]AssetCheck: New page: Asset Save: نصب_الشهيد_Cuz_fuck_it_why_not
 [2023.09.13-06.18.06:786][622]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LevelPrototyping/TestStuff/ShrinkBG/نصب_الشهيد_Cuz_fuck_it_why_not.نصب_الشهيد_Cuz_fuck_it_why_not
+[2023.09.13-06.19.39:481][  2]LogEditorViewport: Clicking Background
+[2023.09.13-06.20.04:455][488]Cmd: TRANSACTION UNDO
+[2023.09.13-06.20.04:455][488]LogEditorTransaction: Undo Replace component used material
+[2023.09.13-06.20.05:054][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: ================================================
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: Total job queries 516, among them cache hits 28 (5.43%)
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: Tracking 487 distinct input hashes that result in 84 distinct outputs (17.25%)
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: RAM used: 10.95 MiB of 819.20 MiB budget. Usage: 1.34%
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: Shaders Compiled: 272
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: Jobs assigned 273, completed 272 (99.63%)
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: Average time worker was idle: 560.05 s
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: Time job spent in pending queue: average 2.64 s, longest 17.78 s
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: Job execution time: average 2.14 s, max 12.68 s
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: Job life time (pending + execution): average 4.79 s, max 19.62
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 91.82 s
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: Jobs were issued in 273 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: Average processing rate: 2.96 jobs/sec
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: Total thread time: 467.174 s
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: Total thread preprocess time: 26.12 s
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: Percentage time preprocessing: 5.59%
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: Effective parallelization: 5.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.13-06.20.07:823][525]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.13-06.20.07:824][525]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   20 times, average 2.49 sec, max 4.39 sec, min 0.96 sec)
+[2023.09.13-06.20.07:824][525]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   17 times, average 2.26 sec, max 2.43 sec, min 1.62 sec)
+[2023.09.13-06.20.07:824][525]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   20 times, average 2.16 sec, max 3.40 sec, min 1.34 sec)
+[2023.09.13-06.20.07:824][525]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 1.95 sec, max 1.95 sec, min 1.95 sec)
+[2023.09.13-06.20.07:824][525]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   16 times, average 1.91 sec, max 2.42 sec, min 1.68 sec)
+[2023.09.13-06.20.07:824][525]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.13-06.20.07:824][525]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.67% of total time (compiled   20 times, average 2.49 sec, max 4.39 sec, min 0.96 sec)
+[2023.09.13-06.20.07:824][525]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.27% of total time (compiled   20 times, average 2.16 sec, max 3.40 sec, min 1.34 sec)
+[2023.09.13-06.20.07:824][525]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.23% of total time (compiled   17 times, average 2.26 sec, max 2.43 sec, min 1.62 sec)
+[2023.09.13-06.20.07:824][525]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.97% of total time (compiled   18 times, average 1.81 sec, max 2.99 sec, min 1.12 sec)
+[2023.09.13-06.20.07:824][525]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.53% of total time (compiled   16 times, average 1.91 sec, max 2.42 sec, min 1.68 sec)
+[2023.09.13-06.20.07:824][525]LogShaderCompilers: Display: ================================================
+[2023.09.13-06.20.08:367][536]Cmd: TRANSACTION UNDO
+[2023.09.13-06.20.08:367][536]LogEditorTransaction: Undo Replace component used material
+[2023.09.13-06.20.08:451][536]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.20.12:373][592]Cmd: TRANSACTION UNDO
+[2023.09.13-06.20.12:373][592]LogEditorTransaction: Undo Replace component used material
+[2023.09.13-06.20.12:570][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.20.24:221][772]Cmd: TRANSACTION UNDO
+[2023.09.13-06.20.24:221][772]LogEditorTransaction: Undo Replace component used material
+[2023.09.13-06.20.24:444][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.20.35:590][945]Cmd: TRANSACTION UNDO
+[2023.09.13-06.20.35:590][945]LogEditorTransaction: Undo Replace component used material
+[2023.09.13-06.20.35:790][945]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.20.42:763][ 48]Cmd: TRANSACTION UNDO
+[2023.09.13-06.20.42:763][ 48]LogEditorTransaction: Undo Replace component used material
+[2023.09.13-06.20.42:957][ 48]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.20.48:251][116]Cmd: TRANSACTION UNDO
+[2023.09.13-06.20.48:252][116]LogEditorTransaction: Undo Replace component used material
+[2023.09.13-06.20.48:511][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.20.51:718][155]Cmd: TRANSACTION UNDO
+[2023.09.13-06.20.51:718][155]LogEditorTransaction: Undo Replace component used material
+[2023.09.13-06.20.51:873][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.21.57:703][ 28]Cmd: TRANSACTION UNDO
+[2023.09.13-06.21.57:703][ 28]LogEditorTransaction: Undo Replace component used material
+[2023.09.13-06.21.57:932][ 28]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.21.58:886][ 40]Cmd: TRANSACTION UNDO
+[2023.09.13-06.21.58:886][ 40]LogEditorTransaction: Undo Replace component used material
+[2023.09.13-06.21.58:987][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.13-06.22.28:146][397]LogEditorViewport: Clicking Background
+[2023.09.13-06.23.02:804][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.13-06.23.03:014][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.09.13-06.23.03:083][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.09.13-06.23.03:145][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.09.13-06.23.03:150][703]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/HZ/9MH5WDH2F9WDF83GDFMMME
+[2023.09.13-06.23.03:151][703]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/9MH5WDH2F9WDF83GDFMMMEDA3257174F06C1B7A27DD39EFB861120.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/HZ/9MH5WDH2F9WDF83GDFMMME.uasset'
+[2023.09.13-06.23.03:174][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 368 ms (total: 2.95 sec)
+[2023.09.13-06.23.03:185][703]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_4CEDFBD84F53A9A801_1210483311
+[2023.09.13-06.23.03:185][703]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F53A9A801_1210483311
+[2023.09.13-06.23.03:206][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
