@@ -1629,3 +1629,26 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.09.15-19.15.39:404][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
 [2023.09.15-19.15.39:424][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
 [2023.09.15-19.15.39:473][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 221 ms (total: 633 ms)
+[2023.09.15-19.17.51:599][108]LogWindowsTextInputMethodSystem: Activated input method: Arabic (Iraq) - (Keyboard).
+[2023.09.15-19.17.51:599][108]LogWindowsTextInputMethodSystem: Activated input method: Arabic (Iraq) - (Keyboard).
+[2023.09.15-19.18.50:388][227]LogShaderCompilers: Display: ================================================
+[2023.09.15-19.18.50:388][227]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.15-19.18.50:388][227]LogShaderCompilers: Display: Total job queries 257, among them cache hits 55 (21.40%)
+[2023.09.15-19.18.50:388][227]LogShaderCompilers: Display: Tracking 202 distinct input hashes that result in 50 distinct outputs (24.75%)
+[2023.09.15-19.18.50:388][227]LogShaderCompilers: Display: RAM used: 4.29 MiB of 819.20 MiB budget. Usage: 0.52%
+[2023.09.15-19.18.50:388][227]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.15-19.18.50:388][227]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.09.15-19.18.50:389][227]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.09.15-19.18.50:389][227]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.09.15-19.18.50:389][227]LogShaderCompilers: Display: ================================================
+[2023.09.15-19.19.30:980][990]LogEditorViewport: Clicking Background
+[2023.09.15-19.20.29:227][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.15-19.20.29:445][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.09.15-19.20.29:465][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.09.15-19.20.29:487][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.09.15-19.20.29:491][ 32]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/HZ/9MH5WDH2F9WDF83GDFMMME
+[2023.09.15-19.20.29:492][ 32]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/9MH5WDH2F9WDF83GDFMMME27E04024473438D5CA6639A766B031CE.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/HZ/9MH5WDH2F9WDF83GDFMMME.uasset'
+[2023.09.15-19.20.29:545][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 317 ms (total: 950 ms)
+[2023.09.15-19.20.29:551][ 32]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_4CEDFBD84F53A9A801_1210483311
+[2023.09.15-19.20.29:551][ 32]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F53A9A801_1210483311
+[2023.09.15-19.20.29:573][ 32]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
