@@ -5101,6 +5101,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.03-21.25.46:074][728]LogPlayLevel: Display: Shutting down PIE online subsystems
 [2023.09.03-21.25.46:303][728]LogOutputDevice: Warning: 
 
+<<<<<<< HEAD
 Script Stack (0 frames) :
 
 [2023.09.03-21.25.46:382][728]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.078 s
@@ -16886,3 +16887,404 @@ BP_SciFiCyberHoverCar
 [2023.09.03-22.45.22:617][522]LogExit: Exiting.
 [2023.09.03-22.45.22:630][522]Log file closed, 09/04/23 00:45:22
 >>>>>>> Stashed changes
+=======
+[2023.09.15-19.13.05:190][940]PIE: Server logged in
+[2023.09.15-19.13.05:191][940]PIE: Play in editor total start time 1.089 seconds.
+[2023.09.15-19.13.05:403][940]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:403][940]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:404][940]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:404][940]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:405][940]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:405][940]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:406][940]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:406][940]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:407][940]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:407][940]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:409][940]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:960][941]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:961][941]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:962][941]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:962][941]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:963][941]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:964][941]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:965][941]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:966][941]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:967][941]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:967][941]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.05:970][941]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.08:278][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-19.13.08:278][964]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.15-19.13.08:352][964]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.15-19.13.08:355][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-19.13.08:355][964]LogContentBundle: [VehicleExampleMap(Standalone)] Deleting container.
+[2023.09.15-19.13.08:362][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.15-19.13.08:367][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-19.13.08:384][964]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.15-19.13.08:384][964]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.09.15-19.13.08:384][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.09.15-19.13.08:386][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.09.15-19.13.08:392][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-19.13.08:402][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.09.15-19.13.08:433][964]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.08:467][965]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.09.15-19.13.09:233][965]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.09:256][967]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.09.15-19.13.21:587][208]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.15-19.13.21:603][208]LogContentBundle: [VehicleExampleMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.15-19.13.21:605][208]MapCheck: Actor needs resave /Game/VehicleTemplate/Maps/VehicleExampleMap.WorldDataLayers-1 
+[2023.09.15-19.13.21:620][208]LogWorldPartition: Display: GenerateStreaming started...
+[2023.09.15-19.13.21:620][208]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.09.15-19.13.21:620][208]LogWorldPartition: Display: GetPartitionedActors took 28 us (total: 1 ms)
+[2023.09.15-19.13.21:622][208]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 5 ms)
+[2023.09.15-19.13.21:622][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.15-19.13.21:622][208]PIE: New page: PIE session: VehicleExampleMap (Sep 16, 2023, 1:13:21 AM)
+[2023.09.15-19.13.21:622][208]LogPlayLevel: Creating play world package: /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.15-19.13.21:688][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065361s)
+[2023.09.15-19.13.21:688][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.065424s)
+[2023.09.15-19.13.21:688][208]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.15-19.13.21:688][208]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.15-19.13.21:689][208]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2023.09.15-19.13.21:690][208]LogWorldPartition: ULevel::OnLevelLoaded(VehicleExampleMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.15-19.13.21:690][208]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.15-19.13.21:690][208]LogWorldPartition: UWorldPartition::Initialize(Asset=VehicleExampleMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.15-19.13.21:706][208]LogContentBundle: [VehicleExampleMap(Standalone)] Creating new contrainer.
+[2023.09.15-19.13.21:706][208]LogWorldPartition: Display: WorldPartition initialize took 16 ms (total: 10.8 sec)
+[2023.09.15-19.13.21:708][208]LogPlayLevel: PIE: World Init took: (0.020017s)
+[2023.09.15-19.13.21:723][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.09.15-19.13.21:724][208]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.09.15-19.13.21:724][208]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.15-19.13.21:724][208]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.15-19.13.21:724][208]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.15-19.13.21:725][208]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.15-19.13.21:725][208]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.15-19.13.21:725][208]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.15-19.13.21:725][208]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.15-19.13.21:725][208]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.15-19.13.21:725][208]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.15-19.13.21:725][208]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.15-19.13.21:725][208]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.15-19.13.21:728][208]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.15-19.13.21:756][208]LogAudioMixer: Display: Using Audio Hardware Device Headphones (MINISO M20 Stereo)
+[2023.09.15-19.13.21:756][208]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.15-19.13.21:756][208]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.15-19.13.21:756][208]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.15-19.13.21:757][208]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.09.15-19.13.21:757][208]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.09.15-19.13.21:760][208]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.09.15-19.13.21:760][208]LogInit: FAudioDevice initialized with ID 3.
+[2023.09.15-19.13.21:760][208]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.09.15-19.13.21:760][208]LogAudio: Display: Audio Device (ID: 3) registered with world 'VehicleExampleMap'.
+[2023.09.15-19.13.21:760][208]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.09.15-19.13.21:763][208]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2023.09.15-19.13.21:792][208]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Deathwall_C_UAID_A85E45D562F155A401_1918167484.Box has a component set to zero, which will result in a bad body instance. Scale:X=6652.875 Y=6652.875 Z=0.000
+[2023.09.15-19.13.21:794][208]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1416644990.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.15-19.13.21:794][208]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1555496370.Box has a component set to zero, which will result in a bad body instance. Scale:X=168.000 Y=0.000 Z=146.000
+[2023.09.15-19.13.21:794][208]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1441821991.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.15-19.13.21:794][208]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F1589901_1493297217.Box has a component set to zero, which will result in a bad body instance. Scale:X=42.000 Y=0.000 Z=36.500
+[2023.09.15-19.13.21:795][208]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1367661368.Box has a component set to zero, which will result in a bad body instance. Scale:X=189.000 Y=0.000 Z=164.250
+[2023.09.15-19.13.21:795][208]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F116A601_1243122359.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.15-19.13.21:796][208]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1493068995.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.15-19.13.21:796][208]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F116A601_1255943360.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.15-19.13.21:796][208]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1418504369.Box has a component set to zero, which will result in a bad body instance. Scale:X=168.000 Y=0.000 Z=146.000
+[2023.09.15-19.13.21:796][208]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53B3A601_1481761971.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.15-19.13.21:797][208]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1521235996.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.15-19.13.21:797][208]LogWorld: Bringing World /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2023.09.15-22.13.21
+[2023.09.15-19.13.21:799][208]LogWorld: Bringing up level for play took: 0.036211
+[2023.09.15-19.13.21:802][208]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2023.09.15-19.13.21:803][208]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.09.15-19.13.21:829][208]PIE: Server logged in
+[2023.09.15-19.13.21:830][208]PIE: Play in editor total start time 0.227 seconds.
+[2023.09.15-19.13.21:944][208]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.21:945][208]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.21:946][208]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.21:947][208]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.21:947][208]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.21:948][208]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.21:949][208]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.21:950][208]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.21:950][208]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.21:952][208]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.21:956][208]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.22:313][209]LogShaderCompilers: Display: ================================================
+[2023.09.15-19.13.22:313][209]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.15-19.13.22:313][209]LogShaderCompilers: Display: Total job queries 246, among them cache hits 45 (18.29%)
+[2023.09.15-19.13.22:313][209]LogShaderCompilers: Display: Tracking 201 distinct input hashes that result in 49 distinct outputs (24.38%)
+[2023.09.15-19.13.22:313][209]LogShaderCompilers: Display: RAM used: 4.27 MiB of 819.20 MiB budget. Usage: 0.52%
+[2023.09.15-19.13.22:314][209]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.15-19.13.22:314][209]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.09.15-19.13.22:314][209]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.09.15-19.13.22:314][209]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.09.15-19.13.22:314][209]LogShaderCompilers: Display: ================================================
+[2023.09.15-19.13.22:320][209]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.22:321][209]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.22:322][209]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.22:323][209]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.22:324][209]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.22:324][209]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.22:325][209]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.22:325][209]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.22:326][209]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.22:327][209]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.22:328][209]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.13.29:417][289]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.13.32:858][361]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.13.33:781][380]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.13.33:829][381]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.13.33:879][382]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.01:374][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-19.14.01:374][909]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.15-19.14.01:375][909]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.15-19.14.01:380][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-19.14.01:380][909]LogContentBundle: [VehicleExampleMap(Standalone)] Deleting container.
+[2023.09.15-19.14.01:435][909]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.15-19.14.01:440][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-19.14.01:461][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-19.14.01:463][909]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.09.15-19.14.01:463][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.09.15-19.14.01:466][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.09.15-19.14.01:487][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.09.15-19.14.01:658][909]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.01:693][910]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.09.15-19.14.01:720][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.11:504][ 70]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.15-19.14.11:521][ 70]LogContentBundle: [VehicleExampleMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.15-19.14.11:536][ 70]MapCheck: Actor needs resave /Game/VehicleTemplate/Maps/VehicleExampleMap.WorldDataLayers-1 
+[2023.09.15-19.14.11:547][ 70]LogWorldPartition: Display: GenerateStreaming started...
+[2023.09.15-19.14.11:547][ 70]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.09.15-19.14.11:547][ 70]LogWorldPartition: Display: GetPartitionedActors took 22 us (total: 1 ms)
+[2023.09.15-19.14.11:549][ 70]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 6 ms)
+[2023.09.15-19.14.11:549][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.15-19.14.11:549][ 70]PIE: New page: PIE session: VehicleExampleMap (Sep 16, 2023, 1:14:11 AM)
+[2023.09.15-19.14.11:549][ 70]LogPlayLevel: Creating play world package: /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.15-19.14.11:613][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063928s)
+[2023.09.15-19.14.11:613][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.063973s)
+[2023.09.15-19.14.11:613][ 70]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.15-19.14.11:613][ 70]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.15-19.14.11:615][ 70]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2023.09.15-19.14.11:615][ 70]LogWorldPartition: ULevel::OnLevelLoaded(VehicleExampleMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.15-19.14.11:615][ 70]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.15-19.14.11:615][ 70]LogWorldPartition: UWorldPartition::Initialize(Asset=VehicleExampleMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.15-19.14.11:633][ 70]LogContentBundle: [VehicleExampleMap(Standalone)] Creating new contrainer.
+[2023.09.15-19.14.11:633][ 70]LogWorldPartition: Display: WorldPartition initialize took 16 ms (total: 10.8 sec)
+[2023.09.15-19.14.11:633][ 70]LogPlayLevel: PIE: World Init took: (0.018860s)
+[2023.09.15-19.14.11:648][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.09.15-19.14.11:649][ 70]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.09.15-19.14.11:649][ 70]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.15-19.14.11:649][ 70]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.15-19.14.11:649][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.15-19.14.11:649][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.15-19.14.11:649][ 70]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.15-19.14.11:649][ 70]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.15-19.14.11:649][ 70]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.15-19.14.11:649][ 70]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.15-19.14.11:650][ 70]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.15-19.14.11:650][ 70]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.15-19.14.11:650][ 70]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.15-19.14.11:653][ 70]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.15-19.14.11:684][ 70]LogAudioMixer: Display: Using Audio Hardware Device Headphones (MINISO M20 Stereo)
+[2023.09.15-19.14.11:684][ 70]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.15-19.14.11:684][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.15-19.14.11:684][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.15-19.14.11:685][ 70]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.09.15-19.14.11:685][ 70]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.09.15-19.14.11:688][ 70]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.09.15-19.14.11:688][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.09.15-19.14.11:688][ 70]LogInit: FAudioDevice initialized with ID 4.
+[2023.09.15-19.14.11:688][ 70]LogAudio: Display: Audio Device (ID: 4) registered with world 'VehicleExampleMap'.
+[2023.09.15-19.14.11:688][ 70]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.09.15-19.14.11:693][ 70]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2023.09.15-19.14.11:722][ 70]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Deathwall_C_UAID_A85E45D562F155A401_1918167484.Box has a component set to zero, which will result in a bad body instance. Scale:X=6652.875 Y=6652.875 Z=0.000
+[2023.09.15-19.14.11:724][ 70]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1416644990.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.15-19.14.11:724][ 70]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1555496370.Box has a component set to zero, which will result in a bad body instance. Scale:X=168.000 Y=0.000 Z=146.000
+[2023.09.15-19.14.11:724][ 70]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1441821991.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.15-19.14.11:724][ 70]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F1589901_1493297217.Box has a component set to zero, which will result in a bad body instance. Scale:X=42.000 Y=0.000 Z=36.500
+[2023.09.15-19.14.11:725][ 70]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1367661368.Box has a component set to zero, which will result in a bad body instance. Scale:X=189.000 Y=0.000 Z=164.250
+[2023.09.15-19.14.11:725][ 70]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F116A601_1243122359.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.15-19.14.11:726][ 70]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1493068995.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.15-19.14.11:726][ 70]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F116A601_1255943360.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.15-19.14.11:726][ 70]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1418504369.Box has a component set to zero, which will result in a bad body instance. Scale:X=168.000 Y=0.000 Z=146.000
+[2023.09.15-19.14.11:726][ 70]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53B3A601_1481761971.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.15-19.14.11:726][ 70]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1521235996.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.15-19.14.11:727][ 70]LogWorld: Bringing World /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2023.09.15-22.14.11
+[2023.09.15-19.14.11:729][ 70]LogWorld: Bringing up level for play took: 0.036254
+[2023.09.15-19.14.11:732][ 70]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2023.09.15-19.14.11:733][ 70]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.09.15-19.14.11:742][ 70]PIE: Server logged in
+[2023.09.15-19.14.11:743][ 70]PIE: Play in editor total start time 0.222 seconds.
+[2023.09.15-19.14.11:819][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.11:820][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.11:820][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.11:821][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.11:821][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.11:822][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.11:822][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.11:823][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.11:823][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.11:824][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.11:825][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.12:183][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.12:184][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.12:185][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.12:185][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.12:186][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.12:187][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.12:188][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.12:188][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.12:189][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.12:190][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.12:192][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.14.20:394][204]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.37:024][517]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.41:022][588]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.41:075][589]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.41:134][590]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.41:644][599]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.41:698][600]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.41:757][601]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.42:499][614]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.42:556][615]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.43:253][627]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.43:313][628]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.43:374][629]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.44:017][640]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.44:597][650]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.44:655][651]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.51:552][786]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.51:604][787]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.53:129][815]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.53:187][816]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.53:569][823]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.53:628][824]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.53:680][825]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.54:416][838]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.56:144][869]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.56:915][883]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.56:971][884]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.57:026][885]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.57:693][897]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.14.57:747][898]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] Grounde
+[2023.09.15-19.15.06:004][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-19.15.06:005][ 49]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.15-19.15.06:006][ 49]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.15-19.15.06:010][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-19.15.06:011][ 49]LogContentBundle: [VehicleExampleMap(Standalone)] Deleting container.
+[2023.09.15-19.15.06:062][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.15-19.15.06:065][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-19.15.06:088][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-19.15.06:089][ 49]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.09.15-19.15.06:089][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.09.15-19.15.06:093][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.09.15-19.15.06:112][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.09.15-19.15.06:262][ 49]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.15.06:293][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.09.15-19.15.06:319][ 50]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.15.31:840][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.15-19.15.32:079][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.09.15-19.15.32:092][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.15-19.15.32:107][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.09.15-19.15.32:149][542]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.010971 seconds
+[2023.09.15-19.15.32:163][542]LogSerialization: UsePackageTrailer: 'true'
+[2023.09.15-19.15.32:176][542]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/1Y/YLMCPKHTZA2L5UW33M4394
+[2023.09.15-19.15.32:176][542]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/YLMCPKHTZA2L5UW33M4394EB0B2FBC4F39C19B7FBF1EBC38B699D0.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/1Y/YLMCPKHTZA2L5UW33M4394.uasset'
+[2023.09.15-19.15.32:199][542]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/IH/92IXUNCMOXFOEQ7ZK3TMKS
+[2023.09.15-19.15.32:199][542]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/92IXUNCMOXFOEQ7ZK3TMKSC31E72E84DB089DD6AABE884408FB428.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/IH/92IXUNCMOXFOEQ7ZK3TMKS.uasset'
+[2023.09.15-19.15.32:202][542]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/BH/CM8TZRBZI8OI6DU5GX56B6
+[2023.09.15-19.15.32:202][542]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/CM8TZRBZI8OI6DU5GX56B60FDE5983480E35899FAD9BA4AFEE0E7F.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/BH/CM8TZRBZI8OI6DU5GX56B6.uasset'
+[2023.09.15-19.15.32:205][542]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/R0/MPL7OED3GQWOQ5NUK6IRKX
+[2023.09.15-19.15.32:205][542]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/MPL7OED3GQWOQ5NUK6IRKX20863A9A4EC8832BFD22F4A97265171C.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/R0/MPL7OED3GQWOQ5NUK6IRKX.uasset'
+[2023.09.15-19.15.32:208][542]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/2E/EIX0CH4EE47Z5QK96QB9NW
+[2023.09.15-19.15.32:208][542]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/EIX0CH4EE47Z5QK96QB9NWC3BA9D5D42FDF029E39F258175872A38.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/2E/EIX0CH4EE47Z5QK96QB9NW.uasset'
+[2023.09.15-19.15.32:251][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 411 ms
+[2023.09.15-19.15.32:256][542]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.15-19.15.32:257][542]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F5391A901_1298619147
+[2023.09.15-19.15.32:258][542]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F5391A901_1292860146
+[2023.09.15-19.15.32:258][542]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F5391A901_1245980145
+[2023.09.15-19.15.32:258][542]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F5391A901_1383875149
+[2023.09.15-19.15.32:258][542]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F5391A901_1182574144
+[2023.09.15-19.15.32:276][542]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.15.34:761][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.09.15-19.15.39:252][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.15-19.15.39:386][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.09.15-19.15.39:404][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.09.15-19.15.39:424][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.09.15-19.15.39:473][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 221 ms (total: 633 ms)
+[2023.09.15-19.17.51:599][108]LogWindowsTextInputMethodSystem: Activated input method: Arabic (Iraq) - (Keyboard).
+[2023.09.15-19.17.51:599][108]LogWindowsTextInputMethodSystem: Activated input method: Arabic (Iraq) - (Keyboard).
+[2023.09.15-19.18.50:388][227]LogShaderCompilers: Display: ================================================
+[2023.09.15-19.18.50:388][227]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.15-19.18.50:388][227]LogShaderCompilers: Display: Total job queries 257, among them cache hits 55 (21.40%)
+[2023.09.15-19.18.50:388][227]LogShaderCompilers: Display: Tracking 202 distinct input hashes that result in 50 distinct outputs (24.75%)
+[2023.09.15-19.18.50:388][227]LogShaderCompilers: Display: RAM used: 4.29 MiB of 819.20 MiB budget. Usage: 0.52%
+[2023.09.15-19.18.50:388][227]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.15-19.18.50:388][227]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.09.15-19.18.50:389][227]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.09.15-19.18.50:389][227]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.09.15-19.18.50:389][227]LogShaderCompilers: Display: ================================================
+[2023.09.15-19.19.30:980][990]LogEditorViewport: Clicking Background
+[2023.09.15-19.20.29:227][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.15-19.20.29:445][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.09.15-19.20.29:465][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.09.15-19.20.29:487][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.09.15-19.20.29:491][ 32]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/HZ/9MH5WDH2F9WDF83GDFMMME
+[2023.09.15-19.20.29:492][ 32]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/9MH5WDH2F9WDF83GDFMMME27E04024473438D5CA6639A766B031CE.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/HZ/9MH5WDH2F9WDF83GDFMMME.uasset'
+[2023.09.15-19.20.29:545][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 317 ms (total: 950 ms)
+[2023.09.15-19.20.29:551][ 32]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_4CEDFBD84F53A9A801_1210483311
+[2023.09.15-19.20.29:551][ 32]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F53A9A801_1210483311
+[2023.09.15-19.20.29:573][ 32]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-19.50.30:873][460]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.179 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4465 files in 5821 folders with total size 342 MiB.
+[2023.09.15-20.50.30:768][257]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.073 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4465 files in 5821 folders with total size 342 MiB.
+[2023.09.15-21.19.22:307][450]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.09.15-21.19.22:307][450]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.09.15-21.20.08:646][504]LogShaderCompilers: Display: ================================================
+[2023.09.15-21.20.08:646][504]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.15-21.20.08:646][504]LogShaderCompilers: Display: Total job queries 258, among them cache hits 55 (21.32%)
+[2023.09.15-21.20.08:646][504]LogShaderCompilers: Display: Tracking 203 distinct input hashes that result in 51 distinct outputs (25.12%)
+[2023.09.15-21.20.08:646][504]LogShaderCompilers: Display: RAM used: 4.31 MiB of 819.20 MiB budget. Usage: 0.53%
+[2023.09.15-21.20.08:646][504]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.15-21.20.08:646][504]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.09.15-21.20.08:646][504]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.09.15-21.20.08:646][504]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.09.15-21.20.08:646][504]LogShaderCompilers: Display: ================================================
+[2023.09.15-21.20.10:240][505]LogAutomationController: Ignoring very large delta of 2.09 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.09.15-21.20.12:458][506]LogAutomationController: Ignoring very large delta of 2.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.09.15-21.20.20:303][531]LogAutomationController: Ignoring very large delta of 5.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.09.15-21.23.37:010][692]LogViewport: Scene viewport resized to 568x339, mode Windowed.
+[2023.09.15-21.23.56:239][ 12]Cmd: TRANSACTION UNDO
+[2023.09.15-21.23.56:239][ 12]LogEditorTransaction: Undo Move Elements
+[2023.09.15-21.23.56:579][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-21.23.57:315][ 29]LogEditorViewport: Clicking Background
+[2023.09.15-21.24.05:237][178]LogShaderCompilers: Display: ================================================
+[2023.09.15-21.24.05:237][178]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.15-21.24.05:238][178]LogShaderCompilers: Display: Total job queries 259, among them cache hits 55 (21.24%)
+[2023.09.15-21.24.05:238][178]LogShaderCompilers: Display: Tracking 204 distinct input hashes that result in 51 distinct outputs (25.00%)
+[2023.09.15-21.24.05:238][178]LogShaderCompilers: Display: RAM used: 4.33 MiB of 819.20 MiB budget. Usage: 0.53%
+[2023.09.15-21.24.05:238][178]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.15-21.24.05:238][178]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.09.15-21.24.05:238][178]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.09.15-21.24.05:238][178]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.09.15-21.24.05:238][178]LogShaderCompilers: Display: ================================================
+[2023.09.15-21.24.25:602][614]LogViewport: Scene viewport resized to 568x339, mode Windowed.
+[2023.09.15-21.27.59:418][766]LogViewport: Scene viewport resized to 568x339, mode Windowed.
+[2023.09.15-21.28.34:407][264]LogViewport: Scene viewport resized to 568x339, mode Windowed.
+[2023.09.15-21.28.37:656][314]Cmd: EDIT COPY
+[2023.09.15-21.28.38:585][328]Cmd: EDIT PASTE
+[2023.09.15-21.28.38:810][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.15-21.28.38:910][329]LogViewport: Scene viewport resized to 568x339, mode Windowed.
+[2023.09.15-21.29.07:511][756]LogViewport: Scene viewport resized to 568x339, mode Windowed.
+[2023.09.15-21.30.41:029][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.15-21.30.41:335][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2023.09.15-21.30.41:364][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.09.15-21.30.41:392][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.09.15-21.30.41:433][ 44]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/R5/DWE578E6JIGVJCDO7OF3D1
+[2023.09.15-21.30.41:434][ 44]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/DWE578E6JIGVJCDO7OF3D19C3FE99445FAB4CB9DC9B981D42CACFD.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/R5/DWE578E6JIGVJCDO7OF3D1.uasset'
+[2023.09.15-21.30.41:450][ 44]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/7K/OVU0IS8FBXYU99NLEE01V4
+[2023.09.15-21.30.41:451][ 44]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/OVU0IS8FBXYU99NLEE01V41709016E4F4AA33626876F91B1820505.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/7K/OVU0IS8FBXYU99NLEE01V4.uasset'
+[2023.09.15-21.30.41:467][ 44]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/PX/AL4NC0KG6JGGTTONH78PV5
+[2023.09.15-21.30.41:467][ 44]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/AL4NC0KG6JGGTTONH78PV55BF2640A429D48783AC636B21BA3A73B.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/PX/AL4NC0KG6JGGTTONH78PV5.uasset'
+[2023.09.15-21.30.41:509][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 480 ms (total: 1.43 sec)
+[2023.09.15-21.30.41:573][ 44]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.15-21.30.41:575][ 44]LogContentValidation: Display: Validating /Game/Blueprints/Runningball.Runningball_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Runningball_C_UAID_A85E45D562F108A801_1510024976
+[2023.09.15-21.30.41:575][ 44]LogContentValidation: Display: Validating /Game/Blueprints/Runningball.Runningball_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Runningball_C_UAID_4CEDFBD84F5398A901_2073140382
+[2023.09.15-21.30.41:575][ 44]LogContentValidation: Display: Validating /Game/Blueprints/Traps.Traps_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Traps_C_UAID_A85E45D562F10AA801_1596064332
+[2023.09.15-21.30.41:597][ 44]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+>>>>>>> f7802bbbef33825dedeaeec8831cc41b726d0259
