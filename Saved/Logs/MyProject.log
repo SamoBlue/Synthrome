@@ -4538,3 +4538,400 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.19-06.01.46:232][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
 [2023.09.19-06.01.46:271][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
 [2023.09.19-06.01.46:326][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 269 ms (total: 13.8 sec)
+[2023.09.19-06.34.45:683][472]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.098 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4683 files in 6058 folders with total size 352 MiB.
+[2023.09.19-07.34.46:649][272]LogDerivedDataCache: C:/Users/x87/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.064 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4683 files in 6058 folders with total size 352 MiB.
+[2023.09.19-07.53.21:090][298]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Hitwall.Hitwall_C
+[2023.09.19-07.53.21:090][298]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Hitwall.Hitwall_C
+[2023.09.19-07.53.21:096][298]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Hitwall.Hitwall as actor: Hitwall_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Hitwall_C_0
+[2023.09.19-07.53.21:097][298]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Hitwall.Hitwall as actor: Hitwall_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Hitwall_C_0
+[2023.09.19-07.53.22:339][341]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Hitwall.Hitwall_C
+[2023.09.19-07.53.22:339][341]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Hitwall.Hitwall_C
+[2023.09.19-07.53.22:357][341]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Hitwall.Hitwall as actor: Hitwall_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Hitwall_C_UAID_4CEDFBD84F53ADAA01_1330387181
+[2023.09.19-07.53.22:359][341]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Hitwall.Hitwall as actor: Hitwall_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Hitwall_C_UAID_4CEDFBD84F53ADAA01_1330387181
+[2023.09.19-07.54.54:859][960]LogContentBundle: [VehicleExampleMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.19-07.54.54:862][960]MapCheck: Actor needs resave /Game/VehicleTemplate/Maps/VehicleExampleMap.WorldDataLayers-1 
+[2023.09.19-07.54.54:885][960]LogWorldPartition: Display: GenerateStreaming started...
+[2023.09.19-07.54.54:885][960]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.09.19-07.54.54:885][960]LogWorldPartition: Display: GetPartitionedActors took 87 us (total: 1 ms)
+[2023.09.19-07.54.54:889][960]LogWorldPartition: Display: GenerateStreaming took 3 ms (total: 24 ms)
+[2023.09.19-07.54.54:890][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.19-07.54.54:892][960]PIE: New page: PIE session: VehicleExampleMap (Sep 19, 2023, 1:54:54 PM)
+[2023.09.19-07.54.54:920][960]LogPlayLevel: Creating play world package: /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.19-07.54.55:033][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112147s)
+[2023.09.19-07.54.55:033][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.112304s)
+[2023.09.19-07.54.55:033][960]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.19-07.54.55:033][960]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.19-07.54.55:034][960]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2023.09.19-07.54.55:036][960]LogWorldPartition: ULevel::OnLevelLoaded(VehicleExampleMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.19-07.54.55:036][960]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.19-07.54.55:036][960]LogWorldPartition: UWorldPartition::Initialize(Asset=VehicleExampleMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.19-07.54.55:055][960]LogContentBundle: [VehicleExampleMap(Standalone)] Creating new contrainer.
+[2023.09.19-07.54.55:055][960]LogWorldPartition: Display: WorldPartition initialize took 18 ms (total: 3.98 sec)
+[2023.09.19-07.54.55:055][960]LogPlayLevel: PIE: World Init took: (0.022280s)
+[2023.09.19-07.54.55:159][960]LogUObjectHash: Compacting FUObjectHashTables data took   9.96ms
+[2023.09.19-07.54.55:346][960]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.09.19-07.54.55:346][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.19-07.54.55:346][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.19-07.54.55:346][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.19-07.54.55:346][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.19-07.54.55:346][960]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.19-07.54.55:346][960]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.19-07.54.55:346][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.19-07.54.55:346][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.19-07.54.55:348][960]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.19-07.54.55:348][960]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.19-07.54.55:348][960]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.19-07.54.55:352][960]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.19-07.54.55:407][960]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.09.19-07.54.55:410][960]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.19-07.54.55:410][960]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.19-07.54.55:410][960]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.19-07.54.55:412][960]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.09.19-07.54.55:412][960]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.09.19-07.54.55:414][960]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.09.19-07.54.55:414][960]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.09.19-07.54.55:415][960]LogInit: FAudioDevice initialized with ID 11.
+[2023.09.19-07.54.55:415][960]LogAudio: Display: Audio Device (ID: 11) registered with world 'VehicleExampleMap'.
+[2023.09.19-07.54.55:415][960]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.09.19-07.54.55:428][960]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2023.09.19-07.54.55:461][960]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Deathwall_C_UAID_A85E45D562F155A401_1918167484.Box has a component set to zero, which will result in a bad body instance. Scale:X=6652.875 Y=6652.875 Z=0.000
+[2023.09.19-07.54.55:465][960]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1416644990.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.54.55:466][960]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1555496370.Box has a component set to zero, which will result in a bad body instance. Scale:X=168.000 Y=0.000 Z=146.000
+[2023.09.19-07.54.55:466][960]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1441821991.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.54.55:466][960]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F1589901_1493297217.Box has a component set to zero, which will result in a bad body instance. Scale:X=42.000 Y=0.000 Z=36.500
+[2023.09.19-07.54.55:471][960]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1367661368.Box has a component set to zero, which will result in a bad body instance. Scale:X=189.000 Y=0.000 Z=164.250
+[2023.09.19-07.54.55:472][960]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F116A601_1243122359.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.54.55:472][960]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1493068995.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.54.55:473][960]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F116A601_1255943360.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.54.55:473][960]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1418504369.Box has a component set to zero, which will result in a bad body instance. Scale:X=168.000 Y=0.000 Z=146.000
+[2023.09.19-07.54.55:473][960]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53B3A601_1481761971.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.54.55:473][960]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1521235996.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.54.55:476][960]LogWorld: Bringing World /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2023.09.19-10.54.55
+[2023.09.19-07.54.55:480][960]LogWorld: Bringing up level for play took: 0.051187
+[2023.09.19-07.54.55:488][960]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.09.19-07.54.55:490][960]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.09.19-07.54.55:503][960]r.MotionBlur.Amount = "0"
+[2023.09.19-07.54.55:507][960]PIE: Server logged in
+[2023.09.19-07.54.55:508][960]PIE: Play in editor total start time 0.649 seconds.
+[2023.09.19-07.54.55:591][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.55:594][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.55:595][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.55:596][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.55:598][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.55:599][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.55:600][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.55:601][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.55:603][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.55:604][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.55:607][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.56:194][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.56:195][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.56:197][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.56:199][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.56:201][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.56:203][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.56:204][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.56:205][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.56:206][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.56:208][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.54.56:211][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.55.10:652][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.19-07.55.10:652][114]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.19-07.55.10:655][114]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.19-07.55.10:672][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.19-07.55.10:674][114]LogContentBundle: [VehicleExampleMap(Standalone)] Deleting container.
+[2023.09.19-07.55.10:700][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.19-07.55.10:719][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.19-07.55.10:805][114]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.19-07.55.10:807][114]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.09.19-07.55.10:807][114]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.09.19-07.55.10:812][114]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.09.19-07.55.10:824][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.19-07.55.10:852][114]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2023.09.19-07.55.11:010][114]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.55.11:029][115]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.09.19-07.55.11:065][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.55.41:965][524]Cmd: EDIT COPY
+[2023.09.19-07.55.42:190][525]Cmd: EDIT PASTE
+[2023.09.19-07.55.42:606][525]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.55.59:828][793]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.19-07.55.59:856][793]LogContentBundle: [VehicleExampleMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.19-07.55.59:858][793]MapCheck: Actor needs resave /Game/VehicleTemplate/Maps/VehicleExampleMap.WorldDataLayers-1 
+[2023.09.19-07.55.59:876][793]LogWorldPartition: Display: GenerateStreaming started...
+[2023.09.19-07.55.59:876][793]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.09.19-07.55.59:876][793]LogWorldPartition: Display: GetPartitionedActors took 113 us (total: 1 ms)
+[2023.09.19-07.55.59:882][793]LogWorldPartition: Display: GenerateStreaming took 6 ms (total: 31 ms)
+[2023.09.19-07.55.59:883][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.19-07.55.59:883][793]PIE: New page: PIE session: VehicleExampleMap (Sep 19, 2023, 1:55:59 PM)
+[2023.09.19-07.55.59:931][793]LogPlayLevel: Creating play world package: /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.19-07.56.00:078][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.146911s)
+[2023.09.19-07.56.00:078][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.147022s)
+[2023.09.19-07.56.00:078][793]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.19-07.56.00:078][793]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.19-07.56.00:079][793]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2023.09.19-07.56.00:081][793]LogWorldPartition: ULevel::OnLevelLoaded(VehicleExampleMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.19-07.56.00:081][793]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.19-07.56.00:081][793]LogWorldPartition: UWorldPartition::Initialize(Asset=VehicleExampleMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.19-07.56.00:106][793]LogContentBundle: [VehicleExampleMap(Standalone)] Creating new contrainer.
+[2023.09.19-07.56.00:106][793]LogWorldPartition: Display: WorldPartition initialize took 25 ms (total: 4.01 sec)
+[2023.09.19-07.56.00:107][793]LogPlayLevel: PIE: World Init took: (0.028748s)
+[2023.09.19-07.56.00:177][793]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.09.19-07.56.00:183][793]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.09.19-07.56.00:183][793]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.19-07.56.00:183][793]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.19-07.56.00:183][793]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.19-07.56.00:183][793]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.19-07.56.00:183][793]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.19-07.56.00:183][793]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.19-07.56.00:183][793]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.19-07.56.00:183][793]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.19-07.56.00:185][793]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.19-07.56.00:185][793]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.19-07.56.00:185][793]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.19-07.56.00:188][793]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.19-07.56.00:245][793]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.09.19-07.56.00:246][793]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.19-07.56.00:246][793]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.19-07.56.00:246][793]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.19-07.56.00:248][793]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.09.19-07.56.00:248][793]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.09.19-07.56.00:252][793]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.09.19-07.56.00:252][793]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.09.19-07.56.00:252][793]LogInit: FAudioDevice initialized with ID 12.
+[2023.09.19-07.56.00:252][793]LogAudio: Display: Audio Device (ID: 12) registered with world 'VehicleExampleMap'.
+[2023.09.19-07.56.00:252][793]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.09.19-07.56.00:257][793]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2023.09.19-07.56.00:307][793]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Deathwall_C_UAID_A85E45D562F155A401_1918167484.Box has a component set to zero, which will result in a bad body instance. Scale:X=6652.875 Y=6652.875 Z=0.000
+[2023.09.19-07.56.00:310][793]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1416644990.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.56.00:310][793]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1555496370.Box has a component set to zero, which will result in a bad body instance. Scale:X=168.000 Y=0.000 Z=146.000
+[2023.09.19-07.56.00:310][793]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1441821991.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.56.00:311][793]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F1589901_1493297217.Box has a component set to zero, which will result in a bad body instance. Scale:X=42.000 Y=0.000 Z=36.500
+[2023.09.19-07.56.00:314][793]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1367661368.Box has a component set to zero, which will result in a bad body instance. Scale:X=189.000 Y=0.000 Z=164.250
+[2023.09.19-07.56.00:314][793]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F116A601_1243122359.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.56.00:315][793]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1493068995.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.56.00:315][793]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F116A601_1255943360.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.56.00:316][793]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1418504369.Box has a component set to zero, which will result in a bad body instance. Scale:X=168.000 Y=0.000 Z=146.000
+[2023.09.19-07.56.00:316][793]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53B3A601_1481761971.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.56.00:316][793]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1521235996.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.56.00:318][793]LogWorld: Bringing World /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2023.09.19-10.56.00
+[2023.09.19-07.56.00:322][793]LogWorld: Bringing up level for play took: 0.064470
+[2023.09.19-07.56.00:326][793]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.09.19-07.56.00:328][793]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.09.19-07.56.00:338][793]r.MotionBlur.Amount = "0"
+[2023.09.19-07.56.00:340][793]PIE: Server logged in
+[2023.09.19-07.56.00:341][793]PIE: Play in editor total start time 0.485 seconds.
+[2023.09.19-07.56.00:398][793]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.00:400][793]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.00:401][793]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.00:407][793]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.00:408][793]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.00:409][793]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.00:410][793]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.00:411][793]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.00:412][793]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.00:413][793]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.00:416][793]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.01:465][794]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.01:467][794]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.01:468][794]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.01:470][794]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.01:472][794]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.01:474][794]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.01:475][794]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.01:476][794]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.01:478][794]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.01:479][794]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.01:482][794]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.13:741][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.19-07.56.13:741][953]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.19-07.56.13:744][953]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.19-07.56.13:751][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.19-07.56.13:752][953]LogContentBundle: [VehicleExampleMap(Standalone)] Deleting container.
+[2023.09.19-07.56.13:815][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.19-07.56.13:824][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.19-07.56.13:884][953]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.19-07.56.13:885][953]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.09.19-07.56.13:885][953]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.09.19-07.56.13:888][953]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.09.19-07.56.13:898][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.19-07.56.13:913][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2023.09.19-07.56.14:013][953]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.56.14:030][954]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.09.19-07.56.14:067][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.57.34:744][132]Cmd: EDIT COPY
+[2023.09.19-07.57.35:072][136]Cmd: EDIT PASTE
+[2023.09.19-07.57.35:238][136]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.58.36:349][ 36]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.58.37:863][ 59]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.25:159][724]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.19-07.59.25:184][724]LogContentBundle: [VehicleExampleMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.19-07.59.25:185][724]MapCheck: Actor needs resave /Game/VehicleTemplate/Maps/VehicleExampleMap.WorldDataLayers-1 
+[2023.09.19-07.59.25:200][724]LogWorldPartition: Display: GenerateStreaming started...
+[2023.09.19-07.59.25:200][724]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.09.19-07.59.25:200][724]LogWorldPartition: Display: GetPartitionedActors took 34 us (total: 1 ms)
+[2023.09.19-07.59.25:203][724]LogWorldPartition: Display: GenerateStreaming took 2 ms (total: 33 ms)
+[2023.09.19-07.59.25:203][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.19-07.59.25:203][724]PIE: New page: PIE session: VehicleExampleMap (Sep 19, 2023, 1:59:25 PM)
+[2023.09.19-07.59.25:240][724]LogPlayLevel: Creating play world package: /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.19-07.59.25:336][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.095918s)
+[2023.09.19-07.59.25:337][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.095986s)
+[2023.09.19-07.59.25:337][724]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.19-07.59.25:337][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.19-07.59.25:337][724]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2023.09.19-07.59.25:339][724]LogWorldPartition: ULevel::OnLevelLoaded(VehicleExampleMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.19-07.59.25:339][724]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.19-07.59.25:339][724]LogWorldPartition: UWorldPartition::Initialize(Asset=VehicleExampleMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.19-07.59.25:363][724]LogContentBundle: [VehicleExampleMap(Standalone)] Creating new contrainer.
+[2023.09.19-07.59.25:363][724]LogWorldPartition: Display: WorldPartition initialize took 23 ms (total: 4.03 sec)
+[2023.09.19-07.59.25:363][724]LogPlayLevel: PIE: World Init took: (0.026765s)
+[2023.09.19-07.59.25:433][724]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2023.09.19-07.59.25:443][724]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.09.19-07.59.25:443][724]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.19-07.59.25:443][724]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.19-07.59.25:443][724]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.19-07.59.25:443][724]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.19-07.59.25:443][724]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.19-07.59.25:443][724]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.19-07.59.25:443][724]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.19-07.59.25:443][724]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.19-07.59.25:444][724]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.19-07.59.25:444][724]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.19-07.59.25:444][724]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.19-07.59.25:448][724]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.19-07.59.25:499][724]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.09.19-07.59.25:500][724]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.19-07.59.25:500][724]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.19-07.59.25:500][724]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.19-07.59.25:501][724]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.09.19-07.59.25:501][724]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.09.19-07.59.25:504][724]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.09.19-07.59.25:504][724]LogInit: FAudioDevice initialized with ID 13.
+[2023.09.19-07.59.25:504][724]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.09.19-07.59.25:504][724]LogAudio: Display: Audio Device (ID: 13) registered with world 'VehicleExampleMap'.
+[2023.09.19-07.59.25:504][724]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.09.19-07.59.25:509][724]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2023.09.19-07.59.25:541][724]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Deathwall_C_UAID_A85E45D562F155A401_1918167484.Box has a component set to zero, which will result in a bad body instance. Scale:X=6652.875 Y=6652.875 Z=0.000
+[2023.09.19-07.59.25:544][724]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1416644990.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.59.25:544][724]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1555496370.Box has a component set to zero, which will result in a bad body instance. Scale:X=168.000 Y=0.000 Z=146.000
+[2023.09.19-07.59.25:545][724]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1441821991.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.59.25:545][724]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F1589901_1493297217.Box has a component set to zero, which will result in a bad body instance. Scale:X=42.000 Y=0.000 Z=36.500
+[2023.09.19-07.59.25:547][724]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1367661368.Box has a component set to zero, which will result in a bad body instance. Scale:X=189.000 Y=0.000 Z=164.250
+[2023.09.19-07.59.25:547][724]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F116A601_1243122359.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.59.25:548][724]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1493068995.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.59.25:548][724]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F116A601_1255943360.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.59.25:548][724]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1418504369.Box has a component set to zero, which will result in a bad body instance. Scale:X=168.000 Y=0.000 Z=146.000
+[2023.09.19-07.59.25:549][724]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53B3A601_1481761971.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.59.25:549][724]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1521235996.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.19-07.59.25:550][724]LogWorld: Bringing World /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2023.09.19-10.59.25
+[2023.09.19-07.59.25:553][724]LogWorld: Bringing up level for play took: 0.043698
+[2023.09.19-07.59.25:556][724]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.09.19-07.59.25:557][724]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.09.19-07.59.25:565][724]r.MotionBlur.Amount = "0"
+[2023.09.19-07.59.25:567][724]PIE: Server logged in
+[2023.09.19-07.59.25:568][724]PIE: Play in editor total start time 0.384 seconds.
+[2023.09.19-07.59.25:627][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.25:629][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.25:630][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.25:631][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.25:632][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.25:633][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.25:634][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.25:634][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.25:636][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.25:637][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.25:639][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.26:636][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.26:638][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.26:639][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.26:640][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.26:641][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.26:642][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.26:643][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.26:644][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.26:645][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.26:646][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.26:648][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-07.59.50:140][ 57]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.19-07.59.53:403][109]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.19-07.59.54:762][133]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 2
+[2023.09.19-07.59.57:253][178]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.19-07.59.59:488][219]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.19-08.00.05:307][326]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.19-08.00.16:570][542]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.19-08.00.18:280][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-08.00.21:923][625]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.19-08.00.28:644][722]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-08.00.35:235][814]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.35:235][814]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.35:306][815]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.35:306][815]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.35:375][816]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.35:375][816]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.35:448][817]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.35:448][817]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.35:542][818]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.35:542][818]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.36:273][828]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.36:273][828]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.36:342][829]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.36:342][829]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.36:413][830]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.36:413][830]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.36:475][831]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.36:475][831]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.36:544][832]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.36:544][832]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.36:611][833]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.36:611][833]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.36:682][834]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.36:682][834]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.37:470][847]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.37:531][848]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.37:531][848]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.19-08.00.38:931][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.19-08.00.38:932][870]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.19-08.00.38:933][870]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.19-08.00.38:938][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.19-08.00.38:938][870]LogContentBundle: [VehicleExampleMap(Standalone)] Deleting container.
+[2023.09.19-08.00.39:031][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.19-08.00.39:038][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.19-08.00.39:102][870]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.19-08.00.39:105][870]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.09.19-08.00.39:105][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.09.19-08.00.39:109][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.09.19-08.00.39:119][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.19-08.00.39:138][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2023.09.19-08.00.39:242][870]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-08.00.39:260][871]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.09.19-08.00.39:290][871]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-08.00.42:507][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.19-08.00.42:816][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.09.19-08.00.42:892][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.09.19-08.00.42:975][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.09.19-08.00.42:997][896]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/YY/UDEH5VFPGMIYR8RQFDJBAQ
+[2023.09.19-08.00.42:998][896]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/UDEH5VFPGMIYR8RQFDJBAQ953B51154A9831E786EE85BDF43A351D.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/YY/UDEH5VFPGMIYR8RQFDJBAQ.uasset'
+[2023.09.19-08.00.43:011][896]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/RW/EQFMEDPIWB39LSFF7A3XC1
+[2023.09.19-08.00.43:012][896]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/EQFMEDPIWB39LSFF7A3XC10AC440E34050806A94D4E5B901CB8DF4.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/RW/EQFMEDPIWB39LSFF7A3XC1.uasset'
+[2023.09.19-08.00.43:029][896]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/QG/YALW1KZDWFWEAYDZIBT580
+[2023.09.19-08.00.43:029][896]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/YALW1KZDWFWEAYDZIBT580A0C330DF438296EF5BDE6E866042EF3D.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/QG/YALW1KZDWFWEAYDZIBT580.uasset'
+[2023.09.19-08.00.43:040][896]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/KI/89NOUGUV4D3Z7KI3UU6GQU
+[2023.09.19-08.00.43:040][896]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/89NOUGUV4D3Z7KI3UU6GQU641A657B4453E7C1199A48A2A23A9A87.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/KI/89NOUGUV4D3Z7KI3UU6GQU.uasset'
+[2023.09.19-08.00.43:050][896]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/Y3/0Q3ECXHD1POTZ4S94Z27IO
+[2023.09.19-08.00.43:050][896]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/0Q3ECXHD1POTZ4S94Z27IO567FA10444A2655686B8EDBD88B782B8.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/Y3/0Q3ECXHD1POTZ4S94Z27IO.uasset'
+[2023.09.19-08.00.43:059][896]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/B3/G132TVZI8UYNKFL31129QX
+[2023.09.19-08.00.43:059][896]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/G132TVZI8UYNKFL31129QXF2DCD4194A8119C1D59704898269D20F.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/B3/G132TVZI8UYNKFL31129QX.uasset'
+[2023.09.19-08.00.43:085][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 577 ms (total: 14.3 sec)
+[2023.09.19-08.00.43:096][896]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.19-08.00.43:096][896]LogContentValidation: Display: Validating /Game/Blueprints/Moving_Platform_4.Moving_Platform_4_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Moving_Platform_4_C_UAID_4CEDFBD84F537FA601_2004736810
+[2023.09.19-08.00.43:096][896]LogContentValidation: Display: Validating /Game/Blueprints/Moving_Platform_4.Moving_Platform_4_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Moving_Platform_4_C_UAID_4CEDFBD84F5380A601_1245865987
+[2023.09.19-08.00.43:096][896]LogContentValidation: Display: Validating /Game/Blueprints/Hitwall.Hitwall_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Hitwall_C_UAID_4CEDFBD84F53ADAA01_1330387181
+[2023.09.19-08.00.43:096][896]LogContentValidation: Display: Validating /Game/Blueprints/Hitwall.Hitwall_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Hitwall_C_UAID_4CEDFBD84F53ADAA01_1470239182
+[2023.09.19-08.00.43:096][896]LogContentValidation: Display: Validating /Game/Blueprints/Hitwall.Hitwall_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Hitwall_C_UAID_4CEDFBD84F53ADAA01_1583130184
+[2023.09.19-08.00.43:096][896]LogContentValidation: Display: Validating /Game/Blueprints/Hitwall.Hitwall_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Hitwall_C_UAID_4CEDFBD84F53ADAA01_1583122183
+[2023.09.19-08.00.43:126][896]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.19-08.00.44:920][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.19-08.00.45:138][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.09.19-08.00.45:223][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.09.19-08.00.45:306][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.09.19-08.00.45:332][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 411 ms (total: 14.7 sec)
+[2023.09.19-08.00.47:563][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
