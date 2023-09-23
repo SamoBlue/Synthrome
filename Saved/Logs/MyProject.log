@@ -1933,3 +1933,20 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.09.23-20.42.26:962][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.09.23-20.42.26:979][852]LogPlayLevel: Display: Destroying online subsystem :Context_16
 [2023.09.23-20.42.27:158][852]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.23-20.44.04:561][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.23-20.44.04:724][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.09.23-20.44.04:743][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.09.23-20.44.04:761][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.09.23-20.44.04:768][720]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/VH/03KJCBT51R0G9ZMSCCR6IX
+[2023.09.23-20.44.04:768][720]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/03KJCBT51R0G9ZMSCCR6IX33AB8BFA459C3E5393587C9738C2BDDD.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/VH/03KJCBT51R0G9ZMSCCR6IX.uasset'
+[2023.09.23-20.44.04:773][720]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/BU/MA9VVNMJ8QWB9555R7I0AY
+[2023.09.23-20.44.04:773][720]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/MA9VVNMJ8QWB9555R7I0AYB870D1F14EE70DC70A77CEACDC82E042.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/BU/MA9VVNMJ8QWB9555R7I0AY.uasset'
+[2023.09.23-20.44.05:137][720]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/XH/8RI4U4U5CPMH12NIQZXJOI
+[2023.09.23-20.44.05:137][720]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/8RI4U4U5CPMH12NIQZXJOIE30558F740B3D3F6068A5A8B702DBF80.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/XH/8RI4U4U5CPMH12NIQZXJOI.uasset'
+[2023.09.23-20.44.05:159][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 598 ms (total: 1.69 sec)
+[2023.09.23-20.44.05:166][720]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.23-20.44.05:166][720]LogContentValidation: Display: Validating /Game/LevelPrototyping/TestStuff/fatima/Shapes/Shape.Shape_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Shape_C_UAID_4CEDFBD84F5319AC01_2113067220
+[2023.09.23-20.44.05:166][720]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F5319AC01_2042114219
+[2023.09.23-20.44.05:166][720]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F5319AC01_1943855218
+[2023.09.23-20.44.05:181][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.23-20.44.07:857][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
