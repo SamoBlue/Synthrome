@@ -2,3 +2,8 @@
 Binaries/
 Saved/
 Intermediate/
+Build/Windows/FileOpenOrder/CookerOpenOrder.log
+Build/Windows/FileOpenOrder/EditorOpenOrder.log
+Intermediate/CachedAssetRegistry.bin
+Saved/Config/WindowsEditor/Game.ini
+Saved/Logs/MyProject.log
