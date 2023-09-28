@@ -4664,3 +4664,769 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.28-20.13.03:145][ 67]LogContentValidation: Display: Validating /Game/Blueprints/NitroBall.NitroBall_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.NitroBall_C_UAID_4CEDFBD84F53AAAD01_1845015790
 [2023.09.28-20.13.03:170][ 67]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.09.28-20.13.05:252][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.09.28-20.19.41:834][340]LogWindowsTextInputMethodSystem: Activated input method: Arabic (Iraq) - (Keyboard).
+[2023.09.28-20.19.41:834][340]LogWindowsTextInputMethodSystem: Activated input method: Arabic (Iraq) - (Keyboard).
+[2023.09.28-20.19.53:989][666]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.28-20.19.54:006][666]LogContentBundle: [VehicleExampleMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.28-20.19.54:006][666]MapCheck: Actor needs resave /Game/VehicleTemplate/Maps/VehicleExampleMap.WorldDataLayers-1 
+[2023.09.28-20.19.54:016][666]LogWorldPartition: Display: GenerateStreaming started...
+[2023.09.28-20.19.54:016][666]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.09.28-20.19.54:016][666]LogWorldPartition: Display: GetPartitionedActors took 30 us (total: 6 ms)
+[2023.09.28-20.19.54:017][666]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 32 ms)
+[2023.09.28-20.19.54:018][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.28-20.19.54:018][666]PIE: New page: PIE session: VehicleExampleMap (Sep 29, 2023, 2:19:54 AM)
+[2023.09.28-20.19.54:048][666]LogPlayLevel: Creating play world package: /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.28-20.19.54:117][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068329s)
+[2023.09.28-20.19.54:117][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.068378s)
+[2023.09.28-20.19.54:117][666]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-20.19.54:117][666]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-20.19.54:117][666]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2023.09.28-20.19.54:118][666]LogWorldPartition: ULevel::OnLevelLoaded(VehicleExampleMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.28-20.19.54:118][666]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.28-20.19.54:118][666]LogWorldPartition: UWorldPartition::Initialize(Asset=VehicleExampleMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.28-20.19.54:134][666]LogContentBundle: [VehicleExampleMap(Standalone)] Creating new contrainer.
+[2023.09.28-20.19.54:134][666]LogWorldPartition: Display: WorldPartition initialize took 15 ms (total: 8.09 sec)
+[2023.09.28-20.19.54:134][666]LogPlayLevel: PIE: World Init took: (0.017828s)
+[2023.09.28-20.19.54:147][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.09.28-20.19.54:148][666]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.09.28-20.19.54:148][666]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-20.19.54:148][666]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-20.19.54:148][666]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-20.19.54:148][666]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-20.19.54:148][666]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.28-20.19.54:148][666]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.28-20.19.54:148][666]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.28-20.19.54:148][666]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-20.19.54:149][666]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-20.19.54:149][666]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-20.19.54:149][666]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-20.19.54:152][666]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-20.19.54:174][666]LogAudioMixer: Display: Using Audio Hardware Device Headphones (MINISO M20 Stereo)
+[2023.09.28-20.19.54:174][666]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-20.19.54:174][666]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-20.19.54:174][666]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-20.19.54:175][666]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.09.28-20.19.54:175][666]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.09.28-20.19.54:177][666]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.09.28-20.19.54:177][666]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.09.28-20.19.54:177][666]LogInit: FAudioDevice initialized with ID 14.
+[2023.09.28-20.19.54:177][666]LogAudio: Display: Audio Device (ID: 14) registered with world 'VehicleExampleMap'.
+[2023.09.28-20.19.54:178][666]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.09.28-20.19.54:180][666]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2023.09.28-20.19.54:203][666]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Deathwall_C_UAID_A85E45D562F155A401_1918167484.Box has a component set to zero, which will result in a bad body instance. Scale:X=50259.999 Y=54949.997 Z=0.000
+[2023.09.28-20.19.54:205][666]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1416644990.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.28-20.19.54:205][666]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F1589901_1493297217.Box has a component set to zero, which will result in a bad body instance. Scale:X=42.000 Y=0.000 Z=36.500
+[2023.09.28-20.19.54:207][666]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1367661368.Box has a component set to zero, which will result in a bad body instance. Scale:X=99.750 Y=0.000 Z=86.688
+[2023.09.28-20.19.54:208][666]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F535FAD01_1715418572.Box has a component set to zero, which will result in a bad body instance. Scale:X=63.000 Y=0.000 Z=54.750
+[2023.09.28-20.19.54:209][666]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1521235996.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.28-20.19.54:211][666]LogWorld: Bringing World /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2023.09.28-23.19.54
+[2023.09.28-20.19.54:214][666]LogWorld: Bringing up level for play took: 0.033693
+[2023.09.28-20.19.54:218][666]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.09.28-20.19.54:219][666]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.09.28-20.19.54:227][666]r.MotionBlur.Amount = "0"
+[2023.09.28-20.19.54:228][666]PIE: Server logged in
+[2023.09.28-20.19.54:229][666]PIE: Play in editor total start time 0.224 seconds.
+[2023.09.28-20.19.54:266][666]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:267][666]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:267][666]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:268][666]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:268][666]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:269][666]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:269][666]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:270][666]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:270][666]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:271][666]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:273][666]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:904][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:905][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:905][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:906][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:906][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:907][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:908][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:908][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:908][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:909][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.19.54:911][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.03:508][864]LogBlueprintUserMessages: [NewBlueprint_C_UAID_A85E45D562F1FCA301_1202253644] Hello
+[2023.09.28-20.20.03:533][865]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.03:534][865]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.03:571][866]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.03:571][866]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.03:607][867]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.03:607][867]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.03:641][868]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.03:641][868]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.03:677][869]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.03:677][869]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.03:718][870]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.03:718][870]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.04:712][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.06:458][938]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.28-20.20.10:545][ 52]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 2
+[2023.09.28-20.20.11:418][ 75]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.11:418][ 75]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.11:728][ 83]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:121][ 94]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:121][ 94]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:158][ 95]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:158][ 95]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:194][ 96]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:194][ 96]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:231][ 97]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:231][ 97]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:266][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:266][ 98]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:302][ 99]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:302][ 99]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:337][100]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:337][100]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:372][101]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:372][101]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:406][102]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:406][102]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:437][103]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:437][103]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:471][104]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:471][104]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:508][105]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:508][105]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:543][106]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:543][106]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:579][107]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:579][107]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:618][108]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:618][108]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:653][109]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:653][109]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:688][110]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:688][110]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:721][111]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:721][111]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:757][112]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:757][112]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:792][113]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:792][113]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:827][114]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:827][114]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:861][115]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:861][115]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:897][116]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:897][116]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:929][117]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:929][117]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:964][118]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:964][118]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:998][119]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.12:998][119]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:034][120]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:034][120]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:069][121]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:069][121]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:104][122]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:104][122]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:138][123]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:138][123]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:175][124]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:176][124]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:210][125]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:210][125]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:244][126]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:244][126]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:280][127]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:280][127]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:314][128]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:314][128]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:352][129]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:352][129]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:388][130]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:388][130]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:422][131]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:422][131]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:458][132]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:458][132]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:496][133]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:496][133]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:530][134]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:530][134]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:562][135]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:562][135]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:602][136]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:602][136]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:637][137]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:637][137]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:673][138]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:673][138]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:705][139]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:705][139]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:742][140]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:742][140]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:775][141]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:775][141]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:826][142]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:826][142]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:869][143]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:869][143]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:936][145]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:936][145]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:960][146]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:960][146]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:997][147]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.13:997][147]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:026][148]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:026][148]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:067][149]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:067][149]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:101][150]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:101][150]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:136][151]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:136][151]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:174][152]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:174][152]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:205][153]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:206][153]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:240][154]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:240][154]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:272][155]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:272][155]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:307][156]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:308][156]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:342][157]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:342][157]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:376][158]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:376][158]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:412][159]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:412][159]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:446][160]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:446][160]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:478][161]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:478][161]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:512][162]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.14:512][162]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.29:061][558]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.28-20.20.31:702][627]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 2
+[2023.09.28-20.20.35:450][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-20.20.35:450][748]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.28-20.20.35:451][748]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-20.20.35:458][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-20.20.35:459][748]LogContentBundle: [VehicleExampleMap(Standalone)] Deleting container.
+[2023.09.28-20.20.35:475][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.28-20.20.35:479][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-20.20.35:497][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-20.20.35:503][748]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.09.28-20.20.35:503][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.09.28-20.20.35:505][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.09.28-20.20.35:522][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.09.28-20.20.35:586][748]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.35:598][749]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.09.28-20.20.35:631][749]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.50:513][ 51]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.28-20.20.50:530][ 51]LogContentBundle: [VehicleExampleMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.28-20.20.50:531][ 51]MapCheck: Actor needs resave /Game/VehicleTemplate/Maps/VehicleExampleMap.WorldDataLayers-1 
+[2023.09.28-20.20.50:545][ 51]LogWorldPartition: Display: GenerateStreaming started...
+[2023.09.28-20.20.50:545][ 51]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.09.28-20.20.50:545][ 51]LogWorldPartition: Display: GetPartitionedActors took 141 us (total: 6 ms)
+[2023.09.28-20.20.50:547][ 51]LogWorldPartition: Display: GenerateStreaming took 2 ms (total: 35 ms)
+[2023.09.28-20.20.50:548][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.28-20.20.50:548][ 51]PIE: New page: PIE session: VehicleExampleMap (Sep 29, 2023, 2:20:50 AM)
+[2023.09.28-20.20.50:578][ 51]LogPlayLevel: Creating play world package: /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.28-20.20.50:660][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081439s)
+[2023.09.28-20.20.50:660][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.081503s)
+[2023.09.28-20.20.50:660][ 51]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-20.20.50:660][ 51]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-20.20.50:660][ 51]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2023.09.28-20.20.50:661][ 51]LogWorldPartition: ULevel::OnLevelLoaded(VehicleExampleMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.28-20.20.50:662][ 51]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.28-20.20.50:662][ 51]LogWorldPartition: UWorldPartition::Initialize(Asset=VehicleExampleMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.28-20.20.50:682][ 51]LogContentBundle: [VehicleExampleMap(Standalone)] Creating new contrainer.
+[2023.09.28-20.20.50:682][ 51]LogWorldPartition: Display: WorldPartition initialize took 19 ms (total: 8.11 sec)
+[2023.09.28-20.20.50:682][ 51]LogPlayLevel: PIE: World Init took: (0.022307s)
+[2023.09.28-20.20.50:698][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.09.28-20.20.50:700][ 51]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.09.28-20.20.50:700][ 51]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-20.20.50:700][ 51]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-20.20.50:700][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-20.20.50:700][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-20.20.50:700][ 51]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.28-20.20.50:700][ 51]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.28-20.20.50:700][ 51]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.28-20.20.50:700][ 51]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-20.20.50:700][ 51]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-20.20.50:700][ 51]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-20.20.50:700][ 51]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-20.20.50:704][ 51]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-20.20.50:730][ 51]LogAudioMixer: Display: Using Audio Hardware Device Headphones (MINISO M20 Stereo)
+[2023.09.28-20.20.50:731][ 51]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-20.20.50:731][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-20.20.50:731][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-20.20.50:731][ 51]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.09.28-20.20.50:731][ 51]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.09.28-20.20.50:735][ 51]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.09.28-20.20.50:735][ 51]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.09.28-20.20.50:735][ 51]LogInit: FAudioDevice initialized with ID 15.
+[2023.09.28-20.20.50:735][ 51]LogAudio: Display: Audio Device (ID: 15) registered with world 'VehicleExampleMap'.
+[2023.09.28-20.20.50:735][ 51]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.09.28-20.20.50:738][ 51]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2023.09.28-20.20.50:764][ 51]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Deathwall_C_UAID_A85E45D562F155A401_1918167484.Box has a component set to zero, which will result in a bad body instance. Scale:X=50259.999 Y=54949.997 Z=0.000
+[2023.09.28-20.20.50:766][ 51]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1416644990.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.28-20.20.50:766][ 51]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F1589901_1493297217.Box has a component set to zero, which will result in a bad body instance. Scale:X=42.000 Y=0.000 Z=36.500
+[2023.09.28-20.20.50:769][ 51]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1367661368.Box has a component set to zero, which will result in a bad body instance. Scale:X=99.750 Y=0.000 Z=86.688
+[2023.09.28-20.20.50:769][ 51]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F535FAD01_1715418572.Box has a component set to zero, which will result in a bad body instance. Scale:X=63.000 Y=0.000 Z=54.750
+[2023.09.28-20.20.50:770][ 51]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1521235996.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.28-20.20.50:772][ 51]LogWorld: Bringing World /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2023.09.28-23.20.50
+[2023.09.28-20.20.50:775][ 51]LogWorld: Bringing up level for play took: 0.037088
+[2023.09.28-20.20.50:778][ 51]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.09.28-20.20.50:779][ 51]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.09.28-20.20.50:786][ 51]r.MotionBlur.Amount = "0"
+[2023.09.28-20.20.50:789][ 51]PIE: Server logged in
+[2023.09.28-20.20.50:789][ 51]PIE: Play in editor total start time 0.259 seconds.
+[2023.09.28-20.20.50:830][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.50:831][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.50:832][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.50:832][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.50:833][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.50:834][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.50:834][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.50:835][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.50:835][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.50:836][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.50:838][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.51:286][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.51:287][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.51:287][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.51:288][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.51:288][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.51:289][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.51:289][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.51:290][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.51:291][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.51:291][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.51:293][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.20.53:499][ 84]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.53:500][ 84]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.53:564][ 85]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.53:564][ 85]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.53:624][ 86]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.53:625][ 86]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.53:669][ 87]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.53:669][ 87]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.53:738][ 88]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.53:738][ 88]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.53:798][ 89]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.20.53:798][ 89]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.21.02:462][303]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 2
+[2023.09.28-20.21.24:426][831]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.28-20.21.25:638][861]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 2
+[2023.09.28-20.21.26:517][884]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.21.27:409][909]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.28-20.21.50:994][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.21.53:507][577]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.28-20.21.56:264][642]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.21.56:264][642]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.21.57:655][675]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 2
+[2023.09.28-20.21.59:409][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-20.21.59:409][712]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.28-20.21.59:411][712]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-20.21.59:418][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-20.21.59:418][712]LogContentBundle: [VehicleExampleMap(Standalone)] Deleting container.
+[2023.09.28-20.21.59:457][712]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.28-20.21.59:462][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-20.21.59:485][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-20.21.59:492][712]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.09.28-20.21.59:492][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.09.28-20.21.59:495][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.09.28-20.21.59:516][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.09.28-20.21.59:600][712]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.21.59:618][713]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.09.28-20.22.00:302][713]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.09:925][899]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.28-20.22.09:944][899]LogContentBundle: [VehicleExampleMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.28-20.22.09:945][899]MapCheck: Actor needs resave /Game/VehicleTemplate/Maps/VehicleExampleMap.WorldDataLayers-1 
+[2023.09.28-20.22.09:960][899]LogWorldPartition: Display: GenerateStreaming started...
+[2023.09.28-20.22.09:960][899]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.09.28-20.22.09:960][899]LogWorldPartition: Display: GetPartitionedActors took 65 us (total: 6 ms)
+[2023.09.28-20.22.09:963][899]LogWorldPartition: Display: GenerateStreaming took 3 ms (total: 38 ms)
+[2023.09.28-20.22.09:963][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.28-20.22.09:964][899]PIE: New page: PIE session: VehicleExampleMap (Sep 29, 2023, 2:22:09 AM)
+[2023.09.28-20.22.10:008][899]LogPlayLevel: Creating play world package: /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.28-20.22.10:110][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102394s)
+[2023.09.28-20.22.10:110][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.102451s)
+[2023.09.28-20.22.10:111][899]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-20.22.10:111][899]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-20.22.10:111][899]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2023.09.28-20.22.10:113][899]LogWorldPartition: ULevel::OnLevelLoaded(VehicleExampleMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.28-20.22.10:113][899]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.28-20.22.10:113][899]LogWorldPartition: UWorldPartition::Initialize(Asset=VehicleExampleMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.28-20.22.10:139][899]LogContentBundle: [VehicleExampleMap(Standalone)] Creating new contrainer.
+[2023.09.28-20.22.10:139][899]LogWorldPartition: Display: WorldPartition initialize took 26 ms (total: 8.14 sec)
+[2023.09.28-20.22.10:140][899]LogPlayLevel: PIE: World Init took: (0.029231s)
+[2023.09.28-20.22.10:162][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.09.28-20.22.10:164][899]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.09.28-20.22.10:164][899]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-20.22.10:164][899]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-20.22.10:164][899]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-20.22.10:164][899]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-20.22.10:164][899]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.28-20.22.10:164][899]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.28-20.22.10:164][899]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.28-20.22.10:164][899]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-20.22.10:165][899]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-20.22.10:165][899]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-20.22.10:165][899]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-20.22.10:168][899]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-20.22.10:202][899]LogAudioMixer: Display: Using Audio Hardware Device Headphones (MINISO M20 Stereo)
+[2023.09.28-20.22.10:203][899]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-20.22.10:203][899]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-20.22.10:203][899]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-20.22.10:204][899]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.09.28-20.22.10:204][899]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.09.28-20.22.10:208][899]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.09.28-20.22.10:208][899]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.09.28-20.22.10:208][899]LogInit: FAudioDevice initialized with ID 16.
+[2023.09.28-20.22.10:208][899]LogAudio: Display: Audio Device (ID: 16) registered with world 'VehicleExampleMap'.
+[2023.09.28-20.22.10:208][899]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.09.28-20.22.10:213][899]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2023.09.28-20.22.10:246][899]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Deathwall_C_UAID_A85E45D562F155A401_1918167484.Box has a component set to zero, which will result in a bad body instance. Scale:X=50259.999 Y=54949.997 Z=0.000
+[2023.09.28-20.22.10:248][899]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1416644990.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.28-20.22.10:248][899]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F1589901_1493297217.Box has a component set to zero, which will result in a bad body instance. Scale:X=42.000 Y=0.000 Z=36.500
+[2023.09.28-20.22.10:251][899]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1367661368.Box has a component set to zero, which will result in a bad body instance. Scale:X=99.750 Y=0.000 Z=86.688
+[2023.09.28-20.22.10:251][899]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F535FAD01_1715418572.Box has a component set to zero, which will result in a bad body instance. Scale:X=63.000 Y=0.000 Z=54.750
+[2023.09.28-20.22.10:252][899]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1521235996.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.28-20.22.10:255][899]LogWorld: Bringing World /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2023.09.28-23.22.10
+[2023.09.28-20.22.10:260][899]LogWorld: Bringing up level for play took: 0.047132
+[2023.09.28-20.22.10:263][899]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.09.28-20.22.10:264][899]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.09.28-20.22.10:273][899]r.MotionBlur.Amount = "0"
+[2023.09.28-20.22.10:276][899]PIE: Server logged in
+[2023.09.28-20.22.10:277][899]PIE: Play in editor total start time 0.332 seconds.
+[2023.09.28-20.22.10:318][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:319][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:320][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:320][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:321][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:321][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:322][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:323][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:324][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:324][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:326][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:733][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:734][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:735][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:735][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:736][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:736][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:737][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:738][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:738][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:739][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.10:741][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.20:706][107]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.22.20:706][107]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.22.20:754][108]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.22.20:754][108]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.22.22:701][147]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.22.22:701][147]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.22.22:749][148]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.22.22:749][148]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.22.22:797][149]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.22.22:797][149]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.22.22:978][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-20.22.22:979][152]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.28-20.22.22:981][152]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-20.22.22:985][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-20.22.22:986][152]LogContentBundle: [VehicleExampleMap(Standalone)] Deleting container.
+[2023.09.28-20.22.23:070][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.28-20.22.23:075][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-20.22.23:100][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-20.22.23:100][152]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.09.28-20.22.23:100][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.09.28-20.22.23:103][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.09.28-20.22.23:123][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.09.28-20.22.23:225][152]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.23:241][153]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.09.28-20.22.23:265][153]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.35:983][401]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F535FAD01_1715418572.Box has a component set to zero, which will result in a bad body instance. Scale:X=63.000 Y=0.000 Z=54.750
+[2023.09.28-20.22.35:983][401]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F535FAD01_1715418572.Box has a component set to zero, which will result in a bad body instance. Scale:X=63.000 Y=0.000 Z=54.750
+[2023.09.28-20.22.36:063][402]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F535FAD01_1715418572.Box has a component set to zero, which will result in a bad body instance. Scale:X=63.000 Y=0.000 Z=54.750
+[2023.09.28-20.22.36:065][402]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F535FAD01_1715418572.Box has a component set to zero, which will result in a bad body instance. Scale:X=63.000 Y=0.000 Z=54.750
+[2023.09.28-20.22.37:238][433]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F535FAD01_1715418572.Box has a component set to zero, which will result in a bad body instance. Scale:X=63.000 Y=0.000 Z=54.750
+[2023.09.28-20.22.37:238][433]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F535FAD01_1715418572.Box has a component set to zero, which will result in a bad body instance. Scale:X=63.000 Y=0.000 Z=54.750
+[2023.09.28-20.22.37:395][437]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F535FAD01_1715418572.Box has a component set to zero, which will result in a bad body instance. Scale:X=63.000 Y=0.000 Z=54.750
+[2023.09.28-20.22.37:396][437]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F535FAD01_1715418572.Box has a component set to zero, which will result in a bad body instance. Scale:X=63.000 Y=0.000 Z=54.750
+[2023.09.28-20.22.38:101][455]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F535FAD01_1715418572.Box has a component set to zero, which will result in a bad body instance. Scale:X=63.000 Y=0.000 Z=54.750
+[2023.09.28-20.22.38:102][455]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F535FAD01_1715418572.Box has a component set to zero, which will result in a bad body instance. Scale:X=63.000 Y=0.000 Z=54.750
+[2023.09.28-20.22.43:706][569]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.28-20.22.43:728][569]LogContentBundle: [VehicleExampleMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.28-20.22.43:730][569]MapCheck: Actor needs resave /Game/VehicleTemplate/Maps/VehicleExampleMap.WorldDataLayers-1 
+[2023.09.28-20.22.43:743][569]LogWorldPartition: Display: GenerateStreaming started...
+[2023.09.28-20.22.43:743][569]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.09.28-20.22.43:743][569]LogWorldPartition: Display: GetPartitionedActors took 33 us (total: 6 ms)
+[2023.09.28-20.22.43:745][569]LogWorldPartition: Display: GenerateStreaming took 2 ms (total: 40 ms)
+[2023.09.28-20.22.43:745][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.28-20.22.43:745][569]PIE: New page: PIE session: VehicleExampleMap (Sep 29, 2023, 2:22:43 AM)
+[2023.09.28-20.22.43:778][569]LogPlayLevel: Creating play world package: /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.28-20.22.43:865][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086691s)
+[2023.09.28-20.22.43:865][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.086756s)
+[2023.09.28-20.22.43:865][569]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-20.22.43:865][569]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-20.22.43:865][569]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2023.09.28-20.22.43:867][569]LogWorldPartition: ULevel::OnLevelLoaded(VehicleExampleMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.28-20.22.43:867][569]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.28-20.22.43:867][569]LogWorldPartition: UWorldPartition::Initialize(Asset=VehicleExampleMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.28-20.22.43:889][569]LogContentBundle: [VehicleExampleMap(Standalone)] Creating new contrainer.
+[2023.09.28-20.22.43:889][569]LogWorldPartition: Display: WorldPartition initialize took 22 ms (total: 8.16 sec)
+[2023.09.28-20.22.43:889][569]LogPlayLevel: PIE: World Init took: (0.024727s)
+[2023.09.28-20.22.43:907][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.09.28-20.22.43:910][569]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.09.28-20.22.43:910][569]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-20.22.43:910][569]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-20.22.43:910][569]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-20.22.43:910][569]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-20.22.43:910][569]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.28-20.22.43:910][569]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.28-20.22.43:910][569]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.28-20.22.43:910][569]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-20.22.43:911][569]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-20.22.43:911][569]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-20.22.43:911][569]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-20.22.43:914][569]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-20.22.43:946][569]LogAudioMixer: Display: Using Audio Hardware Device Headphones (MINISO M20 Stereo)
+[2023.09.28-20.22.43:946][569]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-20.22.43:946][569]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-20.22.43:946][569]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-20.22.43:947][569]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.09.28-20.22.43:947][569]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.09.28-20.22.43:950][569]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.09.28-20.22.43:950][569]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.09.28-20.22.43:950][569]LogInit: FAudioDevice initialized with ID 17.
+[2023.09.28-20.22.43:950][569]LogAudio: Display: Audio Device (ID: 17) registered with world 'VehicleExampleMap'.
+[2023.09.28-20.22.43:950][569]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2023.09.28-20.22.43:955][569]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2023.09.28-20.22.43:986][569]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Deathwall_C_UAID_A85E45D562F155A401_1918167484.Box has a component set to zero, which will result in a bad body instance. Scale:X=50259.999 Y=54949.997 Z=0.000
+[2023.09.28-20.22.43:988][569]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1416644990.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.28-20.22.43:989][569]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_A85E45D562F1589901_1493297217.Box has a component set to zero, which will result in a bad body instance. Scale:X=42.000 Y=0.000 Z=36.500
+[2023.09.28-20.22.43:991][569]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53AFA801_1367661368.Box has a component set to zero, which will result in a bad body instance. Scale:X=99.750 Y=0.000 Z=86.688
+[2023.09.28-20.22.43:992][569]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F535FAD01_1715418572.Box has a component set to zero, which will result in a bad body instance. Scale:X=63.000 Y=0.000 Z=54.750
+[2023.09.28-20.22.43:993][569]LogPhysics: Warning: Scale for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F53EA9A01_1521235996.Box has a component set to zero, which will result in a bad body instance. Scale:X=105.000 Y=0.000 Z=91.250
+[2023.09.28-20.22.43:995][569]LogWorld: Bringing World /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2023.09.28-23.22.43
+[2023.09.28-20.22.44:000][569]LogWorld: Bringing up level for play took: 0.044763
+[2023.09.28-20.22.44:003][569]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.09.28-20.22.44:003][569]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.09.28-20.22.44:013][569]r.MotionBlur.Amount = "0"
+[2023.09.28-20.22.44:015][569]PIE: Server logged in
+[2023.09.28-20.22.44:016][569]PIE: Play in editor total start time 0.288 seconds.
+[2023.09.28-20.22.44:060][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:061][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:061][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:062][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:063][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:063][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:064][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:065][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:065][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:066][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:068][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:517][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:519][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:519][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:520][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:521][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:521][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:522][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:522][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:523][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:524][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:525][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.44:997][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.22.59:287][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.23.02:366][934]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.23.03:389][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.23.09:533][ 72]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.23.10:053][ 83]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.28-20.23.10:457][ 91]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 2
+[2023.09.28-20.23.14:567][169]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.23.14:567][169]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.23.26:470][415]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.28-20.23.26:704][419]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 2
+[2023.09.28-20.23.40:376][682]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.23.42:266][716]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.28-20.24.04:892][154]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.28-20.24.11:116][279]LogBlueprintUserMessages: [BP_SciFiCyberHoverCar_C_0] 1
+[2023.09.28-20.24.35:457][694]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.35:458][694]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.35:519][695]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.35:519][695]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.35:562][696]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.35:562][696]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.35:649][697]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.35:649][697]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.35:740][698]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.35:740][698]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.35:816][699]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.35:816][699]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.35:897][700]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.35:897][700]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.35:974][701]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.35:974][701]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:049][702]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:049][702]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:127][703]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:127][703]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:204][704]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:205][704]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:282][705]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:282][705]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:355][706]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:355][706]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:432][707]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:432][707]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:509][708]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:510][708]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:585][709]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:585][709]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:662][710]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:662][710]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:734][711]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:734][711]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:812][712]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:812][712]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:888][713]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:888][713]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:961][714]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.36:961][714]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:036][715]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:036][715]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:114][716]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:114][716]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:192][717]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:192][717]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:272][718]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:272][718]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:342][719]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:342][719]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:415][720]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:415][720]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:491][721]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:491][721]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:570][722]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:570][722]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:648][723]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:648][723]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:719][724]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:720][724]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:794][725]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:794][725]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:873][726]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:873][726]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:953][727]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.37:953][727]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:031][728]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:031][728]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:106][729]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:106][729]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:179][730]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:179][730]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:252][731]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:252][731]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:332][732]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:332][732]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:408][733]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:409][733]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:483][734]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:483][734]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:553][735]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:553][735]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:631][736]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:631][736]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:708][737]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:708][737]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:786][738]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:786][738]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:858][739]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:858][739]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:937][740]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.38:937][740]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:009][741]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:009][741]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:083][742]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:083][742]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:163][743]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:163][743]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:237][744]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:237][744]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:310][745]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:311][745]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:380][746]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:381][746]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:455][747]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:455][747]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:538][748]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:538][748]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:611][749]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:611][749]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:686][750]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:686][750]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:758][751]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:758][751]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:836][752]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:837][752]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:914][753]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:914][753]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:990][754]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.39:990][754]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.40:066][755]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.40:066][755]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.40:141][756]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.40:141][756]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.40:216][757]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.40:216][757]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.40:290][758]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.40:290][758]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.40:372][759]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.40:372][759]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.40:449][760]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.40:449][760]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.40:523][761]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.40:523][761]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.40:599][762]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.40:599][762]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2023.09.28-20.24.40:649][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-20.24.40:649][762]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2023.09.28-20.24.40:651][762]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-20.24.40:657][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-20.24.40:657][762]LogContentBundle: [VehicleExampleMap(Standalone)] Deleting container.
+[2023.09.28-20.24.40:763][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.28-20.24.40:767][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-20.24.40:783][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-20.24.40:788][762]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.09.28-20.24.40:788][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.09.28-20.24.40:790][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.09.28-20.24.40:808][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.09.28-20.24.40:911][762]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.24.40:924][763]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.09.28-20.24.40:962][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.24.42:373][774]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.28-20.24.42:582][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.09.28-20.24.42:602][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.09.28-20.24.42:621][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.09.28-20.24.42:624][774]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/68/12ABX6II0HZ6HGH6VO939H
+[2023.09.28-20.24.42:625][774]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/12ABX6II0HZ6HGH6VO939H8BC68CF244B6498DD6473EA7BCE46430.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/68/12ABX6II0HZ6HGH6VO939H.uasset'
+[2023.09.28-20.24.42:629][774]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/RQ/LXJ2F781XTAV2UYD2I3P4G
+[2023.09.28-20.24.42:630][774]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/LXJ2F781XTAV2UYD2I3P4G4BFCDBD141AD9D162B5C989628BD9C62.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/RQ/LXJ2F781XTAV2UYD2I3P4G.uasset'
+[2023.09.28-20.24.42:635][774]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/X7/YM5P1VW59C1YY7EXD0L2AV
+[2023.09.28-20.24.42:636][774]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/YM5P1VW59C1YY7EXD0L2AVA3C3738A4D70B5DBEDBB6C829297B848.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/X7/YM5P1VW59C1YY7EXD0L2AV.uasset'
+[2023.09.28-20.24.42:641][774]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/ST/Q1HJGP4ILLHKJ1WVQV51EV
+[2023.09.28-20.24.42:641][774]LogSavePackage: Moving '../../../../../../Epic Games/SportCar/Saved/Q1HJGP4ILLHKJ1WVQV51EV93B75CCE42F0DB4B95C5F88A50E2CC7A.tmp' to '../../../../../../Epic Games/SportCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/ST/Q1HJGP4ILLHKJ1WVQV51EV.uasset'
+[2023.09.28-20.24.42:655][774]LogFileHelpers: InternalPromptForCheckoutAndSave took 281 ms (total: 1.07 sec)
+[2023.09.28-20.24.42:665][774]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.28-20.24.42:666][774]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F5323AC01_1598959005
+[2023.09.28-20.24.42:666][774]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_4CEDFBD84F5323AC01_1528798004
+[2023.09.28-20.24.42:666][774]LogContentValidation: Display: Validating /Game/Blueprints/Dashing.Dashing_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Dashing_C_UAID_4CEDFBD84F535FAD01_1715418572
+[2023.09.28-20.24.42:666][774]LogContentValidation: Display: Validating /Game/Blueprints/NitroBall.NitroBall_C /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.NitroBall_C_UAID_4CEDFBD84F53AAAD01_1845015790
+[2023.09.28-20.24.42:693][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-20.24.42:867][780]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.28-20.24.43:095][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.09.28-20.24.43:115][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.09.28-20.24.43:141][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.09.28-20.24.43:160][780]LogFileHelpers: InternalPromptForCheckoutAndSave took 292 ms (total: 1.37 sec)
