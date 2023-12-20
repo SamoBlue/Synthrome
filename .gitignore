@@ -44,3 +44,5 @@ Saved/AutoScreenshot.png
 *.log
 Saved/Logs/MyProject.log
 Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Intermediate/CachedAssetRegistry.bin
+Saved/Logs/MyProject.log
